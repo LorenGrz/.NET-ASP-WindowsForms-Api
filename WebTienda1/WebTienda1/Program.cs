@@ -2,6 +2,8 @@ var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+builder.Services.AddHttpClient();
+builder.Services.Configure<ApiSetting>(builder.Configuration.GetSection("ApiSettings"));
 
 // Registrar IHttpClientFactory
 builder.Services.AddHttpClient();
