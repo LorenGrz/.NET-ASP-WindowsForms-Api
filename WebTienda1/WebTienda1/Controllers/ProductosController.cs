@@ -24,7 +24,7 @@ namespace WebTienda1.Controllers
         }
 
         // GET: ProductosController
-        public async Task<IActionResult>Index()
+        public async Task<IActionResult> Index()
         {
             var respuesta = await _httpClient.GetAsync("https://localhost:7177/Producto/ListarProductos");
             if (respuesta.IsSuccessStatusCode)
