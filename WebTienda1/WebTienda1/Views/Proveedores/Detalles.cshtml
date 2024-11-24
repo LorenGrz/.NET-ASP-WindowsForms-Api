@@ -1,0 +1,18 @@
+@{
+    ViewData["Title"] = "Detalles";
+}
+
+@model ProyectoCompartido.Proveedor;
+
+<h1>Detalle del Proveedor</h1>
+
+<div>
+    <h6>Nombre: @Model.Nombre</h6>
+    <h6>Email: @Model.Email</h6>
+    <h6>Direccion: @Model.Direccion</h6>
+    <h6>Telefono: @Model.Telefono</h6>
+</div>
+
+<form asp-action="Index" method="get">
+    <button type="submit" class="btn btn-success">Volver</button>
+</form>

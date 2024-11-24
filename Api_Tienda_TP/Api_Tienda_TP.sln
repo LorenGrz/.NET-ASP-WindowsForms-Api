@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Api_Tienda_TP", "Api_Tienda_TP\Api_Tienda_TP.csproj", "{1B421531-23AD-40A1-9DCA-BC7647C4C65E}"
+EndProject
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "ProyectoCompartido", "..\ProyectoCompartido\ProyectoCompartido\ProyectoCompartido.shproj", "{E303B3FF-B08F-4B67-8CB2-8417BE1C6C11}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1B421531-23AD-40A1-9DCA-BC7647C4C65E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B421531-23AD-40A1-9DCA-BC7647C4C65E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B421531-23AD-40A1-9DCA-BC7647C4C65E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B421531-23AD-40A1-9DCA-BC7647C4C65E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D3A77CD1-988E-4A1E-A7FB-4432DA090561}
+	EndGlobalSection
+	GlobalSection(SharedMSBuildProjectFiles) = preSolution
+		..\ProyectoCompartido\ProyectoCompartido\ProyectoCompartido.projitems*{1b421531-23ad-40a1-9dca-bc7647c4c65e}*SharedItemsImports = 5
+		..\ProyectoCompartido\ProyectoCompartido\ProyectoCompartido.projitems*{e303b3ff-b08f-4b67-8cb2-8417be1c6c11}*SharedItemsImports = 13
+	EndGlobalSection
+EndGlobal

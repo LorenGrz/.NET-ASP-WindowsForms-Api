@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "ProyectoCompartido", "ProyectoCompartido\ProyectoCompartido.shproj", "{E303B3FF-B08F-4B67-8CB2-8417BE1C6C11}"
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AD30AC36-7136-4992-9437-954FA439F5A4}
+	EndGlobalSection
+	GlobalSection(SharedMSBuildProjectFiles) = preSolution
+		ProyectoCompartido\ProyectoCompartido.projitems*{e303b3ff-b08f-4b67-8cb2-8417be1c6c11}*SharedItemsImports = 13
+	EndGlobalSection
+EndGlobal

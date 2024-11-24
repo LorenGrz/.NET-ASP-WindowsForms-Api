@@ -1,0 +1,16 @@
+@model ProyectoCompartido.Proveedor;
+
+<h1>Confirmar Eliminacion</h1>
+
+<div>
+    <h5>Estas seguro que deseas eliminar el proveedor?</h5>
+    <h6>Nombre: @Model.Nombre</h6>
+    <h6>Email: @Model.Email</h6>
+    <h6>Direccion: @Model.Direccion</h6>
+    <h6>Telefono: @Model.Telefono</h6>
+</div>
+
+<form asp-action="Eliminar" method="post" asp-route-id="@Model.Id">
+    <button type="submit" class="btn btn-danger">Eliminar</button>
+    <button asp-action="Index" class="btn btn-dark">Cancelar</button>
+</form>

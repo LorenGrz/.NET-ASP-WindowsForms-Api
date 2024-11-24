@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Api_Tienda_TP.props" />
+</Project>

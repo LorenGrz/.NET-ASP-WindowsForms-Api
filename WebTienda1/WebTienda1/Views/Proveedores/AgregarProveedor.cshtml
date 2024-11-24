@@ -1,0 +1,29 @@
+@model ProyectoCompartido.Proveedor;
+
+
+<h1>Agregar Nuevo Proveedor</h1>
+
+<form asp-action="AgregarProveedor">
+    <div class="form-group">
+        <label for="Name">Nombre: </label>
+        <input asp-for="Nombre" class="form-control"/>
+    </div>
+
+    <div class="form-group">
+        <label for="Name">Email: </label>
+        <input asp-for="Email" class="form-control"/>
+    </div>
+
+    <div class="form-group">
+        <label for="Name">Direccion: </label>
+        <input asp-for="Direccion" class="form-control"/>
+    </div>
+
+    <div class="form-group">
+        <label for="Name">Telefono: </label>
+        <input asp-for="Telefono" class="form-control"/>
+    </div>
+
+    <button type="submit" class="btn btn-primary">Guardar</button>
+    <button type= "submit" asp-action="Index" class="btn btn-success">Volver a la lista de proveedores</button>
+</form>

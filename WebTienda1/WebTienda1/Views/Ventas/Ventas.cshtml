@@ -1,0 +1,33 @@
+﻿@*
+    Index de las Ventas
+*@
+@model List<ProyectoCompartido.Venta>
+
+<h2>Lista de Ventas</h2>
+<br />
+<a asp-action="AgregarVenta" class="btn btn-success">Agregar Venta</a>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Fecha de la Venta</th>
+            <th>Cantidad Vendida</th>
+            <th>Total de la Venta</th>
+            <th>Opciones</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var venta in Model)
+        {
+            <tr>
+                <td>@venta.Fecha</td>
+                <td>@venta.CantidadVendida</td>
+                <td>@venta.TotalVenta</td>
+                <td>
+                    <a asp-action="Detalles" asp-route-id="@venta.Id" class="btn btn-primary">Detalle</a>
+                    <a asp-action="EliminarVenta" asp-route-id="@venta.Id" class="btn btn-danger">Eliminar</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

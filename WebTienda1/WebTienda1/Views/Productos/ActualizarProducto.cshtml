@@ -1,0 +1,35 @@
+@model ProyectoCompartido.Producto;
+
+
+<h1>Actualizar Producto</h1>
+
+<form asp-action="ActualizarProducto" asp-route-id="@Model.Id">
+    <div class="form-group">
+        <label for="Name">Nombre: </label>
+        <input asp-for="Nombre" class="form-control"/>
+    </div>
+
+    <div class="form-group">
+        <label for="Name">Precio: </label>
+        <input asp-for="Precio" class="form-control"/>
+    </div>
+
+    <div class="form-group">
+        <label for="Name">Cantidad: </label>
+        <input asp-for="Cantidad" class="form-control"/>
+    </div>
+
+    <div class="form-group">
+        <label for="Name">Descripcion: </label>
+        <input asp-for="Descripcion" class="form-control"/>
+    </div>
+
+    <div class="form-group">
+        <label for="Name">Proveedor: </label>
+        <input asp-for="ProveedorID" class="form-control" />
+
+    </div>
+
+    <button type="submit" class="btn btn-warning">Guardar Cambios</button>
+    <button asp-action="Index" class="btn btn-dark">Cancelar</button>
+</form>

@@ -1,0 +1,32 @@
+﻿@*
+    Index de los Proveedores
+*@
+@model List<ProyectoCompartido.Proveedor>
+
+<h2>Lista de Proveedores</h2>
+<br />
+<a asp-action="AgregarVenta" class="btn btn-success">Agregar Proveedor</a>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Nombre</th>
+            <th>Telefono</th>
+            <th>Opciones</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var proveedor in Model)
+        {
+            <tr>
+                <td>@proveedor.Nombre</td>
+                <td>@proveedor.Telefono</td>
+                <td>
+                    <a asp-action="Detalles" asp-route-id="@proveedor.Id" class="btn btn-primary">Detalle</a>
+                    <a asp-action="ModificarProveedor" asp-route-id="@proveedor.Id" class="btn btn-warning">Modificar</a>
+                    <a asp-action="EliminarProveedor" asp-route-id="@proveedor.Id" class="btn btn-danger">Eliminar</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

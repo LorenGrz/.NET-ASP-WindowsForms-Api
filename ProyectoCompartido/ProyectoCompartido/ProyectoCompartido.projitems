@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <MSBuildAllProjects Condition="'$(MSBuildVersion)' == '' Or '$(MSBuildVersion)' &lt; '16.0'">$(MSBuildAllProjects);$(MSBuildThisFileFullPath)</MSBuildAllProjects>
+    <HasSharedItems>true</HasSharedItems>
+    <SharedGUID>e303b3ff-b08f-4b67-8cb2-8417be1c6c11</SharedGUID>
+  </PropertyGroup>
+  <PropertyGroup Label="Configuration">
+    <Import_RootNamespace>ProyectoCompartido</Import_RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="$(MSBuildThisFileDirectory)Cliente.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Enumeradores.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Producto.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)ProductoAPilas.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)ProductoElectronico.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Proveedor.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Venta.cs" />
+  </ItemGroup>
+</Project>

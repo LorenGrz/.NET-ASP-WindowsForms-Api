@@ -1,0 +1,20 @@
+@{
+    ViewData["Title"] = "Detalles";
+}
+
+@model ProyectoCompartido.Venta;
+
+<h1>Detalle de la Venta</h1>
+
+<div>
+    <h6>Id de la Venta: @Model.Id</h6>
+    <h6>Fecha: @Model.Fecha</h6>
+    <h6>Id del Producto Comprado: @Model.IdProducto</h6>
+    <h6>Precio de el Producto: @Model.PrecioVenta</h6>
+    <h6>Cantidad Vendida: @Model.CantidadVendida</h6>
+    <h6>Total de la Venta: @Model.TotalVenta</h6>
+</div>
+
+<form asp-action="Index" method="get">
+    <button type="submit" class="btn btn-success">Volver</button>
+</form>

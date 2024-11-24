@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ControlStockWindowsForms", "ControlStockWindowsForms\ControlStockWindowsForms.csproj", "{5525298A-8053-4973-A275-74903902342F}"
+EndProject
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "ProyectoCompartido", "..\ProyectoCompartido\ProyectoCompartido\ProyectoCompartido.shproj", "{E303B3FF-B08F-4B67-8CB2-8417BE1C6C11}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5525298A-8053-4973-A275-74903902342F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5525298A-8053-4973-A275-74903902342F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5525298A-8053-4973-A275-74903902342F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5525298A-8053-4973-A275-74903902342F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0CE162C5-901D-42F5-B5CC-59BF24C70D69}
+	EndGlobalSection
+	GlobalSection(SharedMSBuildProjectFiles) = preSolution
+		..\ProyectoCompartido\ProyectoCompartido\ProyectoCompartido.projitems*{5525298a-8053-4973-a275-74903902342f}*SharedItemsImports = 5
+		..\ProyectoCompartido\ProyectoCompartido\ProyectoCompartido.projitems*{e303b3ff-b08f-4b67-8cb2-8417be1c6c11}*SharedItemsImports = 13
+	EndGlobalSection
+EndGlobal
