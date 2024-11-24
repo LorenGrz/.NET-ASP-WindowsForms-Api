@@ -26,7 +26,7 @@ namespace WebTienda1.Controllers
         // GET: ProductosController
         public async Task<IActionResult>Index()
         {
-            var respuesta = await _httpClient.GetAsync("/Producto/ListarProductos");
+            var respuesta = await _httpClient.GetAsync("https://localhost:7177/Producto/ListarProductos");
             if (respuesta.IsSuccessStatusCode)
             {
                 var contenido = await respuesta.Content.ReadAsStringAsync();
@@ -41,7 +41,7 @@ namespace WebTienda1.Controllers
 
         public async Task<IActionResult> Detalles(int id)
         {
-            var respuesta = await _httpClient.GetAsync($"/Producto/ObtenerProductoPorId?_id={id}");
+            var respuesta = await _httpClient.GetAsync($"https://localhost:7177/Producto/ObtenerProductoPorId?_id={id}");
             if (respuesta.IsSuccessStatusCode)
             {
                 var contenido = await respuesta.Content.ReadAsStringAsync();
@@ -62,7 +62,7 @@ namespace WebTienda1.Controllers
         [HttpPost]
         public async Task<IActionResult> AgregarProducto(Producto productoVista)
         {
-            var respuesta = await _httpClient.PostAsJsonAsync("/Producto/RegistrarProducto", productoVista);
+            var respuesta = await _httpClient.PostAsJsonAsync("https://localhost:7177/Producto/RegistrarProducto", productoVista);
             if (respuesta.IsSuccessStatusCode)
             {
                 return RedirectToAction(nameof(Index));
@@ -75,7 +75,7 @@ namespace WebTienda1.Controllers
 
         public async Task<IActionResult> ActualizarProducto(int id)
         {
-            var respuesta = await _httpClient.GetAsync($"/Producto/ObtenerProductoPorId?_id={id}");
+            var respuesta = await _httpClient.GetAsync($"https://localhost:7177/Producto/ObtenerProductoPorId?_id={id}");
             if (respuesta.IsSuccessStatusCode)
             {
                 var contenido = await respuesta.Content.ReadAsStringAsync();
@@ -91,7 +91,7 @@ namespace WebTienda1.Controllers
         [HttpPut]
         public async Task<IActionResult> ActualizarProducto(int id, Producto producto)
         {
-            var respuesta = await _httpClient.PutAsJsonAsync($"/Producto/ModificarProducto?_id={id}", producto);
+            var respuesta = await _httpClient.PutAsJsonAsync($"https://localhost:7177/Producto/ModificarProducto?_id={id}", producto);
             if (respuesta.IsSuccessStatusCode)
             {
                 return RedirectToAction(nameof(Index));
@@ -104,7 +104,7 @@ namespace WebTienda1.Controllers
 
         public async Task<IActionResult> EliminarProducto(int id)
         {
-            var respuesta = await _httpClient.GetAsync($"/Producto/ObtenerProductoPorId?_id={id}");
+            var respuesta = await _httpClient.GetAsync($"https://localhost:7177/Producto/ObtenerProductoPorId?_id={id}");
             if (respuesta.IsSuccessStatusCode)
             {
                 var contenido = await respuesta.Content.ReadAsStringAsync();
@@ -120,7 +120,7 @@ namespace WebTienda1.Controllers
         [HttpDelete, ActionName("Eliminar")]
         public async Task<IActionResult> ConfirmarEliminacionProducto(int id)
         {
-            var respuesta = await _httpClient.DeleteAsync($"/Producto/EliminarProducto?_id={id}");
+            var respuesta = await _httpClient.DeleteAsync($"https://localhost:7177/Producto/EliminarProducto?_id={id}");
             if (respuesta.IsSuccessStatusCode)
             {
                 return RedirectToAction(nameof(Index));
