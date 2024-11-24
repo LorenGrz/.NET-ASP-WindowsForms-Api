@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "iSH2fSyFtSg=",
+  "dgSpecHash": "xSvWmAZBOtg=",
   "success": true,
-  "projectFilePath": "C:\\Users\\loren\\source\\repos\\WebTienda1\\WebTienda1\\WebTienda1.csproj",
+  "projectFilePath": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\WebTienda1\\WebTienda1\\WebTienda1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\loren\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
   ],

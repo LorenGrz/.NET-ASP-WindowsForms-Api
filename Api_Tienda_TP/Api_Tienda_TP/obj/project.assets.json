@@ -2983,11 +2983,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\loren\\source\\repos\\Api_Tienda_TP\\Api_Tienda_TP\\Api_Tienda_TP.csproj",
+      "projectUniqueName": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\Api_Tienda_TP\\Api_Tienda_TP\\Api_Tienda_TP.csproj",
       "projectName": "Api_Tienda_TP",
-      "projectPath": "C:\\Users\\loren\\source\\repos\\Api_Tienda_TP\\Api_Tienda_TP\\Api_Tienda_TP.csproj",
+      "projectPath": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\Api_Tienda_TP\\Api_Tienda_TP\\Api_Tienda_TP.csproj",
       "packagesPath": "C:\\Users\\loren\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\loren\\source\\repos\\Api_Tienda_TP\\Api_Tienda_TP\\obj\\",
+      "outputPath": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\Api_Tienda_TP\\Api_Tienda_TP\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

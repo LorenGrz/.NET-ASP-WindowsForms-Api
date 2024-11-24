@@ -1,119 +1,119 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\loren\\source\\repos\\ControlStockWindowsForms\\",
+  "WorkspaceRootPath": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\ControlStockWindowsForms\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5525298A-8053-4973-A275-74903902342F}|ControlStockWindowsForms\\ControlStockWindowsForms.csproj|c:\\users\\loren\\source\\repos\\controlstockwindowsforms\\controlstockwindowsforms\\eliminarproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5525298A-8053-4973-A275-74903902342F}|ControlStockWindowsForms\\ControlStockWindowsForms.csproj|c:\\users\\loren\\onedrive\\escritorio\\curso .net\\.net-asp-windowsforms-api\\controlstockwindowsforms\\controlstockwindowsforms\\eliminarproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5525298A-8053-4973-A275-74903902342F}|ControlStockWindowsForms\\ControlStockWindowsForms.csproj|solutionrelative:controlstockwindowsforms\\eliminarproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5525298A-8053-4973-A275-74903902342F}|ControlStockWindowsForms\\ControlStockWindowsForms.csproj|c:\\users\\loren\\source\\repos\\controlstockwindowsforms\\controlstockwindowsforms\\ui_productos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5525298A-8053-4973-A275-74903902342F}|ControlStockWindowsForms\\ControlStockWindowsForms.csproj|c:\\users\\loren\\onedrive\\escritorio\\curso .net\\.net-asp-windowsforms-api\\controlstockwindowsforms\\controlstockwindowsforms\\ui_productos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5525298A-8053-4973-A275-74903902342F}|ControlStockWindowsForms\\ControlStockWindowsForms.csproj|solutionrelative:controlstockwindowsforms\\ui_productos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5525298A-8053-4973-A275-74903902342F}|ControlStockWindowsForms\\ControlStockWindowsForms.csproj|c:\\users\\loren\\source\\repos\\controlstockwindowsforms\\controlstockwindowsforms\\modificarproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5525298A-8053-4973-A275-74903902342F}|ControlStockWindowsForms\\ControlStockWindowsForms.csproj|c:\\users\\loren\\onedrive\\escritorio\\curso .net\\.net-asp-windowsforms-api\\controlstockwindowsforms\\controlstockwindowsforms\\modificarproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5525298A-8053-4973-A275-74903902342F}|ControlStockWindowsForms\\ControlStockWindowsForms.csproj|solutionrelative:controlstockwindowsforms\\modificarproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5525298A-8053-4973-A275-74903902342F}|ControlStockWindowsForms\\ControlStockWindowsForms.csproj|c:\\users\\loren\\source\\repos\\controlstockwindowsforms\\controlstockwindowsforms\\ui_proveedores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5525298A-8053-4973-A275-74903902342F}|ControlStockWindowsForms\\ControlStockWindowsForms.csproj|c:\\users\\loren\\onedrive\\escritorio\\curso .net\\.net-asp-windowsforms-api\\controlstockwindowsforms\\controlstockwindowsforms\\ui_proveedores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5525298A-8053-4973-A275-74903902342F}|ControlStockWindowsForms\\ControlStockWindowsForms.csproj|solutionrelative:controlstockwindowsforms\\ui_proveedores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5525298A-8053-4973-A275-74903902342F}|ControlStockWindowsForms\\ControlStockWindowsForms.csproj|c:\\users\\loren\\source\\repos\\controlstockwindowsforms\\controlstockwindowsforms\\ui_tienda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5525298A-8053-4973-A275-74903902342F}|ControlStockWindowsForms\\ControlStockWindowsForms.csproj|c:\\users\\loren\\onedrive\\escritorio\\curso .net\\.net-asp-windowsforms-api\\controlstockwindowsforms\\controlstockwindowsforms\\ui_tienda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5525298A-8053-4973-A275-74903902342F}|ControlStockWindowsForms\\ControlStockWindowsForms.csproj|solutionrelative:controlstockwindowsforms\\ui_tienda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5525298A-8053-4973-A275-74903902342F}|ControlStockWindowsForms\\ControlStockWindowsForms.csproj|c:\\users\\loren\\source\\repos\\controlstockwindowsforms\\controlstockwindowsforms\\modificarproveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5525298A-8053-4973-A275-74903902342F}|ControlStockWindowsForms\\ControlStockWindowsForms.csproj|c:\\users\\loren\\onedrive\\escritorio\\curso .net\\.net-asp-windowsforms-api\\controlstockwindowsforms\\controlstockwindowsforms\\modificarproveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5525298A-8053-4973-A275-74903902342F}|ControlStockWindowsForms\\ControlStockWindowsForms.csproj|solutionrelative:controlstockwindowsforms\\modificarproveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5525298A-8053-4973-A275-74903902342F}|ControlStockWindowsForms\\ControlStockWindowsForms.csproj|c:\\users\\loren\\source\\repos\\controlstockwindowsforms\\controlstockwindowsforms\\ui_ventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5525298A-8053-4973-A275-74903902342F}|ControlStockWindowsForms\\ControlStockWindowsForms.csproj|c:\\users\\loren\\onedrive\\escritorio\\curso .net\\.net-asp-windowsforms-api\\controlstockwindowsforms\\controlstockwindowsforms\\ui_ventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5525298A-8053-4973-A275-74903902342F}|ControlStockWindowsForms\\ControlStockWindowsForms.csproj|solutionrelative:controlstockwindowsforms\\ui_ventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5525298A-8053-4973-A275-74903902342F}|ControlStockWindowsForms\\ControlStockWindowsForms.csproj|c:\\users\\loren\\source\\repos\\controlstockwindowsforms\\controlstockwindowsforms\\registroventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5525298A-8053-4973-A275-74903902342F}|ControlStockWindowsForms\\ControlStockWindowsForms.csproj|c:\\users\\loren\\onedrive\\escritorio\\curso .net\\.net-asp-windowsforms-api\\controlstockwindowsforms\\controlstockwindowsforms\\registroventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5525298A-8053-4973-A275-74903902342F}|ControlStockWindowsForms\\ControlStockWindowsForms.csproj|solutionrelative:controlstockwindowsforms\\registroventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5525298A-8053-4973-A275-74903902342F}|ControlStockWindowsForms\\ControlStockWindowsForms.csproj|c:\\users\\loren\\source\\repos\\controlstockwindowsforms\\controlstockwindowsforms\\registroproveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5525298A-8053-4973-A275-74903902342F}|ControlStockWindowsForms\\ControlStockWindowsForms.csproj|c:\\users\\loren\\onedrive\\escritorio\\curso .net\\.net-asp-windowsforms-api\\controlstockwindowsforms\\controlstockwindowsforms\\registroproveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5525298A-8053-4973-A275-74903902342F}|ControlStockWindowsForms\\ControlStockWindowsForms.csproj|solutionrelative:controlstockwindowsforms\\registroproveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5525298A-8053-4973-A275-74903902342F}|ControlStockWindowsForms\\ControlStockWindowsForms.csproj|c:\\users\\loren\\source\\repos\\controlstockwindowsforms\\controlstockwindowsforms\\registroproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5525298A-8053-4973-A275-74903902342F}|ControlStockWindowsForms\\ControlStockWindowsForms.csproj|c:\\users\\loren\\onedrive\\escritorio\\curso .net\\.net-asp-windowsforms-api\\controlstockwindowsforms\\controlstockwindowsforms\\registroproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5525298A-8053-4973-A275-74903902342F}|ControlStockWindowsForms\\ControlStockWindowsForms.csproj|solutionrelative:controlstockwindowsforms\\registroproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5525298A-8053-4973-A275-74903902342F}|ControlStockWindowsForms\\ControlStockWindowsForms.csproj|c:\\users\\loren\\source\\repos\\controlstockwindowsforms\\controlstockwindowsforms\\eliminarventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5525298A-8053-4973-A275-74903902342F}|ControlStockWindowsForms\\ControlStockWindowsForms.csproj|c:\\users\\loren\\onedrive\\escritorio\\curso .net\\.net-asp-windowsforms-api\\controlstockwindowsforms\\controlstockwindowsforms\\eliminarventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5525298A-8053-4973-A275-74903902342F}|ControlStockWindowsForms\\ControlStockWindowsForms.csproj|solutionrelative:controlstockwindowsforms\\eliminarventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5525298A-8053-4973-A275-74903902342F}|ControlStockWindowsForms\\ControlStockWindowsForms.csproj|c:\\users\\loren\\source\\repos\\controlstockwindowsforms\\controlstockwindowsforms\\eliminarproveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5525298A-8053-4973-A275-74903902342F}|ControlStockWindowsForms\\ControlStockWindowsForms.csproj|c:\\users\\loren\\onedrive\\escritorio\\curso .net\\.net-asp-windowsforms-api\\controlstockwindowsforms\\controlstockwindowsforms\\eliminarproveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5525298A-8053-4973-A275-74903902342F}|ControlStockWindowsForms\\ControlStockWindowsForms.csproj|solutionrelative:controlstockwindowsforms\\eliminarproveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E303B3FF-B08F-4B67-8CB2-8417BE1C6C11}|..\\ProyectoCompartido\\ProyectoCompartido\\ProyectoCompartido.shproj|c:\\users\\loren\\source\\repos\\proyectocompartido\\proyectocompartido\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E303B3FF-B08F-4B67-8CB2-8417BE1C6C11}|..\\ProyectoCompartido\\ProyectoCompartido\\ProyectoCompartido.shproj|c:\\users\\loren\\source\\repos\\proyectocompartido\\proyectocompartido\\enumeradores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E303B3FF-B08F-4B67-8CB2-8417BE1C6C11}|..\\ProyectoCompartido\\ProyectoCompartido\\ProyectoCompartido.shproj|c:\\users\\loren\\source\\repos\\proyectocompartido\\proyectocompartido\\productoapilas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5525298A-8053-4973-A275-74903902342F}|ControlStockWindowsForms\\ControlStockWindowsForms.csproj|C:\\Users\\loren\\source\\repos\\ControlStockWindowsForms\\controlstockwindowsforms\\modificarproveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{5525298A-8053-4973-A275-74903902342F}|ControlStockWindowsForms\\ControlStockWindowsForms.csproj|C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\ControlStockWindowsForms\\controlstockwindowsforms\\modificarproveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{5525298A-8053-4973-A275-74903902342F}|ControlStockWindowsForms\\ControlStockWindowsForms.csproj|solutionrelative:controlstockwindowsforms\\modificarproveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5525298A-8053-4973-A275-74903902342F}|ControlStockWindowsForms\\ControlStockWindowsForms.csproj|C:\\Users\\loren\\source\\repos\\ControlStockWindowsForms\\controlstockwindowsforms\\modificarproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{5525298A-8053-4973-A275-74903902342F}|ControlStockWindowsForms\\ControlStockWindowsForms.csproj|C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\ControlStockWindowsForms\\controlstockwindowsforms\\modificarproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{5525298A-8053-4973-A275-74903902342F}|ControlStockWindowsForms\\ControlStockWindowsForms.csproj|solutionrelative:controlstockwindowsforms\\modificarproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5525298A-8053-4973-A275-74903902342F}|ControlStockWindowsForms\\ControlStockWindowsForms.csproj|C:\\Users\\loren\\source\\repos\\ControlStockWindowsForms\\controlstockwindowsforms\\registroventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{5525298A-8053-4973-A275-74903902342F}|ControlStockWindowsForms\\ControlStockWindowsForms.csproj|C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\ControlStockWindowsForms\\controlstockwindowsforms\\registroventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{5525298A-8053-4973-A275-74903902342F}|ControlStockWindowsForms\\ControlStockWindowsForms.csproj|solutionrelative:controlstockwindowsforms\\registroventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5525298A-8053-4973-A275-74903902342F}|ControlStockWindowsForms\\ControlStockWindowsForms.csproj|C:\\Users\\loren\\source\\repos\\ControlStockWindowsForms\\controlstockwindowsforms\\eliminarproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{5525298A-8053-4973-A275-74903902342F}|ControlStockWindowsForms\\ControlStockWindowsForms.csproj|C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\ControlStockWindowsForms\\controlstockwindowsforms\\eliminarproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{5525298A-8053-4973-A275-74903902342F}|ControlStockWindowsForms\\ControlStockWindowsForms.csproj|solutionrelative:controlstockwindowsforms\\eliminarproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5525298A-8053-4973-A275-74903902342F}|ControlStockWindowsForms\\ControlStockWindowsForms.csproj|C:\\Users\\loren\\source\\repos\\ControlStockWindowsForms\\controlstockwindowsforms\\ui_productos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{5525298A-8053-4973-A275-74903902342F}|ControlStockWindowsForms\\ControlStockWindowsForms.csproj|C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\ControlStockWindowsForms\\controlstockwindowsforms\\ui_productos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{5525298A-8053-4973-A275-74903902342F}|ControlStockWindowsForms\\ControlStockWindowsForms.csproj|solutionrelative:controlstockwindowsforms\\ui_productos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5525298A-8053-4973-A275-74903902342F}|ControlStockWindowsForms\\ControlStockWindowsForms.csproj|C:\\Users\\loren\\source\\repos\\ControlStockWindowsForms\\controlstockwindowsforms\\eliminarventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{5525298A-8053-4973-A275-74903902342F}|ControlStockWindowsForms\\ControlStockWindowsForms.csproj|C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\ControlStockWindowsForms\\controlstockwindowsforms\\eliminarventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{5525298A-8053-4973-A275-74903902342F}|ControlStockWindowsForms\\ControlStockWindowsForms.csproj|solutionrelative:controlstockwindowsforms\\eliminarventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5525298A-8053-4973-A275-74903902342F}|ControlStockWindowsForms\\ControlStockWindowsForms.csproj|C:\\Users\\loren\\source\\repos\\ControlStockWindowsForms\\controlstockwindowsforms\\ui_ventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{5525298A-8053-4973-A275-74903902342F}|ControlStockWindowsForms\\ControlStockWindowsForms.csproj|C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\ControlStockWindowsForms\\controlstockwindowsforms\\ui_ventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{5525298A-8053-4973-A275-74903902342F}|ControlStockWindowsForms\\ControlStockWindowsForms.csproj|solutionrelative:controlstockwindowsforms\\ui_ventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5525298A-8053-4973-A275-74903902342F}|ControlStockWindowsForms\\ControlStockWindowsForms.csproj|C:\\Users\\loren\\source\\repos\\ControlStockWindowsForms\\controlstockwindowsforms\\eliminarproveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{5525298A-8053-4973-A275-74903902342F}|ControlStockWindowsForms\\ControlStockWindowsForms.csproj|C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\ControlStockWindowsForms\\controlstockwindowsforms\\eliminarproveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{5525298A-8053-4973-A275-74903902342F}|ControlStockWindowsForms\\ControlStockWindowsForms.csproj|solutionrelative:controlstockwindowsforms\\eliminarproveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5525298A-8053-4973-A275-74903902342F}|ControlStockWindowsForms\\ControlStockWindowsForms.csproj|C:\\Users\\loren\\source\\repos\\ControlStockWindowsForms\\controlstockwindowsforms\\ui_proveedores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{5525298A-8053-4973-A275-74903902342F}|ControlStockWindowsForms\\ControlStockWindowsForms.csproj|C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\ControlStockWindowsForms\\controlstockwindowsforms\\ui_proveedores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{5525298A-8053-4973-A275-74903902342F}|ControlStockWindowsForms\\ControlStockWindowsForms.csproj|solutionrelative:controlstockwindowsforms\\ui_proveedores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5525298A-8053-4973-A275-74903902342F}|ControlStockWindowsForms\\ControlStockWindowsForms.csproj|C:\\Users\\loren\\source\\repos\\ControlStockWindowsForms\\controlstockwindowsforms\\ui_tienda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{5525298A-8053-4973-A275-74903902342F}|ControlStockWindowsForms\\ControlStockWindowsForms.csproj|C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\ControlStockWindowsForms\\controlstockwindowsforms\\ui_tienda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{5525298A-8053-4973-A275-74903902342F}|ControlStockWindowsForms\\ControlStockWindowsForms.csproj|solutionrelative:controlstockwindowsforms\\ui_tienda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5525298A-8053-4973-A275-74903902342F}|ControlStockWindowsForms\\ControlStockWindowsForms.csproj|C:\\Users\\loren\\source\\repos\\ControlStockWindowsForms\\controlstockwindowsforms\\registroproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{5525298A-8053-4973-A275-74903902342F}|ControlStockWindowsForms\\ControlStockWindowsForms.csproj|C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\ControlStockWindowsForms\\controlstockwindowsforms\\registroproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{5525298A-8053-4973-A275-74903902342F}|ControlStockWindowsForms\\ControlStockWindowsForms.csproj|solutionrelative:controlstockwindowsforms\\registroproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5525298A-8053-4973-A275-74903902342F}|ControlStockWindowsForms\\ControlStockWindowsForms.csproj|C:\\Users\\loren\\source\\repos\\ControlStockWindowsForms\\controlstockwindowsforms\\registroproveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{5525298A-8053-4973-A275-74903902342F}|ControlStockWindowsForms\\ControlStockWindowsForms.csproj|C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\ControlStockWindowsForms\\controlstockwindowsforms\\registroproveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{5525298A-8053-4973-A275-74903902342F}|ControlStockWindowsForms\\ControlStockWindowsForms.csproj|solutionrelative:controlstockwindowsforms\\registroproveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5525298A-8053-4973-A275-74903902342F}|ControlStockWindowsForms\\ControlStockWindowsForms.csproj|c:\\users\\loren\\source\\repos\\controlstockwindowsforms\\controlstockwindowsforms\\ui_proveedores.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5525298A-8053-4973-A275-74903902342F}|ControlStockWindowsForms\\ControlStockWindowsForms.csproj|c:\\users\\loren\\onedrive\\escritorio\\curso .net\\.net-asp-windowsforms-api\\controlstockwindowsforms\\controlstockwindowsforms\\ui_proveedores.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5525298A-8053-4973-A275-74903902342F}|ControlStockWindowsForms\\ControlStockWindowsForms.csproj|solutionrelative:controlstockwindowsforms\\ui_proveedores.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5525298A-8053-4973-A275-74903902342F}|ControlStockWindowsForms\\ControlStockWindowsForms.csproj|c:\\users\\loren\\source\\repos\\controlstockwindowsforms\\controlstockwindowsforms\\registroproveedor.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5525298A-8053-4973-A275-74903902342F}|ControlStockWindowsForms\\ControlStockWindowsForms.csproj|c:\\users\\loren\\onedrive\\escritorio\\curso .net\\.net-asp-windowsforms-api\\controlstockwindowsforms\\controlstockwindowsforms\\registroproveedor.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5525298A-8053-4973-A275-74903902342F}|ControlStockWindowsForms\\ControlStockWindowsForms.csproj|solutionrelative:controlstockwindowsforms\\registroproveedor.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\loren\\source\\repos\\ProyectoCompartido\\ProyectoCompartido\\Producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\loren\\source\\repos\\ProyectoCompartido\\ProyectoCompartido\\Enumeradores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\loren\\source\\repos\\ProyectoCompartido\\ProyectoCompartido\\ProductoAPilas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -129,9 +129,9 @@
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "RegistroVentas.cs",
-              "DocumentMoniker": "C:\\Users\\loren\\source\\repos\\ControlStockWindowsForms\\ControlStockWindowsForms\\RegistroVentas.cs",
+              "DocumentMoniker": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\ControlStockWindowsForms\\ControlStockWindowsForms\\RegistroVentas.cs",
               "RelativeDocumentMoniker": "ControlStockWindowsForms\\RegistroVentas.cs",
-              "ToolTip": "C:\\Users\\loren\\source\\repos\\ControlStockWindowsForms\\ControlStockWindowsForms\\RegistroVentas.cs",
+              "ToolTip": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\ControlStockWindowsForms\\ControlStockWindowsForms\\RegistroVentas.cs",
               "RelativeToolTip": "ControlStockWindowsForms\\RegistroVentas.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -142,9 +142,9 @@
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "UI_Ventas.cs",
-              "DocumentMoniker": "C:\\Users\\loren\\source\\repos\\ControlStockWindowsForms\\ControlStockWindowsForms\\UI_Ventas.cs",
+              "DocumentMoniker": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\ControlStockWindowsForms\\ControlStockWindowsForms\\UI_Ventas.cs",
               "RelativeDocumentMoniker": "ControlStockWindowsForms\\UI_Ventas.cs",
-              "ToolTip": "C:\\Users\\loren\\source\\repos\\ControlStockWindowsForms\\ControlStockWindowsForms\\UI_Ventas.cs",
+              "ToolTip": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\ControlStockWindowsForms\\ControlStockWindowsForms\\UI_Ventas.cs",
               "RelativeToolTip": "ControlStockWindowsForms\\UI_Ventas.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -155,9 +155,9 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "ModificarProveedor.cs",
-              "DocumentMoniker": "C:\\Users\\loren\\source\\repos\\ControlStockWindowsForms\\ControlStockWindowsForms\\ModificarProveedor.cs",
+              "DocumentMoniker": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\ControlStockWindowsForms\\ControlStockWindowsForms\\ModificarProveedor.cs",
               "RelativeDocumentMoniker": "ControlStockWindowsForms\\ModificarProveedor.cs",
-              "ToolTip": "C:\\Users\\loren\\source\\repos\\ControlStockWindowsForms\\ControlStockWindowsForms\\ModificarProveedor.cs",
+              "ToolTip": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\ControlStockWindowsForms\\ControlStockWindowsForms\\ModificarProveedor.cs",
               "RelativeToolTip": "ControlStockWindowsForms\\ModificarProveedor.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -168,9 +168,9 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "UI_Tienda.cs",
-              "DocumentMoniker": "C:\\Users\\loren\\source\\repos\\ControlStockWindowsForms\\ControlStockWindowsForms\\UI_Tienda.cs",
+              "DocumentMoniker": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\ControlStockWindowsForms\\ControlStockWindowsForms\\UI_Tienda.cs",
               "RelativeDocumentMoniker": "ControlStockWindowsForms\\UI_Tienda.cs",
-              "ToolTip": "C:\\Users\\loren\\source\\repos\\ControlStockWindowsForms\\ControlStockWindowsForms\\UI_Tienda.cs",
+              "ToolTip": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\ControlStockWindowsForms\\ControlStockWindowsForms\\UI_Tienda.cs",
               "RelativeToolTip": "ControlStockWindowsForms\\UI_Tienda.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -181,9 +181,9 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "UI_Proveedores.cs",
-              "DocumentMoniker": "C:\\Users\\loren\\source\\repos\\ControlStockWindowsForms\\ControlStockWindowsForms\\UI_Proveedores.cs",
+              "DocumentMoniker": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\ControlStockWindowsForms\\ControlStockWindowsForms\\UI_Proveedores.cs",
               "RelativeDocumentMoniker": "ControlStockWindowsForms\\UI_Proveedores.cs",
-              "ToolTip": "C:\\Users\\loren\\source\\repos\\ControlStockWindowsForms\\ControlStockWindowsForms\\UI_Proveedores.cs",
+              "ToolTip": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\ControlStockWindowsForms\\ControlStockWindowsForms\\UI_Proveedores.cs",
               "RelativeToolTip": "ControlStockWindowsForms\\UI_Proveedores.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -194,9 +194,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "UI_Productos.cs",
-              "DocumentMoniker": "C:\\Users\\loren\\source\\repos\\ControlStockWindowsForms\\ControlStockWindowsForms\\UI_Productos.cs",
+              "DocumentMoniker": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\ControlStockWindowsForms\\ControlStockWindowsForms\\UI_Productos.cs",
               "RelativeDocumentMoniker": "ControlStockWindowsForms\\UI_Productos.cs",
-              "ToolTip": "C:\\Users\\loren\\source\\repos\\ControlStockWindowsForms\\ControlStockWindowsForms\\UI_Productos.cs",
+              "ToolTip": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\ControlStockWindowsForms\\ControlStockWindowsForms\\UI_Productos.cs",
               "RelativeToolTip": "ControlStockWindowsForms\\UI_Productos.cs",
               "ViewState": "AgIAAEEAAAAAAAAAAAAgwE8AAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -207,9 +207,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "ModificarProducto.cs",
-              "DocumentMoniker": "C:\\Users\\loren\\source\\repos\\ControlStockWindowsForms\\ControlStockWindowsForms\\ModificarProducto.cs",
+              "DocumentMoniker": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\ControlStockWindowsForms\\ControlStockWindowsForms\\ModificarProducto.cs",
               "RelativeDocumentMoniker": "ControlStockWindowsForms\\ModificarProducto.cs",
-              "ToolTip": "C:\\Users\\loren\\source\\repos\\ControlStockWindowsForms\\ControlStockWindowsForms\\ModificarProducto.cs",
+              "ToolTip": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\ControlStockWindowsForms\\ControlStockWindowsForms\\ModificarProducto.cs",
               "RelativeToolTip": "ControlStockWindowsForms\\ModificarProducto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -220,9 +220,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "EliminarProducto.cs",
-              "DocumentMoniker": "C:\\Users\\loren\\source\\repos\\ControlStockWindowsForms\\ControlStockWindowsForms\\EliminarProducto.cs",
+              "DocumentMoniker": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\ControlStockWindowsForms\\ControlStockWindowsForms\\EliminarProducto.cs",
               "RelativeDocumentMoniker": "ControlStockWindowsForms\\EliminarProducto.cs",
-              "ToolTip": "C:\\Users\\loren\\source\\repos\\ControlStockWindowsForms\\ControlStockWindowsForms\\EliminarProducto.cs",
+              "ToolTip": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\ControlStockWindowsForms\\ControlStockWindowsForms\\EliminarProducto.cs",
               "RelativeToolTip": "ControlStockWindowsForms\\EliminarProducto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAD8AAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -233,9 +233,9 @@
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "RegistroProveedor.cs",
-              "DocumentMoniker": "C:\\Users\\loren\\source\\repos\\ControlStockWindowsForms\\ControlStockWindowsForms\\RegistroProveedor.cs",
+              "DocumentMoniker": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\ControlStockWindowsForms\\ControlStockWindowsForms\\RegistroProveedor.cs",
               "RelativeDocumentMoniker": "ControlStockWindowsForms\\RegistroProveedor.cs",
-              "ToolTip": "C:\\Users\\loren\\source\\repos\\ControlStockWindowsForms\\ControlStockWindowsForms\\RegistroProveedor.cs",
+              "ToolTip": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\ControlStockWindowsForms\\ControlStockWindowsForms\\RegistroProveedor.cs",
               "RelativeToolTip": "ControlStockWindowsForms\\RegistroProveedor.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -246,9 +246,9 @@
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "RegistroProductos.cs",
-              "DocumentMoniker": "C:\\Users\\loren\\source\\repos\\ControlStockWindowsForms\\ControlStockWindowsForms\\RegistroProductos.cs",
+              "DocumentMoniker": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\ControlStockWindowsForms\\ControlStockWindowsForms\\RegistroProductos.cs",
               "RelativeDocumentMoniker": "ControlStockWindowsForms\\RegistroProductos.cs",
-              "ToolTip": "C:\\Users\\loren\\source\\repos\\ControlStockWindowsForms\\ControlStockWindowsForms\\RegistroProductos.cs",
+              "ToolTip": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\ControlStockWindowsForms\\ControlStockWindowsForms\\RegistroProductos.cs",
               "RelativeToolTip": "ControlStockWindowsForms\\RegistroProductos.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -259,9 +259,9 @@
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "EliminarVenta.cs",
-              "DocumentMoniker": "C:\\Users\\loren\\source\\repos\\ControlStockWindowsForms\\ControlStockWindowsForms\\EliminarVenta.cs",
+              "DocumentMoniker": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\ControlStockWindowsForms\\ControlStockWindowsForms\\EliminarVenta.cs",
               "RelativeDocumentMoniker": "ControlStockWindowsForms\\EliminarVenta.cs",
-              "ToolTip": "C:\\Users\\loren\\source\\repos\\ControlStockWindowsForms\\ControlStockWindowsForms\\EliminarVenta.cs",
+              "ToolTip": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\ControlStockWindowsForms\\ControlStockWindowsForms\\EliminarVenta.cs",
               "RelativeToolTip": "ControlStockWindowsForms\\EliminarVenta.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -272,9 +272,9 @@
               "$type": "Document",
               "DocumentIndex": 11,
               "Title": "EliminarProveedor.cs",
-              "DocumentMoniker": "C:\\Users\\loren\\source\\repos\\ControlStockWindowsForms\\ControlStockWindowsForms\\EliminarProveedor.cs",
+              "DocumentMoniker": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\ControlStockWindowsForms\\ControlStockWindowsForms\\EliminarProveedor.cs",
               "RelativeDocumentMoniker": "ControlStockWindowsForms\\EliminarProveedor.cs",
-              "ToolTip": "C:\\Users\\loren\\source\\repos\\ControlStockWindowsForms\\ControlStockWindowsForms\\EliminarProveedor.cs",
+              "ToolTip": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\ControlStockWindowsForms\\ControlStockWindowsForms\\EliminarProveedor.cs",
               "RelativeToolTip": "ControlStockWindowsForms\\EliminarProveedor.cs",
               "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -283,210 +283,195 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 26,
               "Title": "Producto.cs",
               "DocumentMoniker": "C:\\Users\\loren\\source\\repos\\ProyectoCompartido\\ProyectoCompartido\\Producto.cs",
-              "RelativeDocumentMoniker": "..\\ProyectoCompartido\\ProyectoCompartido\\Producto.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\source\\repos\\ProyectoCompartido\\ProyectoCompartido\\Producto.cs",
               "ToolTip": "C:\\Users\\loren\\source\\repos\\ProyectoCompartido\\ProyectoCompartido\\Producto.cs",
-              "RelativeToolTip": "..\\ProyectoCompartido\\ProyectoCompartido\\Producto.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\source\\repos\\ProyectoCompartido\\ProyectoCompartido\\Producto.cs",
               "ViewState": "AgIAABEAAAAAAAAAAAAxwCAAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-09T07:08:10.999Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-09T07:08:10.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Enumeradores.cs",
+              "DocumentMoniker": "C:\\Users\\loren\\source\\repos\\ProyectoCompartido\\ProyectoCompartido\\Enumeradores.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\source\\repos\\ProyectoCompartido\\ProyectoCompartido\\Enumeradores.cs",
+              "ToolTip": "C:\\Users\\loren\\source\\repos\\ProyectoCompartido\\ProyectoCompartido\\Enumeradores.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\source\\repos\\ProyectoCompartido\\ProyectoCompartido\\Enumeradores.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T11:51:38.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ProductoAPilas.cs",
+              "DocumentMoniker": "C:\\Users\\loren\\source\\repos\\ProyectoCompartido\\ProyectoCompartido\\ProductoAPilas.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\source\\repos\\ProyectoCompartido\\ProyectoCompartido\\ProductoAPilas.cs",
+              "ToolTip": "C:\\Users\\loren\\source\\repos\\ProyectoCompartido\\ProyectoCompartido\\ProductoAPilas.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\source\\repos\\ProyectoCompartido\\ProyectoCompartido\\ProductoAPilas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T11:49:40.446Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ModificarProveedor.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\ControlStockWindowsForms\\ControlStockWindowsForms\\ModificarProveedor.cs",
+              "RelativeDocumentMoniker": "ControlStockWindowsForms\\ModificarProveedor.cs",
+              "ToolTip": "C:\\Users\\loren\\source\\repos\\ControlStockWindowsForms\\ControlStockWindowsForms\\ModificarProveedor.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\source\\repos\\ControlStockWindowsForms\\ControlStockWindowsForms\\ModificarProveedor.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T06:55:36.874Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
-              "Title": "Enumeradores.cs",
-              "DocumentMoniker": "C:\\Users\\loren\\source\\repos\\ProyectoCompartido\\ProyectoCompartido\\Enumeradores.cs",
-              "RelativeDocumentMoniker": "..\\ProyectoCompartido\\ProyectoCompartido\\Enumeradores.cs",
-              "ToolTip": "C:\\Users\\loren\\source\\repos\\ProyectoCompartido\\ProyectoCompartido\\Enumeradores.cs",
-              "RelativeToolTip": "..\\ProyectoCompartido\\ProyectoCompartido\\Enumeradores.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
+              "Title": "ModificarProducto.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\ControlStockWindowsForms\\ControlStockWindowsForms\\ModificarProducto.cs",
+              "RelativeDocumentMoniker": "ControlStockWindowsForms\\ModificarProducto.cs",
+              "ToolTip": "C:\\Users\\loren\\source\\repos\\ControlStockWindowsForms\\ControlStockWindowsForms\\ModificarProducto.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\source\\repos\\ControlStockWindowsForms\\ControlStockWindowsForms\\ModificarProducto.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-23T11:51:38.945Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-09T06:55:37.964Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 14,
-              "Title": "ProductoAPilas.cs",
-              "DocumentMoniker": "C:\\Users\\loren\\source\\repos\\ProyectoCompartido\\ProyectoCompartido\\ProductoAPilas.cs",
-              "RelativeDocumentMoniker": "..\\ProyectoCompartido\\ProyectoCompartido\\ProductoAPilas.cs",
-              "ToolTip": "C:\\Users\\loren\\source\\repos\\ProyectoCompartido\\ProyectoCompartido\\ProductoAPilas.cs",
-              "RelativeToolTip": "..\\ProyectoCompartido\\ProyectoCompartido\\ProductoAPilas.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "RegistroVentas.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\ControlStockWindowsForms\\ControlStockWindowsForms\\RegistroVentas.cs",
+              "RelativeDocumentMoniker": "ControlStockWindowsForms\\RegistroVentas.cs",
+              "ToolTip": "C:\\Users\\loren\\source\\repos\\ControlStockWindowsForms\\ControlStockWindowsForms\\RegistroVentas.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\source\\repos\\ControlStockWindowsForms\\ControlStockWindowsForms\\RegistroVentas.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-23T11:49:40.446Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-09T06:41:40.412Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 15,
-              "Title": "ModificarProveedor.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\loren\\source\\repos\\ControlStockWindowsForms\\ControlStockWindowsForms\\ModificarProveedor.cs",
-              "RelativeDocumentMoniker": "ControlStockWindowsForms\\ModificarProveedor.cs",
-              "ToolTip": "C:\\Users\\loren\\source\\repos\\ControlStockWindowsForms\\ControlStockWindowsForms\\ModificarProveedor.cs [Design]",
-              "RelativeToolTip": "ControlStockWindowsForms\\ModificarProveedor.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-09T06:55:36.874Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "ModificarProducto.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\loren\\source\\repos\\ControlStockWindowsForms\\ControlStockWindowsForms\\ModificarProducto.cs",
-              "RelativeDocumentMoniker": "ControlStockWindowsForms\\ModificarProducto.cs",
-              "ToolTip": "C:\\Users\\loren\\source\\repos\\ControlStockWindowsForms\\ControlStockWindowsForms\\ModificarProducto.cs [Dise\u00F1o]",
-              "RelativeToolTip": "ControlStockWindowsForms\\ModificarProducto.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-09T06:55:37.964Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "RegistroVentas.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\loren\\source\\repos\\ControlStockWindowsForms\\ControlStockWindowsForms\\RegistroVentas.cs",
-              "RelativeDocumentMoniker": "ControlStockWindowsForms\\RegistroVentas.cs",
-              "ToolTip": "C:\\Users\\loren\\source\\repos\\ControlStockWindowsForms\\ControlStockWindowsForms\\RegistroVentas.cs [Dise\u00F1o]",
-              "RelativeToolTip": "ControlStockWindowsForms\\RegistroVentas.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-09T06:41:40.412Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
               "Title": "EliminarProducto.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\loren\\source\\repos\\ControlStockWindowsForms\\ControlStockWindowsForms\\EliminarProducto.cs",
+              "DocumentMoniker": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\ControlStockWindowsForms\\ControlStockWindowsForms\\EliminarProducto.cs",
               "RelativeDocumentMoniker": "ControlStockWindowsForms\\EliminarProducto.cs",
               "ToolTip": "C:\\Users\\loren\\source\\repos\\ControlStockWindowsForms\\ControlStockWindowsForms\\EliminarProducto.cs [Dise\u00F1o]",
-              "RelativeToolTip": "ControlStockWindowsForms\\EliminarProducto.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\source\\repos\\ControlStockWindowsForms\\ControlStockWindowsForms\\EliminarProducto.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-09T11:48:47.64Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 16,
               "Title": "UI_Productos.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\loren\\source\\repos\\ControlStockWindowsForms\\ControlStockWindowsForms\\UI_Productos.cs",
+              "DocumentMoniker": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\ControlStockWindowsForms\\ControlStockWindowsForms\\UI_Productos.cs",
               "RelativeDocumentMoniker": "ControlStockWindowsForms\\UI_Productos.cs",
               "ToolTip": "C:\\Users\\loren\\source\\repos\\ControlStockWindowsForms\\ControlStockWindowsForms\\UI_Productos.cs [Dise\u00F1o]",
-              "RelativeToolTip": "ControlStockWindowsForms\\UI_Productos.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\source\\repos\\ControlStockWindowsForms\\ControlStockWindowsForms\\UI_Productos.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-09T06:42:31.551Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 17,
               "Title": "EliminarVenta.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\loren\\source\\repos\\ControlStockWindowsForms\\ControlStockWindowsForms\\EliminarVenta.cs",
+              "DocumentMoniker": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\ControlStockWindowsForms\\ControlStockWindowsForms\\EliminarVenta.cs",
               "RelativeDocumentMoniker": "ControlStockWindowsForms\\EliminarVenta.cs",
               "ToolTip": "C:\\Users\\loren\\source\\repos\\ControlStockWindowsForms\\ControlStockWindowsForms\\EliminarVenta.cs [Dise\u00F1o]",
-              "RelativeToolTip": "ControlStockWindowsForms\\EliminarVenta.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\source\\repos\\ControlStockWindowsForms\\ControlStockWindowsForms\\EliminarVenta.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-09T06:55:47.753Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2024-11-09T06:55:47.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UI_Ventas.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\ControlStockWindowsForms\\ControlStockWindowsForms\\UI_Ventas.cs",
+              "RelativeDocumentMoniker": "ControlStockWindowsForms\\UI_Ventas.cs",
+              "ToolTip": "C:\\Users\\loren\\source\\repos\\ControlStockWindowsForms\\ControlStockWindowsForms\\UI_Ventas.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\source\\repos\\ControlStockWindowsForms\\ControlStockWindowsForms\\UI_Ventas.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T19:02:08.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "EliminarProveedor.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\ControlStockWindowsForms\\ControlStockWindowsForms\\EliminarProveedor.cs",
+              "RelativeDocumentMoniker": "ControlStockWindowsForms\\EliminarProveedor.cs",
+              "ToolTip": "C:\\Users\\loren\\source\\repos\\ControlStockWindowsForms\\ControlStockWindowsForms\\EliminarProveedor.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\source\\repos\\ControlStockWindowsForms\\ControlStockWindowsForms\\EliminarProveedor.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T06:55:43.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UI_Proveedores.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\ControlStockWindowsForms\\ControlStockWindowsForms\\UI_Proveedores.cs",
+              "RelativeDocumentMoniker": "ControlStockWindowsForms\\UI_Proveedores.cs",
+              "ToolTip": "C:\\Users\\loren\\source\\repos\\ControlStockWindowsForms\\ControlStockWindowsForms\\UI_Proveedores.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\source\\repos\\ControlStockWindowsForms\\ControlStockWindowsForms\\UI_Proveedores.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T06:35:48.608Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 21,
-              "Title": "UI_Ventas.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\loren\\source\\repos\\ControlStockWindowsForms\\ControlStockWindowsForms\\UI_Ventas.cs",
-              "RelativeDocumentMoniker": "ControlStockWindowsForms\\UI_Ventas.cs",
-              "ToolTip": "C:\\Users\\loren\\source\\repos\\ControlStockWindowsForms\\ControlStockWindowsForms\\UI_Ventas.cs [Dise\u00F1o]",
-              "RelativeToolTip": "ControlStockWindowsForms\\UI_Ventas.cs [Dise\u00F1o]",
+              "Title": "UI_Tienda.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\ControlStockWindowsForms\\ControlStockWindowsForms\\UI_Tienda.cs",
+              "RelativeDocumentMoniker": "ControlStockWindowsForms\\UI_Tienda.cs",
+              "ToolTip": "C:\\Users\\loren\\source\\repos\\ControlStockWindowsForms\\ControlStockWindowsForms\\UI_Tienda.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\source\\repos\\ControlStockWindowsForms\\ControlStockWindowsForms\\UI_Tienda.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-10T19:02:08.189Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2024-11-09T06:43:35.32Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 22,
-              "Title": "EliminarProveedor.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\loren\\source\\repos\\ControlStockWindowsForms\\ControlStockWindowsForms\\EliminarProveedor.cs",
-              "RelativeDocumentMoniker": "ControlStockWindowsForms\\EliminarProveedor.cs",
-              "ToolTip": "C:\\Users\\loren\\source\\repos\\ControlStockWindowsForms\\ControlStockWindowsForms\\EliminarProveedor.cs [Dise\u00F1o]",
-              "RelativeToolTip": "ControlStockWindowsForms\\EliminarProveedor.cs [Dise\u00F1o]",
+              "Title": "RegistroProductos.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\ControlStockWindowsForms\\ControlStockWindowsForms\\RegistroProductos.cs",
+              "RelativeDocumentMoniker": "ControlStockWindowsForms\\RegistroProductos.cs",
+              "ToolTip": "C:\\Users\\loren\\source\\repos\\ControlStockWindowsForms\\ControlStockWindowsForms\\RegistroProductos.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\source\\repos\\ControlStockWindowsForms\\ControlStockWindowsForms\\RegistroProductos.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-09T06:55:43.959Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2024-11-09T06:49:59.723Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 23,
-              "Title": "UI_Proveedores.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\loren\\source\\repos\\ControlStockWindowsForms\\ControlStockWindowsForms\\UI_Proveedores.cs",
-              "RelativeDocumentMoniker": "ControlStockWindowsForms\\UI_Proveedores.cs",
-              "ToolTip": "C:\\Users\\loren\\source\\repos\\ControlStockWindowsForms\\ControlStockWindowsForms\\UI_Proveedores.cs [Dise\u00F1o]",
-              "RelativeToolTip": "ControlStockWindowsForms\\UI_Proveedores.cs [Dise\u00F1o]",
+              "Title": "RegistroProveedor.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\ControlStockWindowsForms\\ControlStockWindowsForms\\RegistroProveedor.cs",
+              "RelativeDocumentMoniker": "ControlStockWindowsForms\\RegistroProveedor.cs",
+              "ToolTip": "C:\\Users\\loren\\source\\repos\\ControlStockWindowsForms\\ControlStockWindowsForms\\RegistroProveedor.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\source\\repos\\ControlStockWindowsForms\\ControlStockWindowsForms\\RegistroProveedor.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-09T06:35:48.608Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2024-11-09T06:40:59.766Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 24,
-              "Title": "UI_Tienda.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\loren\\source\\repos\\ControlStockWindowsForms\\ControlStockWindowsForms\\UI_Tienda.cs",
-              "RelativeDocumentMoniker": "ControlStockWindowsForms\\UI_Tienda.cs",
-              "ToolTip": "C:\\Users\\loren\\source\\repos\\ControlStockWindowsForms\\ControlStockWindowsForms\\UI_Tienda.cs [Dise\u00F1o]",
-              "RelativeToolTip": "ControlStockWindowsForms\\UI_Tienda.cs [Dise\u00F1o]",
+              "Title": "UI_Proveedores.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\ControlStockWindowsForms\\ControlStockWindowsForms\\UI_Proveedores.Designer.cs",
+              "RelativeDocumentMoniker": "ControlStockWindowsForms\\UI_Proveedores.Designer.cs",
+              "ToolTip": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\ControlStockWindowsForms\\ControlStockWindowsForms\\UI_Proveedores.Designer.cs",
+              "RelativeToolTip": "ControlStockWindowsForms\\UI_Proveedores.Designer.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAlwBYAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-09T06:43:35.32Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2024-11-09T06:35:50.557Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 25,
-              "Title": "RegistroProductos.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\loren\\source\\repos\\ControlStockWindowsForms\\ControlStockWindowsForms\\RegistroProductos.cs",
-              "RelativeDocumentMoniker": "ControlStockWindowsForms\\RegistroProductos.cs",
-              "ToolTip": "C:\\Users\\loren\\source\\repos\\ControlStockWindowsForms\\ControlStockWindowsForms\\RegistroProductos.cs [Dise\u00F1o]",
-              "RelativeToolTip": "ControlStockWindowsForms\\RegistroProductos.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-09T06:49:59.723Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "RegistroProveedor.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\loren\\source\\repos\\ControlStockWindowsForms\\ControlStockWindowsForms\\RegistroProveedor.cs",
-              "RelativeDocumentMoniker": "ControlStockWindowsForms\\RegistroProveedor.cs",
-              "ToolTip": "C:\\Users\\loren\\source\\repos\\ControlStockWindowsForms\\ControlStockWindowsForms\\RegistroProveedor.cs [Dise\u00F1o]",
-              "RelativeToolTip": "ControlStockWindowsForms\\RegistroProveedor.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-09T06:40:59.766Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "UI_Proveedores.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\loren\\source\\repos\\ControlStockWindowsForms\\ControlStockWindowsForms\\UI_Proveedores.Designer.cs",
-              "RelativeDocumentMoniker": "ControlStockWindowsForms\\UI_Proveedores.Designer.cs",
-              "ToolTip": "C:\\Users\\loren\\source\\repos\\ControlStockWindowsForms\\ControlStockWindowsForms\\UI_Proveedores.Designer.cs",
-              "RelativeToolTip": "ControlStockWindowsForms\\UI_Proveedores.Designer.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAlwBYAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-09T06:35:50.557Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
               "Title": "RegistroProveedor.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\loren\\source\\repos\\ControlStockWindowsForms\\ControlStockWindowsForms\\RegistroProveedor.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\ControlStockWindowsForms\\ControlStockWindowsForms\\RegistroProveedor.Designer.cs",
               "RelativeDocumentMoniker": "ControlStockWindowsForms\\RegistroProveedor.Designer.cs",
-              "ToolTip": "C:\\Users\\loren\\source\\repos\\ControlStockWindowsForms\\ControlStockWindowsForms\\RegistroProveedor.Designer.cs",
+              "ToolTip": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\ControlStockWindowsForms\\ControlStockWindowsForms\\RegistroProveedor.Designer.cs",
               "RelativeToolTip": "ControlStockWindowsForms\\RegistroProveedor.Designer.cs",
               "ViewState": "AgIAAH4AAAAAAAAAAAAAwJEAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-09T06:36:41.662Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-09T06:36:41.662Z"
             }
           ]
         }

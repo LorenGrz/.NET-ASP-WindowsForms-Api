@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Hw8Ws0NCLyw=",
+  "dgSpecHash": "429KG8D7YsQ=",
   "success": true,
-  "projectFilePath": "C:\\Users\\loren\\source\\repos\\ControlStockWindowsForms\\ControlStockWindowsForms\\ControlStockWindowsForms.csproj",
+  "projectFilePath": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\ControlStockWindowsForms\\ControlStockWindowsForms\\ControlStockWindowsForms.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\loren\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.1\\microsoft.extensions.dependencyinjection.8.0.1.nupkg.sha512",
     "C:\\Users\\loren\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.2\\microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512",

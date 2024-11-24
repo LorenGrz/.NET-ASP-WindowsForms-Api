@@ -30,7 +30,7 @@ namespace WebTienda1.Controllers
             if (respuesta.IsSuccessStatusCode)
             {
                 var contenido = await respuesta.Content.ReadAsStringAsync();
-                var productos = JsonConvert.DeserializeObject<List<Producto>>(contenido); 
+                var productos = JsonConvert.DeserializeObject<List<Producto>>(contenido);
                 return View(productos);
             }
             else
@@ -41,7 +41,7 @@ namespace WebTienda1.Controllers
 
         public async Task<IActionResult> Detalles(int id)
         {
-            var respuesta = await _httpClient.GetAsync($"Producto/ObtenerProductoPorId?_id={id}");
+            var respuesta = await _httpClient.GetAsync($"/Producto/ObtenerProductoPorId?_id={id}");
             if (respuesta.IsSuccessStatusCode)
             {
                 var contenido = await respuesta.Content.ReadAsStringAsync();
