@@ -58,7 +58,7 @@ namespace Api_Tienda_TP.Controllers
         }
 
         [HttpPut]
-        [Route("Actualizar Producto Electronico")]
+        [Route("ActualizarProductoElectronico")]
         public ActionResult<string> ActualizarProductoElectronico(
             int _id,
             [FromBody] ProductoElectronico prodElectronico

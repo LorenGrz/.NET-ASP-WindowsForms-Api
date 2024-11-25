@@ -3,7 +3,7 @@
 
 <h1>Agregar Nuevo Proveedor</h1>
 
-<form asp-action="AgregarProveedor">
+<form asp-action="AgregarProveedor" method="post">
     <div class="form-group">
         <label for="Name">Nombre: </label>
         <input asp-for="Nombre" class="form-control"/>
@@ -23,6 +23,7 @@
         <label for="Name">Telefono: </label>
         <input asp-for="Telefono" class="form-control"/>
     </div>
+    <br />
 
     <button type="submit" class="btn btn-primary">Guardar</button>
     <button type= "submit" asp-action="Index" class="btn btn-success">Volver a la lista de proveedores</button>

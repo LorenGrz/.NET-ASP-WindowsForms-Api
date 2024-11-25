@@ -77,7 +77,7 @@ namespace ControlStockWindowsForms
                         Cantidad = int.Parse(textBoxCantidadProducto.Text),
                         Descripcion = textBoxDescripcionProducto.Text,
                         ProveedorID = Int32.Parse(textBoxIdProvProducto.Text),
-                        Voltaje = decimal.Parse(textBoxVoltaje.Text),
+                        Voltaje = int.Parse(textBoxVoltaje.Text),
                         Transformador = checkBoxTransformador.Checked
                     };
                     guardarProductoElectronico(productoElectronico);

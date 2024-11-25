@@ -11,14 +11,13 @@ namespace ProyectoCompartido
     [Table("ProductoElectronico")]
     public class ProductoElectronico : Producto
     {
-        [Range(0.01, (double)decimal.MaxValue, ErrorMessage = "El valor debe ser mayor a 0.")]
-        public decimal Voltaje { get; set; }
+        public int Voltaje { get; set; }
 
         public bool Transformador { get; set; }
 
         public ProductoElectronico()
         { }
-        public ProductoElectronico(string nombre,decimal precio,int cantidad,string descripcion, int provId, decimal voltaje, bool transformador): base(nombre,precio,cantidad,descripcion,provId)
+        public ProductoElectronico(string nombre,decimal precio,int cantidad,string descripcion, int provId, int voltaje, bool transformador): base(nombre,precio,cantidad,descripcion,provId)
         {
             Transformador = transformador;
             Voltaje = voltaje;

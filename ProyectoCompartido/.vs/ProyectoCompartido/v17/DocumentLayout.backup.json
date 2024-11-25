@@ -1,18 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\loren\\source\\repos\\ProyectoCompartido\\",
+  "WorkspaceRootPath": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\ProyectoCompartido\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E303B3FF-B08F-4B67-8CB2-8417BE1C6C11}|ProyectoCompartido\\ProyectoCompartido.shproj|c:\\users\\loren\\source\\repos\\proyectocompartido\\proyectocompartido\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E303B3FF-B08F-4B67-8CB2-8417BE1C6C11}|ProyectoCompartido\\ProyectoCompartido.shproj|solutionrelative:proyectocompartido\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E303B3FF-B08F-4B67-8CB2-8417BE1C6C11}|ProyectoCompartido\\ProyectoCompartido.shproj|c:\\users\\loren\\onedrive\\escritorio\\curso .net\\.net-asp-windowsforms-api\\proyectocompartido\\proyectocompartido\\enumeradores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E303B3FF-B08F-4B67-8CB2-8417BE1C6C11}|ProyectoCompartido\\ProyectoCompartido.shproj|solutionrelative:proyectocompartido\\enumeradores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E303B3FF-B08F-4B67-8CB2-8417BE1C6C11}|ProyectoCompartido\\ProyectoCompartido.shproj|c:\\users\\loren\\source\\repos\\proyectocompartido\\proyectocompartido\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E303B3FF-B08F-4B67-8CB2-8417BE1C6C11}|ProyectoCompartido\\ProyectoCompartido.shproj|c:\\users\\loren\\onedrive\\escritorio\\curso .net\\.net-asp-windowsforms-api\\proyectocompartido\\proyectocompartido\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E303B3FF-B08F-4B67-8CB2-8417BE1C6C11}|ProyectoCompartido\\ProyectoCompartido.shproj|solutionrelative:proyectocompartido\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E303B3FF-B08F-4B67-8CB2-8417BE1C6C11}|ProyectoCompartido\\ProyectoCompartido.shproj|c:\\users\\loren\\source\\repos\\proyectocompartido\\proyectocompartido\\enumeradores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E303B3FF-B08F-4B67-8CB2-8417BE1C6C11}|ProyectoCompartido\\ProyectoCompartido.shproj|solutionrelative:proyectocompartido\\enumeradores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E303B3FF-B08F-4B67-8CB2-8417BE1C6C11}|ProyectoCompartido\\ProyectoCompartido.shproj|c:\\users\\loren\\onedrive\\escritorio\\curso .net\\.net-asp-windowsforms-api\\proyectocompartido\\proyectocompartido\\productoapilas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E303B3FF-B08F-4B67-8CB2-8417BE1C6C11}|ProyectoCompartido\\ProyectoCompartido.shproj|solutionrelative:proyectocompartido\\productoapilas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E303B3FF-B08F-4B67-8CB2-8417BE1C6C11}|ProyectoCompartido\\ProyectoCompartido.shproj|c:\\users\\loren\\onedrive\\escritorio\\curso .net\\.net-asp-windowsforms-api\\proyectocompartido\\proyectocompartido\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E303B3FF-B08F-4B67-8CB2-8417BE1C6C11}|ProyectoCompartido\\ProyectoCompartido.shproj|solutionrelative:proyectocompartido\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,45 +26,58 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Producto.cs",
-              "DocumentMoniker": "C:\\Users\\loren\\source\\repos\\ProyectoCompartido\\ProyectoCompartido\\Producto.cs",
-              "RelativeDocumentMoniker": "ProyectoCompartido\\Producto.cs",
-              "ToolTip": "C:\\Users\\loren\\source\\repos\\ProyectoCompartido\\ProyectoCompartido\\Producto.cs",
-              "RelativeToolTip": "ProyectoCompartido\\Producto.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "ProductoAPilas.cs",
+              "DocumentMoniker": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\ProyectoCompartido\\ProyectoCompartido\\ProductoAPilas.cs",
+              "RelativeDocumentMoniker": "ProyectoCompartido\\ProductoAPilas.cs",
+              "ToolTip": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\ProyectoCompartido\\ProyectoCompartido\\ProductoAPilas.cs",
+              "RelativeToolTip": "ProyectoCompartido\\ProductoAPilas.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-10T19:03:21.769Z",
+              "WhenOpened": "2024-11-24T17:22:24.73Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\ProyectoCompartido\\ProyectoCompartido\\Producto.cs",
+              "RelativeDocumentMoniker": "ProyectoCompartido\\Producto.cs",
+              "ToolTip": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\ProyectoCompartido\\ProyectoCompartido\\Producto.cs",
+              "RelativeToolTip": "ProyectoCompartido\\Producto.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T19:03:21.769Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Cliente.cs",
-              "DocumentMoniker": "C:\\Users\\loren\\source\\repos\\ProyectoCompartido\\ProyectoCompartido\\Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\ProyectoCompartido\\ProyectoCompartido\\Cliente.cs",
               "RelativeDocumentMoniker": "ProyectoCompartido\\Cliente.cs",
-              "ToolTip": "C:\\Users\\loren\\source\\repos\\ProyectoCompartido\\ProyectoCompartido\\Cliente.cs",
+              "ToolTip": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\ProyectoCompartido\\ProyectoCompartido\\Cliente.cs",
               "RelativeToolTip": "ProyectoCompartido\\Cliente.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-03T14:16:46.09Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Enumeradores.cs",
-              "DocumentMoniker": "C:\\Users\\loren\\source\\repos\\ProyectoCompartido\\ProyectoCompartido\\Enumeradores.cs",
+              "DocumentMoniker": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\ProyectoCompartido\\ProyectoCompartido\\Enumeradores.cs",
               "RelativeDocumentMoniker": "ProyectoCompartido\\Enumeradores.cs",
-              "ToolTip": "C:\\Users\\loren\\source\\repos\\ProyectoCompartido\\ProyectoCompartido\\Enumeradores.cs",
+              "ToolTip": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\ProyectoCompartido\\ProyectoCompartido\\Enumeradores.cs",
               "RelativeToolTip": "ProyectoCompartido\\Enumeradores.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-03T14:15:57.411Z"
+              "WhenOpened": "2024-11-03T14:15:57.411Z",
+              "EditorCaption": ""
             }
           ]
         }

@@ -88,10 +88,10 @@ namespace WebTienda1.Controllers
             }
         }
 
-        [HttpPut]
+        [HttpPost]
         public async Task<IActionResult> ActualizarProductoAPilas(int id, ProductoAPilas producto)
         {
-            var respuesta = await _httpClient.PutAsJsonAsync($"/ProductoAPilas/ModificarProductoAPilas?_id={id}", producto);
+            var respuesta = await _httpClient.PutAsJsonAsync($"/ProductoAPilas/ActualizarProductoAPilas?_id={id}", producto);
             if (respuesta.IsSuccessStatusCode)
             {
                 return RedirectToAction(nameof(Index));
@@ -117,7 +117,7 @@ namespace WebTienda1.Controllers
             }
         }
 
-        [HttpDelete, ActionName("ConfirmarEliminacionProductoAPilas")]
+        [HttpPost, ActionName("ConfirmarEliminacionProductoAPilas")]
         public async Task<IActionResult> ConfirmarEliminacionProductoAPilas(int id)
         {
             var respuesta = await _httpClient.DeleteAsync($"/ProductoAPilas/EliminarProductoAPilas?_id={id}");

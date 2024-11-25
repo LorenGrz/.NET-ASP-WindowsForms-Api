@@ -1,3 +1,4 @@
+@using ProyectoCompartido;
 @model ProyectoCompartido.ProductoAPilas;
 
 
@@ -30,14 +31,16 @@
     </div>
 
     <div class="form-group">
-        <label for="Name">Tipo de Pilas: </label>
-        <input asp-for="Tipo" class="form-control" />
+        <label for="Tipo">Tipo de Pilas: </label>
+        <select asp-for="Tipo" class="form-control" asp-items="Html.GetEnumSelectList<TipoPilas>()">
+        </select>
     </div>
 
     <div class="form-group">
         <label for="Name">Proveedor: </label>
         <input asp-for="ProveedorID " class="form-control"/>
     </div>
+    <br />
 
     <button type="submit" class="btn btn-primary">Guardar</button>
     <button type= "submit" asp-action="Index" class="btn btn-success">Volver a la lista de productos a pilas</button>

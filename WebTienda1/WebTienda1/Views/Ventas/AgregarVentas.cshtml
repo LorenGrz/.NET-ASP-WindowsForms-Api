@@ -1,18 +1,18 @@
 @model ProyectoCompartido.Venta;
 
-
 <h1>Agregar una Nueva Venta</h1>
 
 <form asp-action="AgregarVenta">
     <div class="form-group">
         <label for="Name">Id del Producto a Comprar: </label>
-        <input asp-for="IdProducto" class="form-control"/>
+        <input asp-for="IdProducto" class="form-control" />
     </div>
 
     <div class="form-group">
         <label for="Name">Cantidad Vendida: </label>
-        <input asp-for="CantidadVendida" class="form-control"/>
+        <input asp-for="CantidadVendida" class="form-control" />
     </div>
+    <br />
 
     <button type="submit" class="btn btn-primary">Guardar</button>
     <button type= "submit" asp-action="Index" class="btn btn-success">Volver a la lista de ventas</button>

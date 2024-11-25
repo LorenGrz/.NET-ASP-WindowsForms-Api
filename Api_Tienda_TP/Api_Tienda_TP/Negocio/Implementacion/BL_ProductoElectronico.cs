@@ -107,7 +107,7 @@ namespace Api_Tienda_TP.Negocio.Implementacion
             return productoElectronico;
         }
         // Metodo que actualiza un producto electronico de la lista
-        string IBL_ProductoElectronico.ActualizarProductoElectronicoDeLista(int _Id, string descripcion, decimal nuevoPrecio, int nuevaCantidad, int nuevoProveedor, decimal nuevoVoltaje, bool nuevoTransformador)
+        string IBL_ProductoElectronico.ActualizarProductoElectronicoDeLista(int _Id, string descripcion, decimal nuevoPrecio, int nuevaCantidad, int nuevoProveedor, int nuevoVoltaje, bool nuevoTransformador)
         {
             string resp = "";
             try

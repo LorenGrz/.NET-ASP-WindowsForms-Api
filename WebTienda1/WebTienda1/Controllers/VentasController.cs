@@ -55,14 +55,21 @@ namespace WebTienda1.Controllers
             }
         }
 
-        public IActionResult AgregarVenta()
+        public IActionResult AgregarVentas()
         {
             return View();
         }
 
         [HttpPost]
-        public async Task<IActionResult> AgregarVenta(Venta ventaVista)
+        public async Task<IActionResult> AgregarVenta()
         {
+            int idProducto = int.Parse(Request.Form["IdProducto"]!);
+            int cantidad = int.Parse(Request.Form["CantidadVendida"]!);
+            Producto prod = await _httpClient.GetFromJsonAsync<Producto>($"/Producto/ListarProductoPorId?_id={idProducto}");
+            decimal precioVenta = prod.Precio;
+            
+            Venta ventaVista = new Venta(DateTime.Now, idProducto,cantidad,precioVenta,prod!);
+            
             var respuesta = await _httpClient.PostAsJsonAsync("/Ventas/RegistrarVenta", ventaVista);
             if (respuesta.IsSuccessStatusCode)
             {
@@ -89,7 +96,7 @@ namespace WebTienda1.Controllers
             }
         }
 
-        [HttpDelete]
+        [HttpPost]
         [ActionName("ConfirmarEliminacionVenta")]
         public async Task<IActionResult> ConfirmarEliminacionVenta(int id)
         {

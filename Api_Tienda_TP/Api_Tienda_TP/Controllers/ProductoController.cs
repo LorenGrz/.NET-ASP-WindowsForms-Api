@@ -59,7 +59,7 @@ namespace Api_Tienda_TP.Controllers
         [HttpPut]
         [Route("ActualizarProducto")]
         public ActionResult<string> ActualizarProducto(int _id, 
-            [FromForm] Producto producto
+            [FromBody] Producto producto
             )
         {
             var resultado = _producto.ActualizarProductoDeLista(_id, producto.Descripcion, producto.Precio, producto.Cantidad,producto.ProveedorID);

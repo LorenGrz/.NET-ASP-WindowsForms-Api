@@ -38,7 +38,7 @@ namespace WebTienda1.Controllers
             }
         }
 
-        public async Task<IActionResult> Detalles(int id)
+        public async Task<IActionResult> DetallesProveedor(int id)
         {
             var respuesta = await _httpClient.GetAsync($"Proveedor/ListarProveedorPorId?_id={id}");
             if (respuesta.IsSuccessStatusCode)
@@ -87,10 +87,10 @@ namespace WebTienda1.Controllers
             }
         }
 
-        [HttpPut]
+        [HttpPost]
         public async Task<IActionResult> ActualizarProveedor(int id, Proveedor proveedor)
         {
-            var respuesta = await _httpClient.PutAsJsonAsync($"/Proveedor/ModificarProveedor?_id={id}", proveedor);
+            var respuesta = await _httpClient.PutAsJsonAsync($"/Proveedor/ActualizarProveedor?_id={id}", proveedor);
             if (respuesta.IsSuccessStatusCode)
             {
                 return RedirectToAction(nameof(Index));
@@ -116,7 +116,7 @@ namespace WebTienda1.Controllers
             }
         }
 
-        [HttpDelete, ActionName("ConfirmarEliminacionProveedor")]
+        [HttpPost, ActionName("ConfirmarEliminacionProveedor")]
         public async Task<IActionResult> ConfirmarEliminacionProveedor(int id)
         {
             var respuesta = await _httpClient.DeleteAsync($"/Proveedor/EliminarProveedor?_id={id}");

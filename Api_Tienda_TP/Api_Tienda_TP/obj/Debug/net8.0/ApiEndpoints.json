@@ -116,64 +116,9 @@
         "IsRequired": false
       },
       {
-        "Name": "Id",
-        "Type": "System.Int32",
-        "IsRequired": false
-      },
-      {
-        "Name": "Nombre",
-        "Type": "System.String",
-        "IsRequired": false
-      },
-      {
-        "Name": "Precio",
-        "Type": "System.Decimal",
-        "IsRequired": false
-      },
-      {
-        "Name": "Cantidad",
-        "Type": "System.Int32",
-        "IsRequired": false
-      },
-      {
-        "Name": "Descripcion",
-        "Type": "System.String",
-        "IsRequired": false
-      },
-      {
-        "Name": "ProveedorID",
-        "Type": "System.Int32",
-        "IsRequired": false
-      },
-      {
-        "Name": "Proveedor.Id",
-        "Type": "System.Int32",
-        "IsRequired": false
-      },
-      {
-        "Name": "Proveedor.Nombre",
-        "Type": "System.String",
-        "IsRequired": false
-      },
-      {
-        "Name": "Proveedor.Email",
-        "Type": "System.String",
-        "IsRequired": false
-      },
-      {
-        "Name": "Proveedor.Direccion",
-        "Type": "System.String",
-        "IsRequired": false
-      },
-      {
-        "Name": "Proveedor.Telefono",
-        "Type": "System.String",
-        "IsRequired": false
-      },
-      {
-        "Name": "Proveedor.Productos",
-        "Type": "System.Collections.Generic.ICollection\u00601[[ProyectoCompartido.Producto, Api_Tienda_TP, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
-        "IsRequired": false
+        "Name": "producto",
+        "Type": "ProyectoCompartido.Producto",
+        "IsRequired": true
       }
     ],
     "ReturnTypes": [
@@ -470,7 +415,7 @@
   {
     "ContainingType": "Api_Tienda_TP.Controllers.ProductoElectronicoController",
     "Method": "ActualizarProductoElectronico",
-    "RelativePath": "ProductoElectronico/Actualizar Producto Electronico",
+    "RelativePath": "ProductoElectronico/ActualizarProductoElectronico",
     "HttpMethod": "PUT",
     "IsController": true,
     "Order": 0,

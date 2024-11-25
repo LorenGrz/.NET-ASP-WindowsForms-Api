@@ -11,6 +11,6 @@ namespace Api_Tienda_TP.Negocio.Interfaz
         List<ProductoElectronico> ObtenerProductosElectronicos();
         List<ProductoElectronico> ObtenerProductosElectronicosPorProveedor(int idProveedor);
         ProductoElectronico RegistrarProductoElectronico(ProductoElectronico productoElectronico);
-        string ActualizarProductoElectronicoDeLista(int Id, string descripcion, decimal nuevoPrecio, int nuevaCantidad, int nuevoProveedor, decimal voltaje, bool transformador);
+        string ActualizarProductoElectronicoDeLista(int Id, string descripcion, decimal nuevoPrecio, int nuevaCantidad, int nuevoProveedor, int voltaje, bool transformador);
     }
 }
