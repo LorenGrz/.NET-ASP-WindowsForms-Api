@@ -1,0 +1,44 @@
+@model ProyectoCompartido.ProductoAPilas;
+
+
+<h1>Agregar Nuevo Producto a Pilas</h1>
+
+<form asp-action="AgregarProductoAPilas">
+    <div class="form-group">
+        <label for="Name">Nombre: </label>
+        <input asp-for="Nombre" class="form-control"/>
+    </div>
+
+    <div class="form-group">
+        <label for="Name">Precio: </label>
+        <input asp-for="Precio" class="form-control"/>
+    </div>
+
+    <div class="form-group">
+        <label for="Name">Cantidad: </label>
+        <input asp-for="Cantidad" class="form-control"/>
+    </div>
+
+    <div class="form-group">
+        <label for="Name">Descripcion: </label>
+        <input asp-for="Descripcion" class="form-control"/>
+    </div>
+
+    <div class="form-group">
+        <label for="Name">Cantidad de Pilas: </label>
+        <input asp-for="CantPilas" class="form-control" />
+    </div>
+
+    <div class="form-group">
+        <label for="Name">Tipo de Pilas: </label>
+        <input asp-for="Tipo" class="form-control" />
+    </div>
+
+    <div class="form-group">
+        <label for="Name">Proveedor: </label>
+        <input asp-for="ProveedorID " class="form-control"/>
+    </div>
+
+    <button type="submit" class="btn btn-primary">Guardar</button>
+    <button type= "submit" asp-action="Index" class="btn btn-success">Volver a la lista de productos a pilas</button>
+</form>

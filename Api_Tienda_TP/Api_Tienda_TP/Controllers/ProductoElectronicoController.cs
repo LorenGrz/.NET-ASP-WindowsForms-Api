@@ -25,6 +25,13 @@ namespace Api_Tienda_TP.Controllers
         }
 
         [HttpGet]
+        [Route("ListarProductoElectronicoPorId")]
+        public ActionResult<Producto> ObtenerProductoPorId(int _id)
+        {
+            return _productoElectronico.ObtenerProductoElectronico(_id);
+        }
+
+        [HttpGet]
         [Route("ListarProductosPorProveedor")]
         public ActionResult<IEnumerable<ProductoElectronico>> ObtenerProductosElectronicosPorProveedor(int IdProveedor)
         {

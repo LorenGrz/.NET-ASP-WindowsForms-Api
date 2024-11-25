@@ -8,9 +8,8 @@ a.navbar-brand {
     
 }
 
-header {
-    color: gray;
-    background-color: gray;
+.dropdown-menu a:hover{
+    background-color: none;
 }
 
 nav {

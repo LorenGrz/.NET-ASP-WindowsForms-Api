@@ -40,13 +40,13 @@ namespace WebTienda1.Controllers
             }
         }
 
-        public async Task<IActionResult> Detalles(int id)
+        public async Task<IActionResult> DetallesVenta(int id)
         {
             var respuesta = await _httpClient.GetAsync($"Ventas/ListarVentaPorId?_id={id}");
             if (respuesta.IsSuccessStatusCode)
             {
                 var contenido = await respuesta.Content.ReadAsStringAsync();
-                var venta = JsonConvert.DeserializeObject<List<Venta>>(contenido);
+                var venta = JsonConvert.DeserializeObject<Venta>(contenido);
                 return View(venta);
             }
             else
@@ -80,7 +80,7 @@ namespace WebTienda1.Controllers
             if (respuesta.IsSuccessStatusCode)
             {
                 var contenido = await respuesta.Content.ReadAsStringAsync();
-                var proveedor = JsonConvert.DeserializeObject<List<Venta>>(contenido);
+                var proveedor = JsonConvert.DeserializeObject<Venta>(contenido);
                 return View(proveedor);
             }
             else
@@ -89,7 +89,8 @@ namespace WebTienda1.Controllers
             }
         }
 
-        [HttpDelete, ActionName("Eliminar")]
+        [HttpDelete]
+        [ActionName("ConfirmarEliminacionVenta")]
         public async Task<IActionResult> ConfirmarEliminacionVenta(int id)
         {
             var respuesta = await _httpClient.DeleteAsync($"/Ventas/EliminarVenta?_id={id}");

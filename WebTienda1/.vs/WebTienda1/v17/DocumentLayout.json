@@ -3,28 +3,158 @@
   "WorkspaceRootPath": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\WebTienda1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CD6B504A-B244-420E-BEF3-311DA78C393E}|WebTienda1\\WebTienda1.csproj|c:\\users\\loren\\onedrive\\escritorio\\curso .net\\.net-asp-windowsforms-api\\webtienda1\\webtienda1\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CD6B504A-B244-420E-BEF3-311DA78C393E}|WebTienda1\\WebTienda1.csproj|solutionrelative:webtienda1\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CD6B504A-B244-420E-BEF3-311DA78C393E}|WebTienda1\\WebTienda1.csproj|c:\\users\\loren\\onedrive\\escritorio\\curso .net\\.net-asp-windowsforms-api\\webtienda1\\webtienda1\\controllers\\ventascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD6B504A-B244-420E-BEF3-311DA78C393E}|WebTienda1\\WebTienda1.csproj|solutionrelative:webtienda1\\controllers\\ventascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD6B504A-B244-420E-BEF3-311DA78C393E}|WebTienda1\\WebTienda1.csproj|c:\\users\\loren\\onedrive\\escritorio\\curso .net\\.net-asp-windowsforms-api\\webtienda1\\webtienda1\\views\\ventas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CD6B504A-B244-420E-BEF3-311DA78C393E}|WebTienda1\\WebTienda1.csproj|solutionrelative:webtienda1\\views\\ventas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD6B504A-B244-420E-BEF3-311DA78C393E}|WebTienda1\\WebTienda1.csproj|c:\\users\\loren\\onedrive\\escritorio\\curso .net\\.net-asp-windowsforms-api\\webtienda1\\webtienda1\\views\\productos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CD6B504A-B244-420E-BEF3-311DA78C393E}|WebTienda1\\WebTienda1.csproj|solutionrelative:webtienda1\\views\\productos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD6B504A-B244-420E-BEF3-311DA78C393E}|WebTienda1\\WebTienda1.csproj|c:\\users\\loren\\onedrive\\escritorio\\curso .net\\.net-asp-windowsforms-api\\webtienda1\\webtienda1\\views\\productosapilas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CD6B504A-B244-420E-BEF3-311DA78C393E}|WebTienda1\\WebTienda1.csproj|solutionrelative:webtienda1\\views\\productosapilas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD6B504A-B244-420E-BEF3-311DA78C393E}|WebTienda1\\WebTienda1.csproj|c:\\users\\loren\\onedrive\\escritorio\\curso .net\\.net-asp-windowsforms-api\\webtienda1\\webtienda1\\views\\productoselectronicos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CD6B504A-B244-420E-BEF3-311DA78C393E}|WebTienda1\\WebTienda1.csproj|solutionrelative:webtienda1\\views\\productoselectronicos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD6B504A-B244-420E-BEF3-311DA78C393E}|WebTienda1\\WebTienda1.csproj|c:\\users\\loren\\onedrive\\escritorio\\curso .net\\.net-asp-windowsforms-api\\webtienda1\\webtienda1\\views\\proveedores\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CD6B504A-B244-420E-BEF3-311DA78C393E}|WebTienda1\\WebTienda1.csproj|solutionrelative:webtienda1\\views\\proveedores\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD6B504A-B244-420E-BEF3-311DA78C393E}|WebTienda1\\WebTienda1.csproj|c:\\users\\loren\\onedrive\\escritorio\\curso .net\\.net-asp-windowsforms-api\\webtienda1\\webtienda1\\views\\ventas\\detallesventa.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CD6B504A-B244-420E-BEF3-311DA78C393E}|WebTienda1\\WebTienda1.csproj|solutionrelative:webtienda1\\views\\ventas\\detallesventa.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD6B504A-B244-420E-BEF3-311DA78C393E}|WebTienda1\\WebTienda1.csproj|c:\\users\\loren\\onedrive\\escritorio\\curso .net\\.net-asp-windowsforms-api\\webtienda1\\webtienda1\\views\\ventas\\eliminarventa.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CD6B504A-B244-420E-BEF3-311DA78C393E}|WebTienda1\\WebTienda1.csproj|solutionrelative:webtienda1\\views\\ventas\\eliminarventa.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD6B504A-B244-420E-BEF3-311DA78C393E}|WebTienda1\\WebTienda1.csproj|c:\\users\\loren\\onedrive\\escritorio\\curso .net\\.net-asp-windowsforms-api\\webtienda1\\webtienda1\\views\\proveedores\\actualizarproveedor.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CD6B504A-B244-420E-BEF3-311DA78C393E}|WebTienda1\\WebTienda1.csproj|solutionrelative:webtienda1\\views\\proveedores\\actualizarproveedor.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CD6B504A-B244-420E-BEF3-311DA78C393E}|WebTienda1\\WebTienda1.csproj|c:\\users\\loren\\onedrive\\escritorio\\curso .net\\.net-asp-windowsforms-api\\webtienda1\\webtienda1\\controllers\\proveedorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CD6B504A-B244-420E-BEF3-311DA78C393E}|WebTienda1\\WebTienda1.csproj|solutionrelative:webtienda1\\controllers\\proveedorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CD6B504A-B244-420E-BEF3-311DA78C393E}|WebTienda1\\WebTienda1.csproj|c:\\users\\loren\\onedrive\\escritorio\\curso .net\\.net-asp-windowsforms-api\\webtienda1\\webtienda1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CD6B504A-B244-420E-BEF3-311DA78C393E}|WebTienda1\\WebTienda1.csproj|solutionrelative:webtienda1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CD6B504A-B244-420E-BEF3-311DA78C393E}|WebTienda1\\WebTienda1.csproj|c:\\users\\loren\\onedrive\\escritorio\\curso .net\\.net-asp-windowsforms-api\\webtienda1\\webtienda1\\views\\proveedores\\eliminarproveedor.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CD6B504A-B244-420E-BEF3-311DA78C393E}|WebTienda1\\WebTienda1.csproj|solutionrelative:webtienda1\\views\\proveedores\\eliminarproveedor.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD6B504A-B244-420E-BEF3-311DA78C393E}|WebTienda1\\WebTienda1.csproj|c:\\users\\loren\\onedrive\\escritorio\\curso .net\\.net-asp-windowsforms-api\\webtienda1\\webtienda1\\views\\productosapilas\\agregarproductoapilas.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CD6B504A-B244-420E-BEF3-311DA78C393E}|WebTienda1\\WebTienda1.csproj|solutionrelative:webtienda1\\views\\productosapilas\\agregarproductoapilas.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD6B504A-B244-420E-BEF3-311DA78C393E}|WebTienda1\\WebTienda1.csproj|c:\\users\\loren\\onedrive\\escritorio\\curso .net\\.net-asp-windowsforms-api\\webtienda1\\webtienda1\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CD6B504A-B244-420E-BEF3-311DA78C393E}|WebTienda1\\WebTienda1.csproj|solutionrelative:webtienda1\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD6B504A-B244-420E-BEF3-311DA78C393E}|WebTienda1\\WebTienda1.csproj|c:\\users\\loren\\onedrive\\escritorio\\curso .net\\.net-asp-windowsforms-api\\webtienda1\\webtienda1\\controllers\\productosapilascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD6B504A-B244-420E-BEF3-311DA78C393E}|WebTienda1\\WebTienda1.csproj|solutionrelative:webtienda1\\controllers\\productosapilascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD6B504A-B244-420E-BEF3-311DA78C393E}|WebTienda1\\WebTienda1.csproj|c:\\users\\loren\\onedrive\\escritorio\\curso .net\\.net-asp-windowsforms-api\\webtienda1\\webtienda1\\controllers\\productoselectronicoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD6B504A-B244-420E-BEF3-311DA78C393E}|WebTienda1\\WebTienda1.csproj|solutionrelative:webtienda1\\controllers\\productoselectronicoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD6B504A-B244-420E-BEF3-311DA78C393E}|WebTienda1\\WebTienda1.csproj|c:\\users\\loren\\onedrive\\escritorio\\curso .net\\.net-asp-windowsforms-api\\webtienda1\\webtienda1\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD6B504A-B244-420E-BEF3-311DA78C393E}|WebTienda1\\WebTienda1.csproj|solutionrelative:webtienda1\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD6B504A-B244-420E-BEF3-311DA78C393E}|WebTienda1\\WebTienda1.csproj|c:\\users\\loren\\onedrive\\escritorio\\curso .net\\.net-asp-windowsforms-api\\webtienda1\\webtienda1\\views\\productoselectronicos\\detalleselectronico.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CD6B504A-B244-420E-BEF3-311DA78C393E}|WebTienda1\\WebTienda1.csproj|solutionrelative:webtienda1\\views\\productoselectronicos\\detalleselectronico.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD6B504A-B244-420E-BEF3-311DA78C393E}|WebTienda1\\WebTienda1.csproj|c:\\users\\loren\\onedrive\\escritorio\\curso .net\\.net-asp-windowsforms-api\\webtienda1\\webtienda1\\views\\productoselectronicos\\agregarproductoelectronico.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CD6B504A-B244-420E-BEF3-311DA78C393E}|WebTienda1\\WebTienda1.csproj|solutionrelative:webtienda1\\views\\productoselectronicos\\agregarproductoelectronico.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD6B504A-B244-420E-BEF3-311DA78C393E}|WebTienda1\\WebTienda1.csproj|c:\\users\\loren\\onedrive\\escritorio\\curso .net\\.net-asp-windowsforms-api\\webtienda1\\webtienda1\\views\\productoselectronicos\\actualizarproductoelectronico.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CD6B504A-B244-420E-BEF3-311DA78C393E}|WebTienda1\\WebTienda1.csproj|solutionrelative:webtienda1\\views\\productoselectronicos\\actualizarproductoelectronico.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD6B504A-B244-420E-BEF3-311DA78C393E}|WebTienda1\\WebTienda1.csproj|c:\\users\\loren\\onedrive\\escritorio\\curso .net\\.net-asp-windowsforms-api\\webtienda1\\webtienda1\\views\\productosapilas\\eliminarproductoapilas.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CD6B504A-B244-420E-BEF3-311DA78C393E}|WebTienda1\\WebTienda1.csproj|solutionrelative:webtienda1\\views\\productosapilas\\eliminarproductoapilas.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD6B504A-B244-420E-BEF3-311DA78C393E}|WebTienda1\\WebTienda1.csproj|c:\\users\\loren\\onedrive\\escritorio\\curso .net\\.net-asp-windowsforms-api\\webtienda1\\webtienda1\\views\\productosapilas\\detallesapilas.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CD6B504A-B244-420E-BEF3-311DA78C393E}|WebTienda1\\WebTienda1.csproj|solutionrelative:webtienda1\\views\\productosapilas\\detallesapilas.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD6B504A-B244-420E-BEF3-311DA78C393E}|WebTienda1\\WebTienda1.csproj|c:\\users\\loren\\onedrive\\escritorio\\curso .net\\.net-asp-windowsforms-api\\webtienda1\\webtienda1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD6B504A-B244-420E-BEF3-311DA78C393E}|WebTienda1\\WebTienda1.csproj|solutionrelative:webtienda1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD6B504A-B244-420E-BEF3-311DA78C393E}|WebTienda1\\WebTienda1.csproj|c:\\users\\loren\\onedrive\\escritorio\\curso .net\\.net-asp-windowsforms-api\\webtienda1\\webtienda1\\views\\productoselectronicos\\eliminarproductoelectronico.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CD6B504A-B244-420E-BEF3-311DA78C393E}|WebTienda1\\WebTienda1.csproj|solutionrelative:webtienda1\\views\\productoselectronicos\\eliminarproductoelectronico.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD6B504A-B244-420E-BEF3-311DA78C393E}|WebTienda1\\WebTienda1.csproj|c:\\users\\loren\\onedrive\\escritorio\\curso .net\\.net-asp-windowsforms-api\\webtienda1\\webtienda1\\views\\productos\\eliminarproducto.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CD6B504A-B244-420E-BEF3-311DA78C393E}|WebTienda1\\WebTienda1.csproj|solutionrelative:webtienda1\\views\\productos\\eliminarproducto.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E303B3FF-B08F-4B67-8CB2-8417BE1C6C11}|..\\ProyectoCompartido\\ProyectoCompartido\\ProyectoCompartido.shproj|c:\\users\\loren\\onedrive\\escritorio\\curso .net\\.net-asp-windowsforms-api\\proyectocompartido\\proyectocompartido\\productoelectronico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD6B504A-B244-420E-BEF3-311DA78C393E}|WebTienda1\\WebTienda1.csproj|c:\\users\\loren\\onedrive\\escritorio\\curso .net\\.net-asp-windowsforms-api\\webtienda1\\webtienda1\\views\\productosapilas\\actualizarproductoapilas.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CD6B504A-B244-420E-BEF3-311DA78C393E}|WebTienda1\\WebTienda1.csproj|solutionrelative:webtienda1\\views\\productosapilas\\actualizarproductoapilas.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD6B504A-B244-420E-BEF3-311DA78C393E}|WebTienda1\\WebTienda1.csproj|c:\\users\\loren\\onedrive\\escritorio\\curso .net\\.net-asp-windowsforms-api\\webtienda1\\webtienda1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CD6B504A-B244-420E-BEF3-311DA78C393E}|WebTienda1\\WebTienda1.csproj|solutionrelative:webtienda1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD6B504A-B244-420E-BEF3-311DA78C393E}|WebTienda1\\WebTienda1.csproj|c:\\users\\loren\\onedrive\\escritorio\\curso .net\\.net-asp-windowsforms-api\\webtienda1\\webtienda1\\wwwroot\\favicon.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{CD6B504A-B244-420E-BEF3-311DA78C393E}|WebTienda1\\WebTienda1.csproj|solutionrelative:webtienda1\\wwwroot\\favicon.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD6B504A-B244-420E-BEF3-311DA78C393E}|WebTienda1\\WebTienda1.csproj|c:\\users\\loren\\onedrive\\escritorio\\curso .net\\.net-asp-windowsforms-api\\webtienda1\\webtienda1\\webtienda1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CD6B504A-B244-420E-BEF3-311DA78C393E}|WebTienda1\\WebTienda1.csproj|solutionrelative:webtienda1\\webtienda1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD6B504A-B244-420E-BEF3-311DA78C393E}|WebTienda1\\WebTienda1.csproj|c:\\users\\loren\\onedrive\\escritorio\\curso .net\\.net-asp-windowsforms-api\\webtienda1\\webtienda1\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{CD6B504A-B244-420E-BEF3-311DA78C393E}|WebTienda1\\WebTienda1.csproj|solutionrelative:webtienda1\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\8.0.400\\Sdks\\Microsoft.NET.Sdk.StaticWebAssets\\targets\\Microsoft.NET.Sdk.StaticWebAssets.ScopedCss.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CD6B504A-B244-420E-BEF3-311DA78C393E}|WebTienda1\\WebTienda1.csproj|c:\\users\\loren\\onedrive\\escritorio\\curso .net\\.net-asp-windowsforms-api\\webtienda1\\webtienda1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{CD6B504A-B244-420E-BEF3-311DA78C393E}|WebTienda1\\WebTienda1.csproj|solutionrelative:webtienda1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CD6B504A-B244-420E-BEF3-311DA78C393E}|WebTienda1\\WebTienda1.csproj|c:\\users\\loren\\onedrive\\escritorio\\curso .net\\.net-asp-windowsforms-api\\webtienda1\\webtienda1\\views\\productos\\productos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CD6B504A-B244-420E-BEF3-311DA78C393E}|WebTienda1\\WebTienda1.csproj|solutionrelative:webtienda1\\views\\productos\\productos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{CD6B504A-B244-420E-BEF3-311DA78C393E}|WebTienda1\\WebTienda1.csproj|c:\\users\\loren\\onedrive\\escritorio\\curso .net\\.net-asp-windowsforms-api\\webtienda1\\webtienda1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD6B504A-B244-420E-BEF3-311DA78C393E}|WebTienda1\\WebTienda1.csproj|solutionrelative:webtienda1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CD6B504A-B244-420E-BEF3-311DA78C393E}|WebTienda1\\WebTienda1.csproj|c:\\users\\loren\\onedrive\\escritorio\\curso .net\\.net-asp-windowsforms-api\\webtienda1\\webtienda1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CD6B504A-B244-420E-BEF3-311DA78C393E}|WebTienda1\\WebTienda1.csproj|solutionrelative:webtienda1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{CD6B504A-B244-420E-BEF3-311DA78C393E}|WebTienda1\\WebTienda1.csproj|c:\\users\\loren\\onedrive\\escritorio\\curso .net\\.net-asp-windowsforms-api\\webtienda1\\webtienda1\\views\\proveedores\\detalles.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CD6B504A-B244-420E-BEF3-311DA78C393E}|WebTienda1\\WebTienda1.csproj|solutionrelative:webtienda1\\views\\proveedores\\detalles.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD6B504A-B244-420E-BEF3-311DA78C393E}|WebTienda1\\WebTienda1.csproj|c:\\users\\loren\\onedrive\\escritorio\\curso .net\\.net-asp-windowsforms-api\\webtienda1\\webtienda1\\views\\ventas\\agregarventa.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CD6B504A-B244-420E-BEF3-311DA78C393E}|WebTienda1\\WebTienda1.csproj|solutionrelative:webtienda1\\views\\ventas\\agregarventa.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD6B504A-B244-420E-BEF3-311DA78C393E}|WebTienda1\\WebTienda1.csproj|c:\\users\\loren\\onedrive\\escritorio\\curso .net\\.net-asp-windowsforms-api\\webtienda1\\webtienda1\\views\\productos\\detalles.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CD6B504A-B244-420E-BEF3-311DA78C393E}|WebTienda1\\WebTienda1.csproj|solutionrelative:webtienda1\\views\\productos\\detalles.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD6B504A-B244-420E-BEF3-311DA78C393E}|WebTienda1\\WebTienda1.csproj|c:\\users\\loren\\onedrive\\escritorio\\curso .net\\.net-asp-windowsforms-api\\webtienda1\\webtienda1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CD6B504A-B244-420E-BEF3-311DA78C393E}|WebTienda1\\WebTienda1.csproj|solutionrelative:webtienda1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD6B504A-B244-420E-BEF3-311DA78C393E}|WebTienda1\\WebTienda1.csproj|c:\\users\\loren\\onedrive\\escritorio\\curso .net\\.net-asp-windowsforms-api\\webtienda1\\webtienda1\\views\\productos\\actualizarproducto.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CD6B504A-B244-420E-BEF3-311DA78C393E}|WebTienda1\\WebTienda1.csproj|solutionrelative:webtienda1\\views\\productos\\actualizarproducto.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD6B504A-B244-420E-BEF3-311DA78C393E}|WebTienda1\\WebTienda1.csproj|c:\\users\\loren\\onedrive\\escritorio\\curso .net\\.net-asp-windowsforms-api\\webtienda1\\webtienda1\\configuracion\\apisetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD6B504A-B244-420E-BEF3-311DA78C393E}|WebTienda1\\WebTienda1.csproj|solutionrelative:webtienda1\\configuracion\\apisetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CD6B504A-B244-420E-BEF3-311DA78C393E}|WebTienda1\\WebTienda1.csproj|c:\\users\\loren\\onedrive\\escritorio\\curso .net\\.net-asp-windowsforms-api\\webtienda1\\webtienda1\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -35,88 +165,16 @@
       "RelativeMoniker": "D:0:0:{CD6B504A-B244-420E-BEF3-311DA78C393E}|WebTienda1\\WebTienda1.csproj|solutionrelative:webtienda1\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CD6B504A-B244-420E-BEF3-311DA78C393E}|WebTienda1\\WebTienda1.csproj|c:\\users\\loren\\onedrive\\escritorio\\curso .net\\.net-asp-windowsforms-api\\webtienda1\\webtienda1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CD6B504A-B244-420E-BEF3-311DA78C393E}|WebTienda1\\WebTienda1.csproj|solutionrelative:webtienda1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CD6B504A-B244-420E-BEF3-311DA78C393E}|WebTienda1\\WebTienda1.csproj|c:\\users\\loren\\onedrive\\escritorio\\curso .net\\.net-asp-windowsforms-api\\webtienda1\\webtienda1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{CD6B504A-B244-420E-BEF3-311DA78C393E}|WebTienda1\\WebTienda1.csproj|solutionrelative:webtienda1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CD6B504A-B244-420E-BEF3-311DA78C393E}|WebTienda1\\WebTienda1.csproj|c:\\users\\loren\\onedrive\\escritorio\\curso .net\\.net-asp-windowsforms-api\\webtienda1\\webtienda1\\configuracion\\apisetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CD6B504A-B244-420E-BEF3-311DA78C393E}|WebTienda1\\WebTienda1.csproj|solutionrelative:webtienda1\\configuracion\\apisetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CD6B504A-B244-420E-BEF3-311DA78C393E}|WebTienda1\\WebTienda1.csproj|c:\\users\\loren\\onedrive\\escritorio\\curso .net\\.net-asp-windowsforms-api\\webtienda1\\webtienda1\\controllers\\ventascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CD6B504A-B244-420E-BEF3-311DA78C393E}|WebTienda1\\WebTienda1.csproj|solutionrelative:webtienda1\\controllers\\ventascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CD6B504A-B244-420E-BEF3-311DA78C393E}|WebTienda1\\WebTienda1.csproj|c:\\users\\loren\\onedrive\\escritorio\\curso .net\\.net-asp-windowsforms-api\\webtienda1\\webtienda1\\views\\ventas\\ventas.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CD6B504A-B244-420E-BEF3-311DA78C393E}|WebTienda1\\WebTienda1.csproj|solutionrelative:webtienda1\\views\\ventas\\ventas.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CD6B504A-B244-420E-BEF3-311DA78C393E}|WebTienda1\\WebTienda1.csproj|c:\\users\\loren\\onedrive\\escritorio\\curso .net\\.net-asp-windowsforms-api\\webtienda1\\webtienda1\\views\\proveedores\\eliminarproveedor.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CD6B504A-B244-420E-BEF3-311DA78C393E}|WebTienda1\\WebTienda1.csproj|solutionrelative:webtienda1\\views\\proveedores\\eliminarproveedor.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CD6B504A-B244-420E-BEF3-311DA78C393E}|WebTienda1\\WebTienda1.csproj|c:\\users\\loren\\onedrive\\escritorio\\curso .net\\.net-asp-windowsforms-api\\webtienda1\\webtienda1\\views\\proveedores\\proveedores.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CD6B504A-B244-420E-BEF3-311DA78C393E}|WebTienda1\\WebTienda1.csproj|solutionrelative:webtienda1\\views\\proveedores\\proveedores.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CD6B504A-B244-420E-BEF3-311DA78C393E}|WebTienda1\\WebTienda1.csproj|c:\\users\\loren\\onedrive\\escritorio\\curso .net\\.net-asp-windowsforms-api\\webtienda1\\webtienda1\\views\\ventas\\detalles.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CD6B504A-B244-420E-BEF3-311DA78C393E}|WebTienda1\\WebTienda1.csproj|solutionrelative:webtienda1\\views\\ventas\\detalles.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CD6B504A-B244-420E-BEF3-311DA78C393E}|WebTienda1\\WebTienda1.csproj|c:\\users\\loren\\onedrive\\escritorio\\curso .net\\.net-asp-windowsforms-api\\webtienda1\\webtienda1\\views\\proveedores\\detalles.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CD6B504A-B244-420E-BEF3-311DA78C393E}|WebTienda1\\WebTienda1.csproj|solutionrelative:webtienda1\\views\\proveedores\\detalles.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{CD6B504A-B244-420E-BEF3-311DA78C393E}|WebTienda1\\WebTienda1.csproj|c:\\users\\loren\\onedrive\\escritorio\\curso .net\\.net-asp-windowsforms-api\\webtienda1\\webtienda1\\views\\proveedores\\agregarproveedor.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{CD6B504A-B244-420E-BEF3-311DA78C393E}|WebTienda1\\WebTienda1.csproj|solutionrelative:webtienda1\\views\\proveedores\\agregarproveedor.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CD6B504A-B244-420E-BEF3-311DA78C393E}|WebTienda1\\WebTienda1.csproj|c:\\users\\loren\\onedrive\\escritorio\\curso .net\\.net-asp-windowsforms-api\\webtienda1\\webtienda1\\views\\proveedores\\actualizarproveedor.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CD6B504A-B244-420E-BEF3-311DA78C393E}|WebTienda1\\WebTienda1.csproj|solutionrelative:webtienda1\\views\\proveedores\\actualizarproveedor.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CD6B504A-B244-420E-BEF3-311DA78C393E}|WebTienda1\\WebTienda1.csproj|c:\\users\\loren\\onedrive\\escritorio\\curso .net\\.net-asp-windowsforms-api\\webtienda1\\webtienda1\\views\\productos\\eliminarproducto.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CD6B504A-B244-420E-BEF3-311DA78C393E}|WebTienda1\\WebTienda1.csproj|solutionrelative:webtienda1\\views\\productos\\eliminarproducto.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CD6B504A-B244-420E-BEF3-311DA78C393E}|WebTienda1\\WebTienda1.csproj|c:\\users\\loren\\onedrive\\escritorio\\curso .net\\.net-asp-windowsforms-api\\webtienda1\\webtienda1\\views\\productos\\productosapilas.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CD6B504A-B244-420E-BEF3-311DA78C393E}|WebTienda1\\WebTienda1.csproj|solutionrelative:webtienda1\\views\\productos\\productosapilas.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CD6B504A-B244-420E-BEF3-311DA78C393E}|WebTienda1\\WebTienda1.csproj|c:\\users\\loren\\onedrive\\escritorio\\curso .net\\.net-asp-windowsforms-api\\webtienda1\\webtienda1\\views\\productos\\productoselectronicos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CD6B504A-B244-420E-BEF3-311DA78C393E}|WebTienda1\\WebTienda1.csproj|solutionrelative:webtienda1\\views\\productos\\productoselectronicos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CD6B504A-B244-420E-BEF3-311DA78C393E}|WebTienda1\\WebTienda1.csproj|c:\\users\\loren\\onedrive\\escritorio\\curso .net\\.net-asp-windowsforms-api\\webtienda1\\webtienda1\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{CD6B504A-B244-420E-BEF3-311DA78C393E}|WebTienda1\\WebTienda1.csproj|solutionrelative:webtienda1\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CD6B504A-B244-420E-BEF3-311DA78C393E}|WebTienda1\\WebTienda1.csproj|c:\\users\\loren\\onedrive\\escritorio\\curso .net\\.net-asp-windowsforms-api\\webtienda1\\webtienda1\\views\\ventas\\eliminarventa.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CD6B504A-B244-420E-BEF3-311DA78C393E}|WebTienda1\\WebTienda1.csproj|solutionrelative:webtienda1\\views\\ventas\\eliminarventa.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CD6B504A-B244-420E-BEF3-311DA78C393E}|WebTienda1\\WebTienda1.csproj|c:\\users\\loren\\onedrive\\escritorio\\curso .net\\.net-asp-windowsforms-api\\webtienda1\\webtienda1\\views\\productos\\detalles.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CD6B504A-B244-420E-BEF3-311DA78C393E}|WebTienda1\\WebTienda1.csproj|solutionrelative:webtienda1\\views\\productos\\detalles.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{CD6B504A-B244-420E-BEF3-311DA78C393E}|WebTienda1\\WebTienda1.csproj|c:\\users\\loren\\onedrive\\escritorio\\curso .net\\.net-asp-windowsforms-api\\webtienda1\\webtienda1\\views\\productos\\agregarproducto.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{CD6B504A-B244-420E-BEF3-311DA78C393E}|WebTienda1\\WebTienda1.csproj|solutionrelative:webtienda1\\views\\productos\\agregarproducto.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CD6B504A-B244-420E-BEF3-311DA78C393E}|WebTienda1\\WebTienda1.csproj|c:\\users\\loren\\onedrive\\escritorio\\curso .net\\.net-asp-windowsforms-api\\webtienda1\\webtienda1\\views\\ventas\\agregarventa.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CD6B504A-B244-420E-BEF3-311DA78C393E}|WebTienda1\\WebTienda1.csproj|solutionrelative:webtienda1\\views\\ventas\\agregarventa.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CD6B504A-B244-420E-BEF3-311DA78C393E}|WebTienda1\\WebTienda1.csproj|c:\\users\\loren\\onedrive\\escritorio\\curso .net\\.net-asp-windowsforms-api\\webtienda1\\webtienda1\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CD6B504A-B244-420E-BEF3-311DA78C393E}|WebTienda1\\WebTienda1.csproj|solutionrelative:webtienda1\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CD6B504A-B244-420E-BEF3-311DA78C393E}|WebTienda1\\WebTienda1.csproj|c:\\users\\loren\\onedrive\\escritorio\\curso .net\\.net-asp-windowsforms-api\\webtienda1\\webtienda1\\views\\productos\\actualizarproducto.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CD6B504A-B244-420E-BEF3-311DA78C393E}|WebTienda1\\WebTienda1.csproj|solutionrelative:webtienda1\\views\\productos\\actualizarproducto.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CD6B504A-B244-420E-BEF3-311DA78C393E}|WebTienda1\\WebTienda1.csproj|c:\\users\\loren\\onedrive\\escritorio\\curso .net\\.net-asp-windowsforms-api\\webtienda1\\webtienda1\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -131,24 +189,8 @@
       "RelativeMoniker": "D:0:0:{CD6B504A-B244-420E-BEF3-311DA78C393E}|WebTienda1\\WebTienda1.csproj|solutionrelative:webtienda1\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CD6B504A-B244-420E-BEF3-311DA78C393E}|WebTienda1\\WebTienda1.csproj|c:\\users\\loren\\onedrive\\escritorio\\curso .net\\.net-asp-windowsforms-api\\webtienda1\\webtienda1\\webtienda1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{CD6B504A-B244-420E-BEF3-311DA78C393E}|WebTienda1\\WebTienda1.csproj|solutionrelative:webtienda1\\webtienda1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CD6B504A-B244-420E-BEF3-311DA78C393E}|WebTienda1\\WebTienda1.csproj|c:\\users\\loren\\onedrive\\escritorio\\curso .net\\.net-asp-windowsforms-api\\webtienda1\\webtienda1\\wwwroot\\favicon123.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}",
-      "RelativeMoniker": "D:0:0:{CD6B504A-B244-420E-BEF3-311DA78C393E}|WebTienda1\\WebTienda1.csproj|solutionrelative:webtienda1\\wwwroot\\favicon123.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CD6B504A-B244-420E-BEF3-311DA78C393E}|WebTienda1\\WebTienda1.csproj|c:\\users\\loren\\onedrive\\escritorio\\curso .net\\.net-asp-windowsforms-api\\webtienda1\\webtienda1\\wwwroot\\favicon.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}",
-      "RelativeMoniker": "D:0:0:{CD6B504A-B244-420E-BEF3-311DA78C393E}|WebTienda1\\WebTienda1.csproj|solutionrelative:webtienda1\\wwwroot\\favicon.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{CD6B504A-B244-420E-BEF3-311DA78C393E}|WebTienda1\\WebTienda1.csproj|c:\\users\\loren\\onedrive\\escritorio\\curso .net\\.net-asp-windowsforms-api\\webtienda1\\webtienda1\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{CD6B504A-B244-420E-BEF3-311DA78C393E}|WebTienda1\\WebTienda1.csproj|solutionrelative:webtienda1\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CD6B504A-B244-420E-BEF3-311DA78C393E}|WebTienda1\\WebTienda1.csproj|c:\\users\\loren\\onedrive\\escritorio\\curso .net\\.net-asp-windowsforms-api\\webtienda1\\webtienda1\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{CD6B504A-B244-420E-BEF3-311DA78C393E}|WebTienda1\\WebTienda1.csproj|solutionrelative:webtienda1\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CD6B504A-B244-420E-BEF3-311DA78C393E}|WebTienda1\\WebTienda1.csproj|c:\\users\\loren\\onedrive\\escritorio\\curso .net\\.net-asp-windowsforms-api\\webtienda1\\webtienda1\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -183,69 +225,95 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\WebTienda1\\WebTienda1\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "WebTienda1\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\WebTienda1\\WebTienda1\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "WebTienda1\\Views\\_ViewImports.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\WebTienda1\\WebTienda1\\Views\\Proveedores\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebTienda1\\Views\\Proveedores\\Index.cshtml",
+              "ToolTip": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\WebTienda1\\WebTienda1\\Views\\Proveedores\\Index.cshtml",
+              "RelativeToolTip": "WebTienda1\\Views\\Proveedores\\Index.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-24T12:37:00.432Z",
+              "WhenOpened": "2024-11-24T14:00:58.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EliminarVenta.cshtml",
+              "DocumentMoniker": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\WebTienda1\\WebTienda1\\Views\\Ventas\\EliminarVenta.cshtml",
+              "RelativeDocumentMoniker": "WebTienda1\\Views\\Ventas\\EliminarVenta.cshtml",
+              "ToolTip": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\WebTienda1\\WebTienda1\\Views\\Ventas\\EliminarVenta.cshtml",
+              "RelativeToolTip": "WebTienda1\\Views\\Ventas\\EliminarVenta.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-24T17:47:35.838Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "_ValidationScriptsPartial.cshtml",
-              "DocumentMoniker": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\WebTienda1\\WebTienda1\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "RelativeDocumentMoniker": "WebTienda1\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ToolTip": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\WebTienda1\\WebTienda1\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "RelativeToolTip": "WebTienda1\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "DetallesVenta.cshtml",
+              "DocumentMoniker": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\WebTienda1\\WebTienda1\\Views\\Ventas\\DetallesVenta.cshtml",
+              "RelativeDocumentMoniker": "WebTienda1\\Views\\Ventas\\DetallesVenta.cshtml",
+              "ToolTip": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\WebTienda1\\WebTienda1\\Views\\Ventas\\DetallesVenta.cshtml",
+              "RelativeToolTip": "WebTienda1\\Views\\Ventas\\DetallesVenta.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-24T12:36:51.636Z",
+              "WhenOpened": "2024-11-24T17:49:31.755Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\WebTienda1\\WebTienda1\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "WebTienda1\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\WebTienda1\\WebTienda1\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "WebTienda1\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAswB8AAABwAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\WebTienda1\\WebTienda1\\Views\\Ventas\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebTienda1\\Views\\Ventas\\Index.cshtml",
+              "ToolTip": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\WebTienda1\\WebTienda1\\Views\\Ventas\\Index.cshtml",
+              "RelativeToolTip": "WebTienda1\\Views\\Ventas\\Index.cshtml",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAABoAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-24T12:36:08.239Z",
+              "WhenOpened": "2024-11-24T14:01:13.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\WebTienda1\\WebTienda1\\Views\\ProductosElectronicos\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebTienda1\\Views\\ProductosElectronicos\\Index.cshtml",
+              "ToolTip": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\WebTienda1\\WebTienda1\\Views\\ProductosElectronicos\\Index.cshtml",
+              "RelativeToolTip": "WebTienda1\\Views\\ProductosElectronicos\\Index.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-25T00:33:47.247Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\WebTienda1\\WebTienda1\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "WebTienda1\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\WebTienda1\\WebTienda1\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "WebTienda1\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAGAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\WebTienda1\\WebTienda1\\Views\\ProductosAPilas\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebTienda1\\Views\\ProductosAPilas\\Index.cshtml",
+              "ToolTip": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\WebTienda1\\WebTienda1\\Views\\ProductosAPilas\\Index.cshtml",
+              "RelativeToolTip": "WebTienda1\\Views\\ProductosAPilas\\Index.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-24T12:35:34.724Z",
+              "WhenOpened": "2024-11-25T00:35:34.759Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Productos.cshtml",
-              "DocumentMoniker": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\WebTienda1\\WebTienda1\\Views\\Productos\\Productos.cshtml",
-              "RelativeDocumentMoniker": "WebTienda1\\Views\\Productos\\Productos.cshtml",
-              "ToolTip": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\WebTienda1\\WebTienda1\\Views\\Productos\\Productos.cshtml",
-              "RelativeToolTip": "WebTienda1\\Views\\Productos\\Productos.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAaAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\WebTienda1\\WebTienda1\\Views\\Productos\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebTienda1\\Views\\Productos\\Index.cshtml",
+              "ToolTip": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\WebTienda1\\WebTienda1\\Views\\Productos\\Index.cshtml",
+              "RelativeToolTip": "WebTienda1\\Views\\Productos\\Index.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAcAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-11-24T14:00:21.693Z",
               "EditorCaption": ""
@@ -253,45 +321,188 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ProductosController.cs",
-              "DocumentMoniker": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\WebTienda1\\WebTienda1\\Controllers\\ProductosController.cs",
-              "RelativeDocumentMoniker": "WebTienda1\\Controllers\\ProductosController.cs",
-              "ToolTip": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\WebTienda1\\WebTienda1\\Controllers\\ProductosController.cs",
-              "RelativeToolTip": "WebTienda1\\Controllers\\ProductosController.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAxwCEAAAAnAAAAAAAAAA==",
+              "Title": "VentasController.cs",
+              "DocumentMoniker": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\WebTienda1\\WebTienda1\\Controllers\\VentasController.cs",
+              "RelativeDocumentMoniker": "WebTienda1\\Controllers\\VentasController.cs",
+              "ToolTip": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\WebTienda1\\WebTienda1\\Controllers\\VentasController.cs",
+              "RelativeToolTip": "WebTienda1\\Controllers\\VentasController.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwCoAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-24T13:58:43.378Z",
+              "WhenOpened": "2024-11-24T13:59:23.81Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 8,
+              "Title": "ActualizarProveedor.cshtml",
+              "DocumentMoniker": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\WebTienda1\\WebTienda1\\Views\\Proveedores\\ActualizarProveedor.cshtml",
+              "RelativeDocumentMoniker": "WebTienda1\\Views\\Proveedores\\ActualizarProveedor.cshtml",
+              "ToolTip": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\WebTienda1\\WebTienda1\\Views\\Proveedores\\ActualizarProveedor.cshtml",
+              "RelativeToolTip": "WebTienda1\\Views\\Proveedores\\ActualizarProveedor.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-24T18:53:04.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "ProveedoresController.cs",
               "DocumentMoniker": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\WebTienda1\\WebTienda1\\Controllers\\ProveedoresController.cs",
               "RelativeDocumentMoniker": "WebTienda1\\Controllers\\ProveedoresController.cs",
               "ToolTip": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\WebTienda1\\WebTienda1\\Controllers\\ProveedoresController.cs",
               "RelativeToolTip": "WebTienda1\\Controllers\\ProveedoresController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAowFAAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-24T13:59:02.191Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\WebTienda1\\WebTienda1\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "WebTienda1\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\WebTienda1\\WebTienda1\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "WebTienda1\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-24T12:37:18.192Z",
+              "DocumentIndex": 10,
+              "Title": "EliminarProveedor.cshtml",
+              "DocumentMoniker": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\WebTienda1\\WebTienda1\\Views\\Proveedores\\EliminarProveedor.cshtml",
+              "RelativeDocumentMoniker": "WebTienda1\\Views\\Proveedores\\EliminarProveedor.cshtml",
+              "ToolTip": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\WebTienda1\\WebTienda1\\Views\\Proveedores\\EliminarProveedor.cshtml",
+              "RelativeToolTip": "WebTienda1\\Views\\Proveedores\\EliminarProveedor.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-24T18:47:58.937Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
+              "Title": "AgregarProductoAPilas.cshtml",
+              "DocumentMoniker": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\WebTienda1\\WebTienda1\\Views\\ProductosAPilas\\AgregarProductoAPilas.cshtml",
+              "RelativeDocumentMoniker": "WebTienda1\\Views\\ProductosAPilas\\AgregarProductoAPilas.cshtml",
+              "ToolTip": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\WebTienda1\\WebTienda1\\Views\\ProductosAPilas\\AgregarProductoAPilas.cshtml",
+              "RelativeToolTip": "WebTienda1\\Views\\ProductosAPilas\\AgregarProductoAPilas.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACEAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-25T01:14:30.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ProductosAPilasController.cs",
+              "DocumentMoniker": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\WebTienda1\\WebTienda1\\Controllers\\ProductosAPilasController.cs",
+              "RelativeDocumentMoniker": "WebTienda1\\Controllers\\ProductosAPilasController.cs",
+              "ToolTip": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\WebTienda1\\WebTienda1\\Controllers\\ProductosAPilasController.cs",
+              "RelativeToolTip": "WebTienda1\\Controllers\\ProductosAPilasController.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAUwCkAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T00:35:18.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\WebTienda1\\WebTienda1\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "WebTienda1\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\WebTienda1\\WebTienda1\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "WebTienda1\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-24T12:36:54.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ProductosElectronicosController.cs",
+              "DocumentMoniker": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\WebTienda1\\WebTienda1\\Controllers\\ProductosElectronicosController.cs",
+              "RelativeDocumentMoniker": "WebTienda1\\Controllers\\ProductosElectronicosController.cs",
+              "ToolTip": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\WebTienda1\\WebTienda1\\Controllers\\ProductosElectronicosController.cs",
+              "RelativeToolTip": "WebTienda1\\Controllers\\ProductosElectronicosController.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAswCkAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T00:33:27.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ProductosController.cs",
+              "DocumentMoniker": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\WebTienda1\\WebTienda1\\Controllers\\ProductosController.cs",
+              "RelativeDocumentMoniker": "WebTienda1\\Controllers\\ProductosController.cs",
+              "ToolTip": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\WebTienda1\\WebTienda1\\Controllers\\ProductosController.cs",
+              "RelativeToolTip": "WebTienda1\\Controllers\\ProductosController.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAUwEQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T13:58:43.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DetallesElectronico.cshtml",
+              "DocumentMoniker": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\WebTienda1\\WebTienda1\\Views\\ProductosElectronicos\\DetallesElectronico.cshtml",
+              "RelativeDocumentMoniker": "WebTienda1\\Views\\ProductosElectronicos\\DetallesElectronico.cshtml",
+              "ToolTip": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\WebTienda1\\WebTienda1\\Views\\ProductosElectronicos\\DetallesElectronico.cshtml",
+              "RelativeToolTip": "WebTienda1\\Views\\ProductosElectronicos\\DetallesElectronico.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-25T01:21:27.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AgregarProductoElectronico.cshtml",
+              "DocumentMoniker": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\WebTienda1\\WebTienda1\\Views\\ProductosElectronicos\\AgregarProductoElectronico.cshtml",
+              "RelativeDocumentMoniker": "WebTienda1\\Views\\ProductosElectronicos\\AgregarProductoElectronico.cshtml",
+              "ToolTip": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\WebTienda1\\WebTienda1\\Views\\ProductosElectronicos\\AgregarProductoElectronico.cshtml",
+              "RelativeToolTip": "WebTienda1\\Views\\ProductosElectronicos\\AgregarProductoElectronico.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-25T01:20:12.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ActualizarProductoElectronico.cshtml",
+              "DocumentMoniker": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\WebTienda1\\WebTienda1\\Views\\ProductosElectronicos\\ActualizarProductoElectronico.cshtml",
+              "RelativeDocumentMoniker": "WebTienda1\\Views\\ProductosElectronicos\\ActualizarProductoElectronico.cshtml",
+              "ToolTip": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\WebTienda1\\WebTienda1\\Views\\ProductosElectronicos\\ActualizarProductoElectronico.cshtml",
+              "RelativeToolTip": "WebTienda1\\Views\\ProductosElectronicos\\ActualizarProductoElectronico.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAIwBoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-25T01:19:10.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "EliminarProductoAPilas.cshtml",
+              "DocumentMoniker": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\WebTienda1\\WebTienda1\\Views\\ProductosAPilas\\EliminarProductoAPilas.cshtml",
+              "RelativeDocumentMoniker": "WebTienda1\\Views\\ProductosAPilas\\EliminarProductoAPilas.cshtml",
+              "ToolTip": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\WebTienda1\\WebTienda1\\Views\\ProductosAPilas\\EliminarProductoAPilas.cshtml",
+              "RelativeToolTip": "WebTienda1\\Views\\ProductosAPilas\\EliminarProductoAPilas.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-25T01:18:24.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "DetallesAPilas.cshtml",
+              "DocumentMoniker": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\WebTienda1\\WebTienda1\\Views\\ProductosAPilas\\DetallesAPilas.cshtml",
+              "RelativeDocumentMoniker": "WebTienda1\\Views\\ProductosAPilas\\DetallesAPilas.cshtml",
+              "ToolTip": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\WebTienda1\\WebTienda1\\Views\\ProductosAPilas\\DetallesAPilas.cshtml",
+              "RelativeToolTip": "WebTienda1\\Views\\ProductosAPilas\\DetallesAPilas.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-25T01:15:44.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\WebTienda1\\WebTienda1\\Program.cs",
               "RelativeDocumentMoniker": "WebTienda1\\Program.cs",
@@ -304,343 +515,59 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "ApiSetting.cs",
-              "DocumentMoniker": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\WebTienda1\\WebTienda1\\Configuracion\\ApiSetting.cs",
-              "RelativeDocumentMoniker": "WebTienda1\\Configuracion\\ApiSetting.cs",
-              "ToolTip": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\WebTienda1\\WebTienda1\\Configuracion\\ApiSetting.cs",
-              "RelativeToolTip": "WebTienda1\\Configuracion\\ApiSetting.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-24T16:50:04.855Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\WebTienda1\\WebTienda1\\appsettings.json",
-              "RelativeDocumentMoniker": "WebTienda1\\appsettings.json",
-              "ToolTip": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\WebTienda1\\WebTienda1\\appsettings.json",
-              "RelativeToolTip": "WebTienda1\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-11-24T12:37:08.424Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "VentasController.cs",
-              "DocumentMoniker": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\WebTienda1\\WebTienda1\\Controllers\\VentasController.cs",
-              "RelativeDocumentMoniker": "WebTienda1\\Controllers\\VentasController.cs",
-              "ToolTip": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\WebTienda1\\WebTienda1\\Controllers\\VentasController.cs",
-              "RelativeToolTip": "WebTienda1\\Controllers\\VentasController.cs",
-              "ViewState": "AgIAAFMAAAAAAAAAAAAswF4AAABDAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-24T13:59:23.81Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "ActualizarProveedor.cshtml",
-              "DocumentMoniker": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\WebTienda1\\WebTienda1\\Views\\Proveedores\\ActualizarProveedor.cshtml",
-              "RelativeDocumentMoniker": "WebTienda1\\Views\\Proveedores\\ActualizarProveedor.cshtml",
-              "ToolTip": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\WebTienda1\\WebTienda1\\Views\\Proveedores\\ActualizarProveedor.cshtml",
-              "RelativeToolTip": "WebTienda1\\Views\\Proveedores\\ActualizarProveedor.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 22,
+              "Title": "EliminarProductoElectronico.cshtml",
+              "DocumentMoniker": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\WebTienda1\\WebTienda1\\Views\\ProductosElectronicos\\EliminarProductoElectronico.cshtml",
+              "RelativeDocumentMoniker": "WebTienda1\\Views\\ProductosElectronicos\\EliminarProductoElectronico.cshtml",
+              "ToolTip": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\WebTienda1\\WebTienda1\\Views\\ProductosElectronicos\\EliminarProductoElectronico.cshtml",
+              "RelativeToolTip": "WebTienda1\\Views\\ProductosElectronicos\\EliminarProductoElectronico.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-24T18:53:04.351Z"
+              "WhenOpened": "2024-11-25T01:23:05.514Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Ventas.cshtml",
-              "DocumentMoniker": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\WebTienda1\\WebTienda1\\Views\\Ventas\\Ventas.cshtml",
-              "RelativeDocumentMoniker": "WebTienda1\\Views\\Ventas\\Ventas.cshtml",
-              "ToolTip": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\WebTienda1\\WebTienda1\\Views\\Ventas\\Ventas.cshtml",
-              "RelativeToolTip": "WebTienda1\\Views\\Ventas\\Ventas.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-24T14:01:13.821Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Detalles.cshtml",
-              "DocumentMoniker": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\WebTienda1\\WebTienda1\\Views\\Ventas\\Detalles.cshtml",
-              "RelativeDocumentMoniker": "WebTienda1\\Views\\Ventas\\Detalles.cshtml",
-              "ToolTip": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\WebTienda1\\WebTienda1\\Views\\Ventas\\Detalles.cshtml",
-              "RelativeToolTip": "WebTienda1\\Views\\Ventas\\Detalles.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-24T17:49:31.755Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Proveedores.cshtml",
-              "DocumentMoniker": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\WebTienda1\\WebTienda1\\Views\\Proveedores\\Proveedores.cshtml",
-              "RelativeDocumentMoniker": "WebTienda1\\Views\\Proveedores\\Proveedores.cshtml",
-              "ToolTip": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\WebTienda1\\WebTienda1\\Views\\Proveedores\\Proveedores.cshtml",
-              "RelativeToolTip": "WebTienda1\\Views\\Proveedores\\Proveedores.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-24T14:00:58.324Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "EliminarProveedor.cshtml",
-              "DocumentMoniker": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\WebTienda1\\WebTienda1\\Views\\Proveedores\\EliminarProveedor.cshtml",
-              "RelativeDocumentMoniker": "WebTienda1\\Views\\Proveedores\\EliminarProveedor.cshtml",
-              "ToolTip": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\WebTienda1\\WebTienda1\\Views\\Proveedores\\EliminarProveedor.cshtml",
-              "RelativeToolTip": "WebTienda1\\Views\\Proveedores\\EliminarProveedor.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-24T18:47:58.937Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "AgregarProveedor.cshtml",
-              "DocumentMoniker": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\WebTienda1\\WebTienda1\\Views\\Proveedores\\AgregarProveedor.cshtml",
-              "RelativeDocumentMoniker": "WebTienda1\\Views\\Proveedores\\AgregarProveedor.cshtml",
-              "ToolTip": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\WebTienda1\\WebTienda1\\Views\\Proveedores\\AgregarProveedor.cshtml",
-              "RelativeToolTip": "WebTienda1\\Views\\Proveedores\\AgregarProveedor.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-24T18:51:44.817Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Detalles.cshtml",
-              "DocumentMoniker": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\WebTienda1\\WebTienda1\\Views\\Proveedores\\Detalles.cshtml",
-              "RelativeDocumentMoniker": "WebTienda1\\Views\\Proveedores\\Detalles.cshtml",
-              "ToolTip": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\WebTienda1\\WebTienda1\\Views\\Proveedores\\Detalles.cshtml",
-              "RelativeToolTip": "WebTienda1\\Views\\Proveedores\\Detalles.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-24T18:49:18.165Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 23,
               "Title": "EliminarProducto.cshtml",
               "DocumentMoniker": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\WebTienda1\\WebTienda1\\Views\\Productos\\EliminarProducto.cshtml",
               "RelativeDocumentMoniker": "WebTienda1\\Views\\Productos\\EliminarProducto.cshtml",
               "ToolTip": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\WebTienda1\\WebTienda1\\Views\\Productos\\EliminarProducto.cshtml",
               "RelativeToolTip": "WebTienda1\\Views\\Productos\\EliminarProducto.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAGAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-24T17:42:12.506Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "ProductosAPilas.cshtml",
-              "DocumentMoniker": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\WebTienda1\\WebTienda1\\Views\\Productos\\ProductosAPilas.cshtml",
-              "RelativeDocumentMoniker": "WebTienda1\\Views\\Productos\\ProductosAPilas.cshtml",
-              "ToolTip": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\WebTienda1\\WebTienda1\\Views\\Productos\\ProductosAPilas.cshtml",
-              "RelativeToolTip": "WebTienda1\\Views\\Productos\\ProductosAPilas.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-24T14:03:03.493Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "ProductosElectronicos.cshtml",
-              "DocumentMoniker": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\WebTienda1\\WebTienda1\\Views\\Productos\\ProductosElectronicos.cshtml",
-              "RelativeDocumentMoniker": "WebTienda1\\Views\\Productos\\ProductosElectronicos.cshtml",
-              "ToolTip": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\WebTienda1\\WebTienda1\\Views\\Productos\\ProductosElectronicos.cshtml",
-              "RelativeToolTip": "WebTienda1\\Views\\Productos\\ProductosElectronicos.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-24T14:02:44.271Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "Privacy.cshtml",
-              "DocumentMoniker": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\WebTienda1\\WebTienda1\\Views\\Home\\Privacy.cshtml",
-              "RelativeDocumentMoniker": "WebTienda1\\Views\\Home\\Privacy.cshtml",
-              "ToolTip": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\WebTienda1\\WebTienda1\\Views\\Home\\Privacy.cshtml",
-              "RelativeToolTip": "WebTienda1\\Views\\Home\\Privacy.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-24T12:36:04.459Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "EliminarVenta.cshtml",
-              "DocumentMoniker": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\WebTienda1\\WebTienda1\\Views\\Ventas\\EliminarVenta.cshtml",
-              "RelativeDocumentMoniker": "WebTienda1\\Views\\Ventas\\EliminarVenta.cshtml",
-              "ToolTip": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\WebTienda1\\WebTienda1\\Views\\Ventas\\EliminarVenta.cshtml",
-              "RelativeToolTip": "WebTienda1\\Views\\Ventas\\EliminarVenta.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-24T17:47:35.838Z"
+              "WhenOpened": "2024-11-24T17:42:12.506Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 24,
-              "Title": "Detalles.cshtml",
-              "DocumentMoniker": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\WebTienda1\\WebTienda1\\Views\\Productos\\Detalles.cshtml",
-              "RelativeDocumentMoniker": "WebTienda1\\Views\\Productos\\Detalles.cshtml",
-              "ToolTip": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\WebTienda1\\WebTienda1\\Views\\Productos\\Detalles.cshtml",
-              "RelativeToolTip": "WebTienda1\\Views\\Productos\\Detalles.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-24T17:42:55.856Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "AgregarProducto.cshtml",
-              "DocumentMoniker": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\WebTienda1\\WebTienda1\\Views\\Productos\\AgregarProducto.cshtml",
-              "RelativeDocumentMoniker": "WebTienda1\\Views\\Productos\\AgregarProducto.cshtml",
-              "ToolTip": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\WebTienda1\\WebTienda1\\Views\\Productos\\AgregarProducto.cshtml",
-              "RelativeToolTip": "WebTienda1\\Views\\Productos\\AgregarProducto.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-24T17:43:07.977Z"
+              "Title": "ProductoElectronico.cs",
+              "DocumentMoniker": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\ProyectoCompartido\\ProyectoCompartido\\ProductoElectronico.cs",
+              "RelativeDocumentMoniker": "..\\ProyectoCompartido\\ProyectoCompartido\\ProductoElectronico.cs",
+              "ToolTip": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\ProyectoCompartido\\ProyectoCompartido\\ProductoElectronico.cs",
+              "RelativeToolTip": "..\\ProyectoCompartido\\ProyectoCompartido\\ProductoElectronico.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T02:54:07.276Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 26,
-              "Title": "AgregarVenta.cshtml",
-              "DocumentMoniker": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\WebTienda1\\WebTienda1\\Views\\Ventas\\AgregarVenta.cshtml",
-              "RelativeDocumentMoniker": "WebTienda1\\Views\\Ventas\\AgregarVenta.cshtml",
-              "ToolTip": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\WebTienda1\\WebTienda1\\Views\\Ventas\\AgregarVenta.cshtml",
-              "RelativeToolTip": "WebTienda1\\Views\\Ventas\\AgregarVenta.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\WebTienda1\\WebTienda1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebTienda1\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\WebTienda1\\WebTienda1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebTienda1\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-24T17:51:59.726Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "Error.cshtml",
-              "DocumentMoniker": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\WebTienda1\\WebTienda1\\Views\\Shared\\Error.cshtml",
-              "RelativeDocumentMoniker": "WebTienda1\\Views\\Shared\\Error.cshtml",
-              "ToolTip": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\WebTienda1\\WebTienda1\\Views\\Shared\\Error.cshtml",
-              "RelativeToolTip": "WebTienda1\\Views\\Shared\\Error.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-24T12:36:54.111Z"
+              "WhenOpened": "2024-11-24T12:36:08.239Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 28,
-              "Title": "ActualizarProducto.cshtml",
-              "DocumentMoniker": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\WebTienda1\\WebTienda1\\Views\\Productos\\ActualizarProducto.cshtml",
-              "RelativeDocumentMoniker": "WebTienda1\\Views\\Productos\\ActualizarProducto.cshtml",
-              "ToolTip": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\WebTienda1\\WebTienda1\\Views\\Productos\\ActualizarProducto.cshtml",
-              "RelativeToolTip": "WebTienda1\\Views\\Productos\\ActualizarProducto.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-24T17:43:15.976Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 38,
-              "Title": "Proveedor.cs",
-              "DocumentMoniker": "C:\\Users\\loren\\source\\repos\\ProyectoCompartido\\ProyectoCompartido\\Proveedor.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\source\\repos\\ProyectoCompartido\\ProyectoCompartido\\Proveedor.cs",
-              "ToolTip": "C:\\Users\\loren\\source\\repos\\ProyectoCompartido\\ProyectoCompartido\\Proveedor.cs",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\source\\repos\\ProyectoCompartido\\ProyectoCompartido\\Proveedor.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAYwAoAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-24T17:20:57.766Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 39,
-              "Title": "Venta.cs",
-              "DocumentMoniker": "C:\\Users\\loren\\source\\repos\\ProyectoCompartido\\ProyectoCompartido\\Venta.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\source\\repos\\ProyectoCompartido\\ProyectoCompartido\\Venta.cs",
-              "ToolTip": "C:\\Users\\loren\\source\\repos\\ProyectoCompartido\\ProyectoCompartido\\Venta.cs",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\source\\repos\\ProyectoCompartido\\ProyectoCompartido\\Venta.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-24T17:21:00.673Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 40,
-              "Title": "ProductoElectronico.cs",
-              "DocumentMoniker": "C:\\Users\\loren\\source\\repos\\ProyectoCompartido\\ProyectoCompartido\\ProductoElectronico.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\source\\repos\\ProyectoCompartido\\ProyectoCompartido\\ProductoElectronico.cs",
-              "ToolTip": "C:\\Users\\loren\\source\\repos\\ProyectoCompartido\\ProyectoCompartido\\ProductoElectronico.cs",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\source\\repos\\ProyectoCompartido\\ProyectoCompartido\\ProductoElectronico.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-24T17:20:52.652Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 41,
-              "Title": "Producto.cs",
-              "DocumentMoniker": "C:\\Users\\loren\\source\\repos\\ProyectoCompartido\\ProyectoCompartido\\Producto.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\source\\repos\\ProyectoCompartido\\ProyectoCompartido\\Producto.cs",
-              "ToolTip": "C:\\Users\\loren\\source\\repos\\ProyectoCompartido\\ProyectoCompartido\\Producto.cs",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\source\\repos\\ProyectoCompartido\\ProyectoCompartido\\Producto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-24T17:20:43.615Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 42,
-              "Title": "ProductoAPilas.cs",
-              "DocumentMoniker": "C:\\Users\\loren\\source\\repos\\ProyectoCompartido\\ProyectoCompartido\\ProductoAPilas.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\source\\repos\\ProyectoCompartido\\ProyectoCompartido\\ProductoAPilas.cs",
-              "ToolTip": "C:\\Users\\loren\\source\\repos\\ProyectoCompartido\\ProyectoCompartido\\ProductoAPilas.cs",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\source\\repos\\ProyectoCompartido\\ProyectoCompartido\\ProductoAPilas.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-24T17:20:29.084Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 43,
-              "Title": "Enumeradores.cs",
-              "DocumentMoniker": "C:\\Users\\loren\\source\\repos\\ProyectoCompartido\\ProyectoCompartido\\Enumeradores.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\source\\repos\\ProyectoCompartido\\ProyectoCompartido\\Enumeradores.cs",
-              "ToolTip": "C:\\Users\\loren\\source\\repos\\ProyectoCompartido\\ProyectoCompartido\\Enumeradores.cs",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\source\\repos\\ProyectoCompartido\\ProyectoCompartido\\Enumeradores.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-24T17:20:15.901Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 44,
-              "Title": "Cliente.cs",
-              "DocumentMoniker": "C:\\Users\\loren\\source\\repos\\ProyectoCompartido\\ProyectoCompartido\\Cliente.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\source\\repos\\ProyectoCompartido\\ProyectoCompartido\\Cliente.cs",
-              "ToolTip": "C:\\Users\\loren\\source\\repos\\ProyectoCompartido\\ProyectoCompartido\\Cliente.cs",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\source\\repos\\ProyectoCompartido\\ProyectoCompartido\\Cliente.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-24T17:19:57.082Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\WebTienda1\\WebTienda1\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "WebTienda1\\Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\WebTienda1\\WebTienda1\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "WebTienda1\\Views\\_ViewStart.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-24T12:37:02.7Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
               "Title": "WebTienda1.csproj",
               "DocumentMoniker": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\WebTienda1\\WebTienda1\\WebTienda1.csproj",
               "RelativeDocumentMoniker": "WebTienda1\\WebTienda1.csproj",
@@ -648,47 +575,51 @@
               "RelativeToolTip": "WebTienda1\\WebTienda1.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-11-24T13:44:24.298Z"
+              "WhenOpened": "2024-11-24T13:44:24.298Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "favicon123.ico - Icon [32x32, 32 bits, BMP]",
-              "DocumentMoniker": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\WebTienda1\\WebTienda1\\wwwroot\\favicon123.ico",
-              "RelativeDocumentMoniker": "WebTienda1\\wwwroot\\favicon123.ico",
-              "ToolTip": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\WebTienda1\\WebTienda1\\wwwroot\\favicon123.ico - Icon [32x32, 32 bits, BMP]",
-              "RelativeToolTip": "WebTienda1\\wwwroot\\favicon123.ico - Icon [32x32, 32 bits, BMP]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001525|",
-              "WhenOpened": "2024-11-24T13:44:16.371Z",
-              "EditorCaption": " - Icon [32x32, 32 bits, BMP]"
+              "DocumentIndex": 32,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\WebTienda1\\WebTienda1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebTienda1\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\WebTienda1\\WebTienda1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebTienda1\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T12:37:18.192Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 31,
-              "Title": "site.css",
-              "DocumentMoniker": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\WebTienda1\\WebTienda1\\wwwroot\\css\\site.css",
-              "RelativeDocumentMoniker": "WebTienda1\\wwwroot\\css\\site.css",
-              "ToolTip": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\WebTienda1\\WebTienda1\\wwwroot\\css\\site.css",
-              "RelativeToolTip": "WebTienda1\\wwwroot\\css\\site.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-11-24T12:37:48.79Z"
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\WebTienda1\\WebTienda1\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebTienda1\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\WebTienda1\\WebTienda1\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "WebTienda1\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-24T12:35:34.724Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "ErrorViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\WebTienda1\\WebTienda1\\Models\\ErrorViewModel.cs",
-              "RelativeDocumentMoniker": "WebTienda1\\Models\\ErrorViewModel.cs",
-              "ToolTip": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\WebTienda1\\WebTienda1\\Models\\ErrorViewModel.cs",
-              "RelativeToolTip": "WebTienda1\\Models\\ErrorViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-24T12:37:20.881Z"
+              "DocumentIndex": 25,
+              "Title": "ActualizarProductoAPilas.cshtml",
+              "DocumentMoniker": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\WebTienda1\\WebTienda1\\Views\\ProductosAPilas\\ActualizarProductoAPilas.cshtml",
+              "RelativeDocumentMoniker": "WebTienda1\\Views\\ProductosAPilas\\ActualizarProductoAPilas.cshtml",
+              "ToolTip": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\WebTienda1\\WebTienda1\\Views\\ProductosAPilas\\ActualizarProductoAPilas.cshtml",
+              "RelativeToolTip": "WebTienda1\\Views\\ProductosAPilas\\ActualizarProductoAPilas.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAkwCEAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-25T01:13:08.837Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 27,
               "Title": "favicon.ico - Icon [256x256, 32 bits, PNG]",
               "DocumentMoniker": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\WebTienda1\\WebTienda1\\wwwroot\\favicon.ico",
               "RelativeDocumentMoniker": "WebTienda1\\wwwroot\\favicon.ico",
@@ -700,7 +631,291 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "_Layout.cshtml.css",
+              "DocumentMoniker": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\WebTienda1\\WebTienda1\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeDocumentMoniker": "WebTienda1\\Views\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\WebTienda1\\WebTienda1\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeToolTip": "WebTienda1\\Views\\Shared\\_Layout.cshtml.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-24T12:36:46.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Microsoft.NET.Sdk.StaticWebAssets.ScopedCss.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\Sdks\\Microsoft.NET.Sdk.StaticWebAssets\\targets\\Microsoft.NET.Sdk.StaticWebAssets.ScopedCss.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\8.0.400\\Sdks\\Microsoft.NET.Sdk.StaticWebAssets\\targets\\Microsoft.NET.Sdk.StaticWebAssets.ScopedCss.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\Sdks\\Microsoft.NET.Sdk.StaticWebAssets\\targets\\Microsoft.NET.Sdk.StaticWebAssets.ScopedCss.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\8.0.400\\Sdks\\Microsoft.NET.Sdk.StaticWebAssets\\targets\\Microsoft.NET.Sdk.StaticWebAssets.ScopedCss.targets",
+              "ViewState": "AgIAAJEAAAAAAAAAAIAwwKEAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-11-25T02:32:13.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Detalles.cshtml",
+              "DocumentMoniker": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\WebTienda1\\WebTienda1\\Views\\Proveedores\\Detalles.cshtml",
+              "RelativeDocumentMoniker": "WebTienda1\\Views\\Proveedores\\Detalles.cshtml",
+              "ToolTip": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\WebTienda1\\WebTienda1\\Views\\Proveedores\\Detalles.cshtml",
+              "RelativeToolTip": "WebTienda1\\Views\\Proveedores\\Detalles.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-24T18:49:18.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "AgregarVenta.cshtml",
+              "DocumentMoniker": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\WebTienda1\\WebTienda1\\Views\\Ventas\\AgregarVenta.cshtml",
+              "RelativeDocumentMoniker": "WebTienda1\\Views\\Ventas\\AgregarVenta.cshtml",
+              "ToolTip": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\WebTienda1\\WebTienda1\\Views\\Ventas\\AgregarVenta.cshtml",
+              "RelativeToolTip": "WebTienda1\\Views\\Ventas\\AgregarVenta.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-24T17:51:59.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 35,
+              "Title": "Detalles.cshtml",
+              "DocumentMoniker": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\WebTienda1\\WebTienda1\\Views\\Productos\\Detalles.cshtml",
+              "RelativeDocumentMoniker": "WebTienda1\\Views\\Productos\\Detalles.cshtml",
+              "ToolTip": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\WebTienda1\\WebTienda1\\Views\\Productos\\Detalles.cshtml",
+              "RelativeToolTip": "WebTienda1\\Views\\Productos\\Detalles.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-24T17:42:55.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\WebTienda1\\WebTienda1\\appsettings.json",
+              "RelativeDocumentMoniker": "WebTienda1\\appsettings.json",
+              "ToolTip": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\WebTienda1\\WebTienda1\\appsettings.json",
+              "RelativeToolTip": "WebTienda1\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-24T12:37:08.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ActualizarProducto.cshtml",
+              "DocumentMoniker": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\WebTienda1\\WebTienda1\\Views\\Productos\\ActualizarProducto.cshtml",
+              "RelativeDocumentMoniker": "WebTienda1\\Views\\Productos\\ActualizarProducto.cshtml",
+              "ToolTip": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\WebTienda1\\WebTienda1\\Views\\Productos\\ActualizarProducto.cshtml",
+              "RelativeToolTip": "WebTienda1\\Views\\Productos\\ActualizarProducto.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-24T17:43:15.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "ApiSetting.cs",
+              "DocumentMoniker": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\WebTienda1\\WebTienda1\\Configuracion\\ApiSetting.cs",
+              "RelativeDocumentMoniker": "WebTienda1\\Configuracion\\ApiSetting.cs",
+              "ToolTip": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\WebTienda1\\WebTienda1\\Configuracion\\ApiSetting.cs",
+              "RelativeToolTip": "WebTienda1\\Configuracion\\ApiSetting.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T16:50:04.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\WebTienda1\\WebTienda1\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "WebTienda1\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\WebTienda1\\WebTienda1\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "WebTienda1\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-24T12:36:51.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\WebTienda1\\WebTienda1\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "WebTienda1\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\WebTienda1\\WebTienda1\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "WebTienda1\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-24T12:37:00.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "AgregarProveedor.cshtml",
+              "DocumentMoniker": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\WebTienda1\\WebTienda1\\Views\\Proveedores\\AgregarProveedor.cshtml",
+              "RelativeDocumentMoniker": "WebTienda1\\Views\\Proveedores\\AgregarProveedor.cshtml",
+              "ToolTip": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\WebTienda1\\WebTienda1\\Views\\Proveedores\\AgregarProveedor.cshtml",
+              "RelativeToolTip": "WebTienda1\\Views\\Proveedores\\AgregarProveedor.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-24T18:51:44.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\WebTienda1\\WebTienda1\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "WebTienda1\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\WebTienda1\\WebTienda1\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "WebTienda1\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-24T12:36:04.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "AgregarProducto.cshtml",
+              "DocumentMoniker": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\WebTienda1\\WebTienda1\\Views\\Productos\\AgregarProducto.cshtml",
+              "RelativeDocumentMoniker": "WebTienda1\\Views\\Productos\\AgregarProducto.cshtml",
+              "ToolTip": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\WebTienda1\\WebTienda1\\Views\\Productos\\AgregarProducto.cshtml",
+              "RelativeToolTip": "WebTienda1\\Views\\Productos\\AgregarProducto.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-24T17:43:07.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Proveedor.cs",
+              "DocumentMoniker": "C:\\Users\\loren\\source\\repos\\ProyectoCompartido\\ProyectoCompartido\\Proveedor.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\source\\repos\\ProyectoCompartido\\ProyectoCompartido\\Proveedor.cs",
+              "ToolTip": "C:\\Users\\loren\\source\\repos\\ProyectoCompartido\\ProyectoCompartido\\Proveedor.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\source\\repos\\ProyectoCompartido\\ProyectoCompartido\\Proveedor.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwAoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T17:20:57.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Venta.cs",
+              "DocumentMoniker": "C:\\Users\\loren\\source\\repos\\ProyectoCompartido\\ProyectoCompartido\\Venta.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\source\\repos\\ProyectoCompartido\\ProyectoCompartido\\Venta.cs",
+              "ToolTip": "C:\\Users\\loren\\source\\repos\\ProyectoCompartido\\ProyectoCompartido\\Venta.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\source\\repos\\ProyectoCompartido\\ProyectoCompartido\\Venta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T17:21:00.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "ProductoElectronico.cs",
+              "DocumentMoniker": "C:\\Users\\loren\\source\\repos\\ProyectoCompartido\\ProyectoCompartido\\ProductoElectronico.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\source\\repos\\ProyectoCompartido\\ProyectoCompartido\\ProductoElectronico.cs",
+              "ToolTip": "C:\\Users\\loren\\source\\repos\\ProyectoCompartido\\ProyectoCompartido\\ProductoElectronico.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\source\\repos\\ProyectoCompartido\\ProyectoCompartido\\ProductoElectronico.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T17:20:52.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\loren\\source\\repos\\ProyectoCompartido\\ProyectoCompartido\\Producto.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\source\\repos\\ProyectoCompartido\\ProyectoCompartido\\Producto.cs",
+              "ToolTip": "C:\\Users\\loren\\source\\repos\\ProyectoCompartido\\ProyectoCompartido\\Producto.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\source\\repos\\ProyectoCompartido\\ProyectoCompartido\\Producto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T17:20:43.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "ProductoAPilas.cs",
+              "DocumentMoniker": "C:\\Users\\loren\\source\\repos\\ProyectoCompartido\\ProyectoCompartido\\ProductoAPilas.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\source\\repos\\ProyectoCompartido\\ProyectoCompartido\\ProductoAPilas.cs",
+              "ToolTip": "C:\\Users\\loren\\source\\repos\\ProyectoCompartido\\ProyectoCompartido\\ProductoAPilas.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\source\\repos\\ProyectoCompartido\\ProyectoCompartido\\ProductoAPilas.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T17:20:29.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "Enumeradores.cs",
+              "DocumentMoniker": "C:\\Users\\loren\\source\\repos\\ProyectoCompartido\\ProyectoCompartido\\Enumeradores.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\source\\repos\\ProyectoCompartido\\ProyectoCompartido\\Enumeradores.cs",
+              "ToolTip": "C:\\Users\\loren\\source\\repos\\ProyectoCompartido\\ProyectoCompartido\\Enumeradores.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\source\\repos\\ProyectoCompartido\\ProyectoCompartido\\Enumeradores.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T17:20:15.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\loren\\source\\repos\\ProyectoCompartido\\ProyectoCompartido\\Cliente.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\source\\repos\\ProyectoCompartido\\ProyectoCompartido\\Cliente.cs",
+              "ToolTip": "C:\\Users\\loren\\source\\repos\\ProyectoCompartido\\ProyectoCompartido\\Cliente.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\source\\repos\\ProyectoCompartido\\ProyectoCompartido\\Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T17:19:57.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\WebTienda1\\WebTienda1\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "WebTienda1\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\WebTienda1\\WebTienda1\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "WebTienda1\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-24T12:37:02.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\WebTienda1\\WebTienda1\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "WebTienda1\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\WebTienda1\\WebTienda1\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "WebTienda1\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-24T12:37:48.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\WebTienda1\\WebTienda1\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "WebTienda1\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\WebTienda1\\WebTienda1\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "WebTienda1\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T12:37:20.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
               "Title": "site.js",
               "DocumentMoniker": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\WebTienda1\\WebTienda1\\wwwroot\\js\\site.js",
               "RelativeDocumentMoniker": "WebTienda1\\wwwroot\\js\\site.js",
@@ -712,19 +927,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
-              "Title": "_Layout.cshtml.css",
-              "DocumentMoniker": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\WebTienda1\\WebTienda1\\Views\\Shared\\_Layout.cshtml.css",
-              "RelativeDocumentMoniker": "WebTienda1\\Views\\Shared\\_Layout.cshtml.css",
-              "ToolTip": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\WebTienda1\\WebTienda1\\Views\\Shared\\_Layout.cshtml.css",
-              "RelativeToolTip": "WebTienda1\\Views\\Shared\\_Layout.cshtml.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-11-24T12:36:46.032Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 48,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\WebTienda1\\WebTienda1\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "WebTienda1\\Properties\\launchSettings.json",

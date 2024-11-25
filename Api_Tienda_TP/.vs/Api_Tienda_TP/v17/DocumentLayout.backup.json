@@ -3,6 +3,70 @@
   "WorkspaceRootPath": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\Api_Tienda_TP\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{1B421531-23AD-40A1-9DCA-BC7647C4C65E}|Api_Tienda_TP\\Api_Tienda_TP.csproj|c:\\users\\loren\\onedrive\\escritorio\\curso .net\\.net-asp-windowsforms-api\\api_tienda_tp\\api_tienda_tp\\controllers\\productoapilascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B421531-23AD-40A1-9DCA-BC7647C4C65E}|Api_Tienda_TP\\Api_Tienda_TP.csproj|solutionrelative:api_tienda_tp\\controllers\\productoapilascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B421531-23AD-40A1-9DCA-BC7647C4C65E}|Api_Tienda_TP\\Api_Tienda_TP.csproj|c:\\users\\loren\\onedrive\\escritorio\\curso .net\\.net-asp-windowsforms-api\\api_tienda_tp\\api_tienda_tp\\controllers\\proveedorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B421531-23AD-40A1-9DCA-BC7647C4C65E}|Api_Tienda_TP\\Api_Tienda_TP.csproj|solutionrelative:api_tienda_tp\\controllers\\proveedorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B421531-23AD-40A1-9DCA-BC7647C4C65E}|Api_Tienda_TP\\Api_Tienda_TP.csproj|c:\\users\\loren\\onedrive\\escritorio\\curso .net\\.net-asp-windowsforms-api\\api_tienda_tp\\api_tienda_tp\\controllers\\productoelectronicocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B421531-23AD-40A1-9DCA-BC7647C4C65E}|Api_Tienda_TP\\Api_Tienda_TP.csproj|solutionrelative:api_tienda_tp\\controllers\\productoelectronicocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B421531-23AD-40A1-9DCA-BC7647C4C65E}|Api_Tienda_TP\\Api_Tienda_TP.csproj|c:\\users\\loren\\onedrive\\escritorio\\curso .net\\.net-asp-windowsforms-api\\api_tienda_tp\\api_tienda_tp\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B421531-23AD-40A1-9DCA-BC7647C4C65E}|Api_Tienda_TP\\Api_Tienda_TP.csproj|solutionrelative:api_tienda_tp\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B421531-23AD-40A1-9DCA-BC7647C4C65E}|Api_Tienda_TP\\Api_Tienda_TP.csproj|c:\\users\\loren\\onedrive\\escritorio\\curso .net\\.net-asp-windowsforms-api\\api_tienda_tp\\api_tienda_tp\\negocio\\implementacion\\bl_productoelectronico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B421531-23AD-40A1-9DCA-BC7647C4C65E}|Api_Tienda_TP\\Api_Tienda_TP.csproj|solutionrelative:api_tienda_tp\\negocio\\implementacion\\bl_productoelectronico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B421531-23AD-40A1-9DCA-BC7647C4C65E}|Api_Tienda_TP\\Api_Tienda_TP.csproj|c:\\users\\loren\\onedrive\\escritorio\\curso .net\\.net-asp-windowsforms-api\\api_tienda_tp\\api_tienda_tp\\negocio\\implementacion\\bl_productoapilas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B421531-23AD-40A1-9DCA-BC7647C4C65E}|Api_Tienda_TP\\Api_Tienda_TP.csproj|solutionrelative:api_tienda_tp\\negocio\\implementacion\\bl_productoapilas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B421531-23AD-40A1-9DCA-BC7647C4C65E}|Api_Tienda_TP\\Api_Tienda_TP.csproj|c:\\users\\loren\\onedrive\\escritorio\\curso .net\\.net-asp-windowsforms-api\\api_tienda_tp\\api_tienda_tp\\negocio\\implementacion\\bl_producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B421531-23AD-40A1-9DCA-BC7647C4C65E}|Api_Tienda_TP\\Api_Tienda_TP.csproj|solutionrelative:api_tienda_tp\\negocio\\implementacion\\bl_producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B421531-23AD-40A1-9DCA-BC7647C4C65E}|Api_Tienda_TP\\Api_Tienda_TP.csproj|c:\\users\\loren\\onedrive\\escritorio\\curso .net\\.net-asp-windowsforms-api\\api_tienda_tp\\api_tienda_tp\\negocio\\interfaz\\ibl_producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B421531-23AD-40A1-9DCA-BC7647C4C65E}|Api_Tienda_TP\\Api_Tienda_TP.csproj|solutionrelative:api_tienda_tp\\negocio\\interfaz\\ibl_producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B421531-23AD-40A1-9DCA-BC7647C4C65E}|Api_Tienda_TP\\Api_Tienda_TP.csproj|c:\\users\\loren\\onedrive\\escritorio\\curso .net\\.net-asp-windowsforms-api\\api_tienda_tp\\api_tienda_tp\\negocio\\interfaz\\ibl_productoelectronico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B421531-23AD-40A1-9DCA-BC7647C4C65E}|Api_Tienda_TP\\Api_Tienda_TP.csproj|solutionrelative:api_tienda_tp\\negocio\\interfaz\\ibl_productoelectronico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B421531-23AD-40A1-9DCA-BC7647C4C65E}|Api_Tienda_TP\\Api_Tienda_TP.csproj|c:\\users\\loren\\onedrive\\escritorio\\curso .net\\.net-asp-windowsforms-api\\api_tienda_tp\\api_tienda_tp\\negocio\\interfaz\\ibl_productoapilas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B421531-23AD-40A1-9DCA-BC7647C4C65E}|Api_Tienda_TP\\Api_Tienda_TP.csproj|solutionrelative:api_tienda_tp\\negocio\\interfaz\\ibl_productoapilas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B421531-23AD-40A1-9DCA-BC7647C4C65E}|Api_Tienda_TP\\Api_Tienda_TP.csproj|c:\\users\\loren\\onedrive\\escritorio\\curso .net\\.net-asp-windowsforms-api\\api_tienda_tp\\api_tienda_tp\\negocio\\implementacion\\bl_cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B421531-23AD-40A1-9DCA-BC7647C4C65E}|Api_Tienda_TP\\Api_Tienda_TP.csproj|solutionrelative:api_tienda_tp\\negocio\\implementacion\\bl_cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B421531-23AD-40A1-9DCA-BC7647C4C65E}|Api_Tienda_TP\\Api_Tienda_TP.csproj|c:\\users\\loren\\onedrive\\escritorio\\curso .net\\.net-asp-windowsforms-api\\api_tienda_tp\\api_tienda_tp\\negocio\\implementacion\\bl_proveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B421531-23AD-40A1-9DCA-BC7647C4C65E}|Api_Tienda_TP\\Api_Tienda_TP.csproj|solutionrelative:api_tienda_tp\\negocio\\implementacion\\bl_proveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B421531-23AD-40A1-9DCA-BC7647C4C65E}|Api_Tienda_TP\\Api_Tienda_TP.csproj|c:\\users\\loren\\onedrive\\escritorio\\curso .net\\.net-asp-windowsforms-api\\api_tienda_tp\\api_tienda_tp\\negocio\\interfaz\\ibl_cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B421531-23AD-40A1-9DCA-BC7647C4C65E}|Api_Tienda_TP\\Api_Tienda_TP.csproj|solutionrelative:api_tienda_tp\\negocio\\interfaz\\ibl_cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B421531-23AD-40A1-9DCA-BC7647C4C65E}|Api_Tienda_TP\\Api_Tienda_TP.csproj|c:\\users\\loren\\onedrive\\escritorio\\curso .net\\.net-asp-windowsforms-api\\api_tienda_tp\\api_tienda_tp\\negocio\\interfaz\\ibl_proveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B421531-23AD-40A1-9DCA-BC7647C4C65E}|Api_Tienda_TP\\Api_Tienda_TP.csproj|solutionrelative:api_tienda_tp\\negocio\\interfaz\\ibl_proveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B421531-23AD-40A1-9DCA-BC7647C4C65E}|Api_Tienda_TP\\Api_Tienda_TP.csproj|c:\\users\\loren\\onedrive\\escritorio\\curso .net\\.net-asp-windowsforms-api\\api_tienda_tp\\api_tienda_tp\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B421531-23AD-40A1-9DCA-BC7647C4C65E}|Api_Tienda_TP\\Api_Tienda_TP.csproj|solutionrelative:api_tienda_tp\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B421531-23AD-40A1-9DCA-BC7647C4C65E}|Api_Tienda_TP\\Api_Tienda_TP.csproj|c:\\users\\loren\\onedrive\\escritorio\\curso .net\\.net-asp-windowsforms-api\\api_tienda_tp\\api_tienda_tp\\datos\\tiendadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B421531-23AD-40A1-9DCA-BC7647C4C65E}|Api_Tienda_TP\\Api_Tienda_TP.csproj|solutionrelative:api_tienda_tp\\datos\\tiendadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1B421531-23AD-40A1-9DCA-BC7647C4C65E}|Api_Tienda_TP\\Api_Tienda_TP.csproj|c:\\users\\loren\\onedrive\\escritorio\\curso .net\\.net-asp-windowsforms-api\\api_tienda_tp\\api_tienda_tp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1B421531-23AD-40A1-9DCA-BC7647C4C65E}|Api_Tienda_TP\\Api_Tienda_TP.csproj|solutionrelative:api_tienda_tp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,20 +75,8 @@
       "RelativeMoniker": "D:0:0:{1B421531-23AD-40A1-9DCA-BC7647C4C65E}|Api_Tienda_TP\\Api_Tienda_TP.csproj|solutionrelative:api_tienda_tp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1B421531-23AD-40A1-9DCA-BC7647C4C65E}|Api_Tienda_TP\\Api_Tienda_TP.csproj|c:\\users\\loren\\onedrive\\escritorio\\curso .net\\.net-asp-windowsforms-api\\api_tienda_tp\\api_tienda_tp\\negocio\\implementacion\\bl_proveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1B421531-23AD-40A1-9DCA-BC7647C4C65E}|Api_Tienda_TP\\Api_Tienda_TP.csproj|solutionrelative:api_tienda_tp\\negocio\\implementacion\\bl_proveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{1B421531-23AD-40A1-9DCA-BC7647C4C65E}|Api_Tienda_TP\\Api_Tienda_TP.csproj|c:\\users\\loren\\onedrive\\escritorio\\curso .net\\.net-asp-windowsforms-api\\api_tienda_tp\\api_tienda_tp\\negocio\\implementacion\\bl_venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1B421531-23AD-40A1-9DCA-BC7647C4C65E}|Api_Tienda_TP\\Api_Tienda_TP.csproj|solutionrelative:api_tienda_tp\\negocio\\implementacion\\bl_venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1B421531-23AD-40A1-9DCA-BC7647C4C65E}|Api_Tienda_TP\\Api_Tienda_TP.csproj|c:\\users\\loren\\onedrive\\escritorio\\curso .net\\.net-asp-windowsforms-api\\api_tienda_tp\\api_tienda_tp\\negocio\\interfaz\\ibl_proveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1B421531-23AD-40A1-9DCA-BC7647C4C65E}|Api_Tienda_TP\\Api_Tienda_TP.csproj|solutionrelative:api_tienda_tp\\negocio\\interfaz\\ibl_proveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1B421531-23AD-40A1-9DCA-BC7647C4C65E}|Api_Tienda_TP\\Api_Tienda_TP.csproj|c:\\users\\loren\\onedrive\\escritorio\\curso .net\\.net-asp-windowsforms-api\\api_tienda_tp\\api_tienda_tp\\negocio\\interfaz\\ibl_productoelectronico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1B421531-23AD-40A1-9DCA-BC7647C4C65E}|Api_Tienda_TP\\Api_Tienda_TP.csproj|solutionrelative:api_tienda_tp\\negocio\\interfaz\\ibl_productoelectronico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1B421531-23AD-40A1-9DCA-BC7647C4C65E}|Api_Tienda_TP\\Api_Tienda_TP.csproj|c:\\users\\loren\\onedrive\\escritorio\\curso .net\\.net-asp-windowsforms-api\\api_tienda_tp\\api_tienda_tp\\negocio\\interfaz\\ibl_venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -35,60 +87,8 @@
       "RelativeMoniker": "D:0:0:{1B421531-23AD-40A1-9DCA-BC7647C4C65E}|Api_Tienda_TP\\Api_Tienda_TP.csproj|solutionrelative:api_tienda_tp\\controllers\\ventascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1B421531-23AD-40A1-9DCA-BC7647C4C65E}|Api_Tienda_TP\\Api_Tienda_TP.csproj|c:\\users\\loren\\onedrive\\escritorio\\curso .net\\.net-asp-windowsforms-api\\api_tienda_tp\\api_tienda_tp\\controllers\\proveedorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1B421531-23AD-40A1-9DCA-BC7647C4C65E}|Api_Tienda_TP\\Api_Tienda_TP.csproj|solutionrelative:api_tienda_tp\\controllers\\proveedorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1B421531-23AD-40A1-9DCA-BC7647C4C65E}|Api_Tienda_TP\\Api_Tienda_TP.csproj|c:\\users\\loren\\onedrive\\escritorio\\curso .net\\.net-asp-windowsforms-api\\api_tienda_tp\\api_tienda_tp\\negocio\\interfaz\\ibl_producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1B421531-23AD-40A1-9DCA-BC7647C4C65E}|Api_Tienda_TP\\Api_Tienda_TP.csproj|solutionrelative:api_tienda_tp\\negocio\\interfaz\\ibl_producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1B421531-23AD-40A1-9DCA-BC7647C4C65E}|Api_Tienda_TP\\Api_Tienda_TP.csproj|c:\\users\\loren\\onedrive\\escritorio\\curso .net\\.net-asp-windowsforms-api\\api_tienda_tp\\api_tienda_tp\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1B421531-23AD-40A1-9DCA-BC7647C4C65E}|Api_Tienda_TP\\Api_Tienda_TP.csproj|solutionrelative:api_tienda_tp\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1B421531-23AD-40A1-9DCA-BC7647C4C65E}|Api_Tienda_TP\\Api_Tienda_TP.csproj|c:\\users\\loren\\onedrive\\escritorio\\curso .net\\.net-asp-windowsforms-api\\api_tienda_tp\\api_tienda_tp\\controllers\\productoelectronicocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1B421531-23AD-40A1-9DCA-BC7647C4C65E}|Api_Tienda_TP\\Api_Tienda_TP.csproj|solutionrelative:api_tienda_tp\\controllers\\productoelectronicocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1B421531-23AD-40A1-9DCA-BC7647C4C65E}|Api_Tienda_TP\\Api_Tienda_TP.csproj|c:\\users\\loren\\onedrive\\escritorio\\curso .net\\.net-asp-windowsforms-api\\api_tienda_tp\\api_tienda_tp\\negocio\\implementacion\\bl_producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1B421531-23AD-40A1-9DCA-BC7647C4C65E}|Api_Tienda_TP\\Api_Tienda_TP.csproj|solutionrelative:api_tienda_tp\\negocio\\implementacion\\bl_producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1B421531-23AD-40A1-9DCA-BC7647C4C65E}|Api_Tienda_TP\\Api_Tienda_TP.csproj|c:\\users\\loren\\onedrive\\escritorio\\curso .net\\.net-asp-windowsforms-api\\api_tienda_tp\\api_tienda_tp\\negocio\\implementacion\\bl_productoapilas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1B421531-23AD-40A1-9DCA-BC7647C4C65E}|Api_Tienda_TP\\Api_Tienda_TP.csproj|solutionrelative:api_tienda_tp\\negocio\\implementacion\\bl_productoapilas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1B421531-23AD-40A1-9DCA-BC7647C4C65E}|Api_Tienda_TP\\Api_Tienda_TP.csproj|c:\\users\\loren\\onedrive\\escritorio\\curso .net\\.net-asp-windowsforms-api\\api_tienda_tp\\api_tienda_tp\\negocio\\implementacion\\bl_cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1B421531-23AD-40A1-9DCA-BC7647C4C65E}|Api_Tienda_TP\\Api_Tienda_TP.csproj|solutionrelative:api_tienda_tp\\negocio\\implementacion\\bl_cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1B421531-23AD-40A1-9DCA-BC7647C4C65E}|Api_Tienda_TP\\Api_Tienda_TP.csproj|c:\\users\\loren\\onedrive\\escritorio\\curso .net\\.net-asp-windowsforms-api\\api_tienda_tp\\api_tienda_tp\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1B421531-23AD-40A1-9DCA-BC7647C4C65E}|Api_Tienda_TP\\Api_Tienda_TP.csproj|solutionrelative:api_tienda_tp\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1B421531-23AD-40A1-9DCA-BC7647C4C65E}|Api_Tienda_TP\\Api_Tienda_TP.csproj|c:\\users\\loren\\onedrive\\escritorio\\curso .net\\.net-asp-windowsforms-api\\api_tienda_tp\\api_tienda_tp\\controllers\\productoapilascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1B421531-23AD-40A1-9DCA-BC7647C4C65E}|Api_Tienda_TP\\Api_Tienda_TP.csproj|solutionrelative:api_tienda_tp\\controllers\\productoapilascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1B421531-23AD-40A1-9DCA-BC7647C4C65E}|Api_Tienda_TP\\Api_Tienda_TP.csproj|c:\\users\\loren\\onedrive\\escritorio\\curso .net\\.net-asp-windowsforms-api\\api_tienda_tp\\api_tienda_tp\\datos\\tiendadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1B421531-23AD-40A1-9DCA-BC7647C4C65E}|Api_Tienda_TP\\Api_Tienda_TP.csproj|solutionrelative:api_tienda_tp\\datos\\tiendadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{1B421531-23AD-40A1-9DCA-BC7647C4C65E}|Api_Tienda_TP\\Api_Tienda_TP.csproj|c:\\users\\loren\\onedrive\\escritorio\\curso .net\\.net-asp-windowsforms-api\\api_tienda_tp\\api_tienda_tp\\datos\\tiendadbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1B421531-23AD-40A1-9DCA-BC7647C4C65E}|Api_Tienda_TP\\Api_Tienda_TP.csproj|solutionrelative:api_tienda_tp\\datos\\tiendadbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1B421531-23AD-40A1-9DCA-BC7647C4C65E}|Api_Tienda_TP\\Api_Tienda_TP.csproj|c:\\users\\loren\\onedrive\\escritorio\\curso .net\\.net-asp-windowsforms-api\\api_tienda_tp\\api_tienda_tp\\negocio\\implementacion\\bl_productoelectronico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1B421531-23AD-40A1-9DCA-BC7647C4C65E}|Api_Tienda_TP\\Api_Tienda_TP.csproj|solutionrelative:api_tienda_tp\\negocio\\implementacion\\bl_productoelectronico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1B421531-23AD-40A1-9DCA-BC7647C4C65E}|Api_Tienda_TP\\Api_Tienda_TP.csproj|c:\\users\\loren\\onedrive\\escritorio\\curso .net\\.net-asp-windowsforms-api\\api_tienda_tp\\api_tienda_tp\\negocio\\interfaz\\ibl_productoapilas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1B421531-23AD-40A1-9DCA-BC7647C4C65E}|Api_Tienda_TP\\Api_Tienda_TP.csproj|solutionrelative:api_tienda_tp\\negocio\\interfaz\\ibl_productoapilas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1B421531-23AD-40A1-9DCA-BC7647C4C65E}|Api_Tienda_TP\\Api_Tienda_TP.csproj|c:\\users\\loren\\onedrive\\escritorio\\curso .net\\.net-asp-windowsforms-api\\api_tienda_tp\\api_tienda_tp\\negocio\\interfaz\\ibl_cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1B421531-23AD-40A1-9DCA-BC7647C4C65E}|Api_Tienda_TP\\Api_Tienda_TP.csproj|solutionrelative:api_tienda_tp\\negocio\\interfaz\\ibl_cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1B421531-23AD-40A1-9DCA-BC7647C4C65E}|Api_Tienda_TP\\Api_Tienda_TP.csproj|c:\\users\\loren\\onedrive\\escritorio\\curso .net\\.net-asp-windowsforms-api\\api_tienda_tp\\api_tienda_tp\\api_tienda_tp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -148,47 +148,154 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "IBL_Proveedor.cs",
-              "DocumentMoniker": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\Api_Tienda_TP\\Api_Tienda_TP\\Negocio\\Interfaz\\IBL_Proveedor.cs",
-              "RelativeDocumentMoniker": "Api_Tienda_TP\\Negocio\\Interfaz\\IBL_Proveedor.cs",
-              "ToolTip": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\Api_Tienda_TP\\Api_Tienda_TP\\Negocio\\Interfaz\\IBL_Proveedor.cs",
-              "RelativeToolTip": "Api_Tienda_TP\\Negocio\\Interfaz\\IBL_Proveedor.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "BL_ProductoAPilas.cs",
+              "DocumentMoniker": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\Api_Tienda_TP\\Api_Tienda_TP\\Negocio\\Implementacion\\BL_ProductoAPilas.cs",
+              "RelativeDocumentMoniker": "Api_Tienda_TP\\Negocio\\Implementacion\\BL_ProductoAPilas.cs",
+              "ToolTip": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\Api_Tienda_TP\\Api_Tienda_TP\\Negocio\\Implementacion\\BL_ProductoAPilas.cs",
+              "RelativeToolTip": "Api_Tienda_TP\\Negocio\\Implementacion\\BL_ProductoAPilas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-30T03:02:32.469Z"
+              "WhenOpened": "2024-10-08T21:26:47.352Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 4,
+              "Title": "BL_ProductoElectronico.cs",
+              "DocumentMoniker": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\Api_Tienda_TP\\Api_Tienda_TP\\Negocio\\Implementacion\\BL_ProductoElectronico.cs",
+              "RelativeDocumentMoniker": "Api_Tienda_TP\\Negocio\\Implementacion\\BL_ProductoElectronico.cs",
+              "ToolTip": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\Api_Tienda_TP\\Api_Tienda_TP\\Negocio\\Implementacion\\BL_ProductoElectronico.cs",
+              "RelativeToolTip": "Api_Tienda_TP\\Negocio\\Implementacion\\BL_ProductoElectronico.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T19:52:35.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductoController.cs",
+              "DocumentMoniker": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\Api_Tienda_TP\\Api_Tienda_TP\\Controllers\\ProductoController.cs",
+              "RelativeDocumentMoniker": "Api_Tienda_TP\\Controllers\\ProductoController.cs",
+              "ToolTip": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\Api_Tienda_TP\\Api_Tienda_TP\\Controllers\\ProductoController.cs",
+              "RelativeToolTip": "Api_Tienda_TP\\Controllers\\ProductoController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBoAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T00:23:43.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductoElectronicoController.cs",
+              "DocumentMoniker": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\Api_Tienda_TP\\Api_Tienda_TP\\Controllers\\ProductoElectronicoController.cs",
+              "RelativeDocumentMoniker": "Api_Tienda_TP\\Controllers\\ProductoElectronicoController.cs",
+              "ToolTip": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\Api_Tienda_TP\\Api_Tienda_TP\\Controllers\\ProductoElectronicoController.cs",
+              "RelativeToolTip": "Api_Tienda_TP\\Controllers\\ProductoElectronicoController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB4AAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T00:24:06.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProveedorController.cs",
+              "DocumentMoniker": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\Api_Tienda_TP\\Api_Tienda_TP\\Controllers\\ProveedorController.cs",
+              "RelativeDocumentMoniker": "Api_Tienda_TP\\Controllers\\ProveedorController.cs",
+              "ToolTip": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\Api_Tienda_TP\\Api_Tienda_TP\\Controllers\\ProveedorController.cs",
+              "RelativeToolTip": "Api_Tienda_TP\\Controllers\\ProveedorController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T00:24:11.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductoAPilasController.cs",
+              "DocumentMoniker": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\Api_Tienda_TP\\Api_Tienda_TP\\Controllers\\ProductoAPilasController.cs",
+              "RelativeDocumentMoniker": "Api_Tienda_TP\\Controllers\\ProductoAPilasController.cs",
+              "ToolTip": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\Api_Tienda_TP\\Api_Tienda_TP\\Controllers\\ProductoAPilasController.cs",
+              "RelativeToolTip": "Api_Tienda_TP\\Controllers\\ProductoAPilasController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwB0AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T00:23:38.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BL_Producto.cs",
+              "DocumentMoniker": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\Api_Tienda_TP\\Api_Tienda_TP\\Negocio\\Implementacion\\BL_Producto.cs",
+              "RelativeDocumentMoniker": "Api_Tienda_TP\\Negocio\\Implementacion\\BL_Producto.cs",
+              "ToolTip": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\Api_Tienda_TP\\Api_Tienda_TP\\Negocio\\Implementacion\\BL_Producto.cs",
+              "RelativeToolTip": "Api_Tienda_TP\\Negocio\\Implementacion\\BL_Producto.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAIAwwGQAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T21:21:44.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "IBL_Producto.cs",
               "DocumentMoniker": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\Api_Tienda_TP\\Api_Tienda_TP\\Negocio\\Interfaz\\IBL_Producto.cs",
               "RelativeDocumentMoniker": "Api_Tienda_TP\\Negocio\\Interfaz\\IBL_Producto.cs",
               "ToolTip": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\Api_Tienda_TP\\Api_Tienda_TP\\Negocio\\Interfaz\\IBL_Producto.cs",
               "RelativeToolTip": "Api_Tienda_TP\\Negocio\\Interfaz\\IBL_Producto.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAASwA8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAhwA4AAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-20T18:00:13.936Z"
+              "WhenOpened": "2024-10-20T18:00:13.936Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "IBL_Venta.cs",
-              "DocumentMoniker": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\Api_Tienda_TP\\Api_Tienda_TP\\Negocio\\Interfaz\\IBL_Venta.cs",
-              "RelativeDocumentMoniker": "Api_Tienda_TP\\Negocio\\Interfaz\\IBL_Venta.cs",
-              "ToolTip": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\Api_Tienda_TP\\Api_Tienda_TP\\Negocio\\Interfaz\\IBL_Venta.cs",
-              "RelativeToolTip": "Api_Tienda_TP\\Negocio\\Interfaz\\IBL_Venta.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "DocumentIndex": 8,
+              "Title": "IBL_ProductoElectronico.cs",
+              "DocumentMoniker": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\Api_Tienda_TP\\Api_Tienda_TP\\Negocio\\Interfaz\\IBL_ProductoElectronico.cs",
+              "RelativeDocumentMoniker": "Api_Tienda_TP\\Negocio\\Interfaz\\IBL_ProductoElectronico.cs",
+              "ToolTip": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\Api_Tienda_TP\\Api_Tienda_TP\\Negocio\\Interfaz\\IBL_ProductoElectronico.cs",
+              "RelativeToolTip": "Api_Tienda_TP\\Negocio\\Interfaz\\IBL_ProductoElectronico.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-30T03:03:10.224Z"
+              "WhenOpened": "2024-10-20T18:15:17.655Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 9,
+              "Title": "IBL_ProductoAPilas.cs",
+              "DocumentMoniker": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\Api_Tienda_TP\\Api_Tienda_TP\\Negocio\\Interfaz\\IBL_ProductoAPilas.cs",
+              "RelativeDocumentMoniker": "Api_Tienda_TP\\Negocio\\Interfaz\\IBL_ProductoAPilas.cs",
+              "ToolTip": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\Api_Tienda_TP\\Api_Tienda_TP\\Negocio\\Interfaz\\IBL_ProductoAPilas.cs",
+              "RelativeToolTip": "Api_Tienda_TP\\Negocio\\Interfaz\\IBL_ProductoAPilas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T18:14:50.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BL_Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\Api_Tienda_TP\\Api_Tienda_TP\\Negocio\\Implementacion\\BL_Cliente.cs",
+              "RelativeDocumentMoniker": "Api_Tienda_TP\\Negocio\\Implementacion\\BL_Cliente.cs",
+              "ToolTip": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\Api_Tienda_TP\\Api_Tienda_TP\\Negocio\\Implementacion\\BL_Cliente.cs",
+              "RelativeToolTip": "Api_Tienda_TP\\Negocio\\Implementacion\\BL_Cliente.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAADwvyIAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T21:19:42.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "BL_Proveedor.cs",
               "DocumentMoniker": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\Api_Tienda_TP\\Api_Tienda_TP\\Negocio\\Implementacion\\BL_Proveedor.cs",
               "RelativeDocumentMoniker": "Api_Tienda_TP\\Negocio\\Implementacion\\BL_Proveedor.cs",
@@ -196,35 +303,64 @@
               "RelativeToolTip": "Api_Tienda_TP\\Negocio\\Implementacion\\BL_Proveedor.cs",
               "ViewState": "AgIAAHkAAAAAAAAAAADwv0kAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-08T21:28:22.527Z"
+              "WhenOpened": "2024-10-08T21:28:22.527Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "BL_Venta.cs",
-              "DocumentMoniker": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\Api_Tienda_TP\\Api_Tienda_TP\\Negocio\\Implementacion\\BL_Venta.cs",
-              "RelativeDocumentMoniker": "Api_Tienda_TP\\Negocio\\Implementacion\\BL_Venta.cs",
-              "ToolTip": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\Api_Tienda_TP\\Api_Tienda_TP\\Negocio\\Implementacion\\BL_Venta.cs",
-              "RelativeToolTip": "Api_Tienda_TP\\Negocio\\Implementacion\\BL_Venta.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBcAAABJAAAAAAAAAA==",
+              "DocumentIndex": 12,
+              "Title": "IBL_Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\Api_Tienda_TP\\Api_Tienda_TP\\Negocio\\Interfaz\\IBL_Cliente.cs",
+              "RelativeDocumentMoniker": "Api_Tienda_TP\\Negocio\\Interfaz\\IBL_Cliente.cs",
+              "ToolTip": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\Api_Tienda_TP\\Api_Tienda_TP\\Negocio\\Interfaz\\IBL_Cliente.cs",
+              "RelativeToolTip": "Api_Tienda_TP\\Negocio\\Interfaz\\IBL_Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-08T21:29:09.58Z"
+              "WhenOpened": "2024-10-20T19:32:40.973Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "IBL_ProductoElectronico.cs",
-              "DocumentMoniker": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\Api_Tienda_TP\\Api_Tienda_TP\\Negocio\\Interfaz\\IBL_ProductoElectronico.cs",
-              "RelativeDocumentMoniker": "Api_Tienda_TP\\Negocio\\Interfaz\\IBL_ProductoElectronico.cs",
-              "ToolTip": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\Api_Tienda_TP\\Api_Tienda_TP\\Negocio\\Interfaz\\IBL_ProductoElectronico.cs",
-              "RelativeToolTip": "Api_Tienda_TP\\Negocio\\Interfaz\\IBL_ProductoElectronico.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAYAAAAAAAAAA==",
+              "DocumentIndex": 13,
+              "Title": "IBL_Proveedor.cs",
+              "DocumentMoniker": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\Api_Tienda_TP\\Api_Tienda_TP\\Negocio\\Interfaz\\IBL_Proveedor.cs",
+              "RelativeDocumentMoniker": "Api_Tienda_TP\\Negocio\\Interfaz\\IBL_Proveedor.cs",
+              "ToolTip": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\Api_Tienda_TP\\Api_Tienda_TP\\Negocio\\Interfaz\\IBL_Proveedor.cs",
+              "RelativeToolTip": "Api_Tienda_TP\\Negocio\\Interfaz\\IBL_Proveedor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-20T18:15:17.655Z"
+              "WhenOpened": "2024-10-30T03:02:32.469Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 14,
+              "Title": "ClienteController.cs",
+              "DocumentMoniker": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\Api_Tienda_TP\\Api_Tienda_TP\\Controllers\\ClienteController.cs",
+              "RelativeDocumentMoniker": "Api_Tienda_TP\\Controllers\\ClienteController.cs",
+              "ToolTip": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\Api_Tienda_TP\\Api_Tienda_TP\\Controllers\\ClienteController.cs",
+              "RelativeToolTip": "Api_Tienda_TP\\Controllers\\ClienteController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBsAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T22:17:01.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TiendaDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\Api_Tienda_TP\\Api_Tienda_TP\\Datos\\TiendaDbContext.cs",
+              "RelativeDocumentMoniker": "Api_Tienda_TP\\Datos\\TiendaDbContext.cs",
+              "ToolTip": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\Api_Tienda_TP\\Api_Tienda_TP\\Datos\\TiendaDbContext.cs",
+              "RelativeToolTip": "Api_Tienda_TP\\Datos\\TiendaDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T21:34:51.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\Api_Tienda_TP\\Api_Tienda_TP\\Program.cs",
               "RelativeDocumentMoniker": "Api_Tienda_TP\\Program.cs",
@@ -237,7 +373,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 17,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\Api_Tienda_TP\\Api_Tienda_TP\\appsettings.json",
               "RelativeDocumentMoniker": "Api_Tienda_TP\\appsettings.json",
@@ -249,7 +385,31 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 18,
+              "Title": "BL_Venta.cs",
+              "DocumentMoniker": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\Api_Tienda_TP\\Api_Tienda_TP\\Negocio\\Implementacion\\BL_Venta.cs",
+              "RelativeDocumentMoniker": "Api_Tienda_TP\\Negocio\\Implementacion\\BL_Venta.cs",
+              "ToolTip": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\Api_Tienda_TP\\Api_Tienda_TP\\Negocio\\Implementacion\\BL_Venta.cs",
+              "RelativeToolTip": "Api_Tienda_TP\\Negocio\\Implementacion\\BL_Venta.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBcAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T21:29:09.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IBL_Venta.cs",
+              "DocumentMoniker": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\Api_Tienda_TP\\Api_Tienda_TP\\Negocio\\Interfaz\\IBL_Venta.cs",
+              "RelativeDocumentMoniker": "Api_Tienda_TP\\Negocio\\Interfaz\\IBL_Venta.cs",
+              "ToolTip": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\Api_Tienda_TP\\Api_Tienda_TP\\Negocio\\Interfaz\\IBL_Venta.cs",
+              "RelativeToolTip": "Api_Tienda_TP\\Negocio\\Interfaz\\IBL_Venta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T03:03:10.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
               "Title": "VentasController.cs",
               "DocumentMoniker": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\Api_Tienda_TP\\Api_Tienda_TP\\Controllers\\VentasController.cs",
               "RelativeDocumentMoniker": "Api_Tienda_TP\\Controllers\\VentasController.cs",
@@ -261,115 +421,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ProveedorController.cs",
-              "DocumentMoniker": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\Api_Tienda_TP\\Api_Tienda_TP\\Controllers\\ProveedorController.cs",
-              "RelativeDocumentMoniker": "Api_Tienda_TP\\Controllers\\ProveedorController.cs",
-              "ToolTip": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\Api_Tienda_TP\\Api_Tienda_TP\\Controllers\\ProveedorController.cs",
-              "RelativeToolTip": "Api_Tienda_TP\\Controllers\\ProveedorController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-09T00:24:11.113Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "ProductoController.cs",
-              "DocumentMoniker": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\Api_Tienda_TP\\Api_Tienda_TP\\Controllers\\ProductoController.cs",
-              "RelativeDocumentMoniker": "Api_Tienda_TP\\Controllers\\ProductoController.cs",
-              "ToolTip": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\Api_Tienda_TP\\Api_Tienda_TP\\Controllers\\ProductoController.cs",
-              "RelativeToolTip": "Api_Tienda_TP\\Controllers\\ProductoController.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAQwBoAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-09T00:23:43.599Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "ProductoElectronicoController.cs",
-              "DocumentMoniker": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\Api_Tienda_TP\\Api_Tienda_TP\\Controllers\\ProductoElectronicoController.cs",
-              "RelativeDocumentMoniker": "Api_Tienda_TP\\Controllers\\ProductoElectronicoController.cs",
-              "ToolTip": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\Api_Tienda_TP\\Api_Tienda_TP\\Controllers\\ProductoElectronicoController.cs",
-              "RelativeToolTip": "Api_Tienda_TP\\Controllers\\ProductoElectronicoController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-09T00:24:06.457Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "BL_ProductoAPilas.cs",
-              "DocumentMoniker": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\Api_Tienda_TP\\Api_Tienda_TP\\Negocio\\Implementacion\\BL_ProductoAPilas.cs",
-              "RelativeDocumentMoniker": "Api_Tienda_TP\\Negocio\\Implementacion\\BL_ProductoAPilas.cs",
-              "ToolTip": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\Api_Tienda_TP\\Api_Tienda_TP\\Negocio\\Implementacion\\BL_ProductoAPilas.cs",
-              "RelativeToolTip": "Api_Tienda_TP\\Negocio\\Implementacion\\BL_ProductoAPilas.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-08T21:26:47.352Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "BL_Producto.cs",
-              "DocumentMoniker": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\Api_Tienda_TP\\Api_Tienda_TP\\Negocio\\Implementacion\\BL_Producto.cs",
-              "RelativeDocumentMoniker": "Api_Tienda_TP\\Negocio\\Implementacion\\BL_Producto.cs",
-              "ToolTip": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\Api_Tienda_TP\\Api_Tienda_TP\\Negocio\\Implementacion\\BL_Producto.cs",
-              "RelativeToolTip": "Api_Tienda_TP\\Negocio\\Implementacion\\BL_Producto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-08T21:21:44.43Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "BL_Cliente.cs",
-              "DocumentMoniker": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\Api_Tienda_TP\\Api_Tienda_TP\\Negocio\\Implementacion\\BL_Cliente.cs",
-              "RelativeDocumentMoniker": "Api_Tienda_TP\\Negocio\\Implementacion\\BL_Cliente.cs",
-              "ToolTip": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\Api_Tienda_TP\\Api_Tienda_TP\\Negocio\\Implementacion\\BL_Cliente.cs",
-              "RelativeToolTip": "Api_Tienda_TP\\Negocio\\Implementacion\\BL_Cliente.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAkwCIAAABCAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-08T21:19:42.275Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "TiendaDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\Api_Tienda_TP\\Api_Tienda_TP\\Datos\\TiendaDbContext.cs",
-              "RelativeDocumentMoniker": "Api_Tienda_TP\\Datos\\TiendaDbContext.cs",
-              "ToolTip": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\Api_Tienda_TP\\Api_Tienda_TP\\Datos\\TiendaDbContext.cs",
-              "RelativeToolTip": "Api_Tienda_TP\\Datos\\TiendaDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-08T21:34:51.385Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "ClienteController.cs",
-              "DocumentMoniker": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\Api_Tienda_TP\\Api_Tienda_TP\\Controllers\\ClienteController.cs",
-              "RelativeDocumentMoniker": "Api_Tienda_TP\\Controllers\\ClienteController.cs",
-              "ToolTip": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\Api_Tienda_TP\\Api_Tienda_TP\\Controllers\\ClienteController.cs",
-              "RelativeToolTip": "Api_Tienda_TP\\Controllers\\ClienteController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-08T22:17:01.01Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "ProductoAPilasController.cs",
-              "DocumentMoniker": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\Api_Tienda_TP\\Api_Tienda_TP\\Controllers\\ProductoAPilasController.cs",
-              "RelativeDocumentMoniker": "Api_Tienda_TP\\Controllers\\ProductoAPilasController.cs",
-              "ToolTip": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\Api_Tienda_TP\\Api_Tienda_TP\\Controllers\\ProductoAPilasController.cs",
-              "RelativeToolTip": "Api_Tienda_TP\\Controllers\\ProductoAPilasController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-09T00:23:38.331Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 21,
               "Title": "TiendaDbContextFactory.cs",
               "DocumentMoniker": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\Api_Tienda_TP\\Api_Tienda_TP\\Datos\\TiendaDbContextFactory.cs",
               "RelativeDocumentMoniker": "Api_Tienda_TP\\Datos\\TiendaDbContextFactory.cs",
@@ -378,42 +430,6 @@
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-31T20:39:06.092Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "BL_ProductoElectronico.cs",
-              "DocumentMoniker": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\Api_Tienda_TP\\Api_Tienda_TP\\Negocio\\Implementacion\\BL_ProductoElectronico.cs",
-              "RelativeDocumentMoniker": "Api_Tienda_TP\\Negocio\\Implementacion\\BL_ProductoElectronico.cs",
-              "ToolTip": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\Api_Tienda_TP\\Api_Tienda_TP\\Negocio\\Implementacion\\BL_ProductoElectronico.cs",
-              "RelativeToolTip": "Api_Tienda_TP\\Negocio\\Implementacion\\BL_ProductoElectronico.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-08T19:52:35.039Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "IBL_ProductoAPilas.cs",
-              "DocumentMoniker": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\Api_Tienda_TP\\Api_Tienda_TP\\Negocio\\Interfaz\\IBL_ProductoAPilas.cs",
-              "RelativeDocumentMoniker": "Api_Tienda_TP\\Negocio\\Interfaz\\IBL_ProductoAPilas.cs",
-              "ToolTip": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\Api_Tienda_TP\\Api_Tienda_TP\\Negocio\\Interfaz\\IBL_ProductoAPilas.cs",
-              "RelativeToolTip": "Api_Tienda_TP\\Negocio\\Interfaz\\IBL_ProductoAPilas.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-20T18:14:50.33Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "IBL_Cliente.cs",
-              "DocumentMoniker": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\Api_Tienda_TP\\Api_Tienda_TP\\Negocio\\Interfaz\\IBL_Cliente.cs",
-              "RelativeDocumentMoniker": "Api_Tienda_TP\\Negocio\\Interfaz\\IBL_Cliente.cs",
-              "ToolTip": "C:\\Users\\loren\\OneDrive\\Escritorio\\Curso .NET\\.NET-ASP-WindowsForms-Api\\Api_Tienda_TP\\Api_Tienda_TP\\Negocio\\Interfaz\\IBL_Cliente.cs",
-              "RelativeToolTip": "Api_Tienda_TP\\Negocio\\Interfaz\\IBL_Cliente.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-20T19:32:40.973Z"
             },
             {
               "$type": "Document",

@@ -1,0 +1,36 @@
+﻿@*
+    Index de Los Productos
+*@
+@model List<ProyectoCompartido.ProductoElectronico>
+
+<h2>Lista de Productos Electronicos</h2>
+<br />
+<a asp-action="AgregarProductoElectronico" class="btn btn-success">Agregar Producto Electronico</a>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Nombre</th>
+            <th>Precio</th>
+            <th>Cantidad</th>
+            <th>Voltaje</th>
+            <th>Opciones</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var producto in Model)
+        {
+            <tr>
+                <td>@producto.Nombre</td>
+                <td>@producto.Precio</td>
+                <td>@producto.Cantidad</td>
+                <td>@producto.Voltaje</td>
+                <td>
+                    <a asp-action="DetallesElectronico" asp-route-id="@producto.Id" class="btn btn-primary">Detalle</a>
+                    <a asp-action="ActualizarProductoElectronico" asp-route-id="@producto.Id" class="btn btn-warning">Actualizar</a>
+                    <a asp-action="EliminarProductoElectronico" asp-route-id="@producto.Id" class="btn btn-danger">Eliminar</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

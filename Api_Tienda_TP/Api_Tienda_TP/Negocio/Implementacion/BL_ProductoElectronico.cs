@@ -16,6 +16,10 @@ namespace Api_Tienda_TP.Negocio.Implementacion
             _context = context;
         }
 
+        ProductoElectronico IBL_ProductoElectronico.ObtenerProductoElectronico(int _idProducto)
+        {
+            return _context.ProductosElectronicos.FirstOrDefault(p => p.Id == _idProducto);
+        }
         // Obtener todos los productos desde la base de datos
         List<ProductoElectronico> IBL_ProductoElectronico.ObtenerProductosElectronicos()
         {

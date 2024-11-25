@@ -23,7 +23,12 @@ namespace Api_Tienda_TP.Controllers
         {
             return _productoAPilas.ObtenerProductosAPilas();
         }
-
+        [HttpGet]
+        [Route("ListarProductoAPilasPorId")]
+        public ActionResult<Producto> ObtenerProductoPorId(int _id)
+        {
+            return _productoAPilas.ObtenerProductoAPilas(_id);
+        }
         [HttpGet]
         [Route("ListarProductosAPilasPorProveedor")]
         public ActionResult<IEnumerable<ProductoAPilas>> ObtenerProductosAPilasPorProveedor(int IdProveedor)

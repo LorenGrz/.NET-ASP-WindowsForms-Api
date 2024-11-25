@@ -11,7 +11,7 @@
     <h6>Descripcion: @Model.Descripcion</h6>
 </div>
 
-<form asp-action="Eliminar" method="post" asp-route-id="@Model.Id">
+<form asp-action="ConfirmarEliminacionProducto" method="post" asp-route-id="@Model.Id">
     <button type="submit" class="btn btn-danger">Eliminar</button>
     <button asp-action="Index" class="btn btn-dark">Cancelar</button>
 </form>

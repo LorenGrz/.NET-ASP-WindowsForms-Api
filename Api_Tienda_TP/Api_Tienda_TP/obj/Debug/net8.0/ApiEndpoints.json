@@ -371,6 +371,32 @@
   },
   {
     "ContainingType": "Api_Tienda_TP.Controllers.ProductoAPilasController",
+    "Method": "ObtenerProductoPorId",
+    "RelativePath": "ProductoAPilas/ListarProductoAPilasPorId",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "_id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "ProyectoCompartido.Producto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Api_Tienda_TP.Controllers.ProductoAPilasController",
     "Method": "ObtenerProductosAPilas",
     "RelativePath": "ProductoAPilas/ListarProductosAPilas",
     "HttpMethod": "GET",
@@ -489,6 +515,32 @@
     "ReturnTypes": [
       {
         "Type": "System.String",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Api_Tienda_TP.Controllers.ProductoElectronicoController",
+    "Method": "ObtenerProductoPorId",
+    "RelativePath": "ProductoElectronico/ListarProductoElectronicoPorId",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "_id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "ProyectoCompartido.Producto",
         "MediaTypes": [
           "text/plain",
           "application/json",

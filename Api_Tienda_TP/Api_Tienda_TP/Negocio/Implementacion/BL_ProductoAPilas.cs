@@ -14,6 +14,10 @@ namespace Api_Tienda_TP.Negocio.Implementacion
         {
             _context = context;
         }
+        ProductoAPilas IBL_ProductoAPilas.ObtenerProductoAPilas(int _idProducto)
+        {
+            return _context.ProductosAPilas.FirstOrDefault(p => p.Id == _idProducto);
+        }
 
         // Obtener todos los productos desde la base de datos
         List<ProductoAPilas> IBL_ProductoAPilas.ObtenerProductosAPilas()

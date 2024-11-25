@@ -9,9 +9,8 @@ a.navbar-brand[b-pjui42a0te] {
     
 }
 
-header[b-pjui42a0te] {
-    color: gray;
-    background-color: gray;
+.dropdown-menu a:hover[b-pjui42a0te]{
+    background-color: none;
 }
 
 nav[b-pjui42a0te] {

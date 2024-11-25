@@ -1,0 +1,19 @@
+@model ProyectoCompartido.ProductoAPilas;
+
+<h1>Confirmar Eliminacion</h1>
+
+<div>
+    <h5>Estas seguro que deseas eliminar el producto?</h5>
+    <h6>Id: @Model.Id</h6>
+    <h6>Nombre: @Model.Nombre</h6>
+    <h6>Precio: @Model.Precio</h6>
+    <h6>Cantidad: @Model.Cantidad</h6>
+    <h6>Cantidad de Pilas: @Model.CantPilas</h6>
+    <h6>Tipo de Pilas: @Model.Tipo</h6>
+    <h6>Descripcion: @Model.Descripcion</h6>
+</div>
+
+<form asp-action="ConfirmarEliminacionProductoAPilas" method="post" asp-route-id="@Model.Id">
+    <button type="submit" class="btn btn-danger">Eliminar</button>
+    <button asp-action="Index" class="btn btn-dark">Cancelar</button>
+</form>

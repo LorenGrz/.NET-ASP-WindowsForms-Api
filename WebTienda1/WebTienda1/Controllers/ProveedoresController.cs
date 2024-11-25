@@ -44,7 +44,7 @@ namespace WebTienda1.Controllers
             if (respuesta.IsSuccessStatusCode)
             {
                 var contenido = await respuesta.Content.ReadAsStringAsync();
-                var proveedor = JsonConvert.DeserializeObject<List<Proveedor>>(contenido);
+                var proveedor = JsonConvert.DeserializeObject<Proveedor>(contenido);
                 return View(proveedor);
             }
             else
@@ -74,11 +74,11 @@ namespace WebTienda1.Controllers
 
         public async Task<IActionResult> ActualizarProveedor(int id)
         {
-            var respuesta = await _httpClient.GetAsync($"/Proveedor/ListarProveedorPorId?_id={id}");
+            var respuesta = await _httpClient.GetAsync($"Proveedor/ListarProveedorPorId?_id={id}");
             if (respuesta.IsSuccessStatusCode)
             {
                 var contenido = await respuesta.Content.ReadAsStringAsync();
-                var proveedor = JsonConvert.DeserializeObject<List<Proveedor>>(contenido);
+                var proveedor = JsonConvert.DeserializeObject<Proveedor>(contenido);
                 return View(proveedor);
             }
             else
@@ -103,11 +103,11 @@ namespace WebTienda1.Controllers
 
         public async Task<IActionResult> EliminarProveedor(int id)
         {
-            var respuesta = await _httpClient.GetAsync($"/Producto/ListarProveedorPorId?_id={id}");
+            var respuesta = await _httpClient.GetAsync($"Proveedor/ListarProveedorPorId?_id={id}");
             if (respuesta.IsSuccessStatusCode)
             {
                 var contenido = await respuesta.Content.ReadAsStringAsync();
-                var proveedor = JsonConvert.DeserializeObject<List<Proveedor>>(contenido);
+                var proveedor = JsonConvert.DeserializeObject<Proveedor>(contenido);
                 return View(proveedor);
             }
             else
@@ -116,7 +116,7 @@ namespace WebTienda1.Controllers
             }
         }
 
-        [HttpDelete, ActionName("Eliminar")]
+        [HttpDelete, ActionName("ConfirmarEliminacionProveedor")]
         public async Task<IActionResult> ConfirmarEliminacionProveedor(int id)
         {
             var respuesta = await _httpClient.DeleteAsync($"/Proveedor/EliminarProveedor?_id={id}");

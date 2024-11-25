@@ -6,6 +6,8 @@ namespace Api_Tienda_TP.Negocio.Interfaz
     {
         void ActualizarProductoElectronico(ProductoElectronico productoElectronico, decimal nuevoPrecio, int nuevaCantidad);
         string EliminarProductoElectronicoDeLista(int Id);
+        ProductoElectronico ObtenerProductoElectronico(int IdProducto);
+
         List<ProductoElectronico> ObtenerProductosElectronicos();
         List<ProductoElectronico> ObtenerProductosElectronicosPorProveedor(int idProveedor);
         ProductoElectronico RegistrarProductoElectronico(ProductoElectronico productoElectronico);
