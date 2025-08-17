@@ -6,11 +6,11 @@ Solución de **tienda / gestión de stock** con tres capas:
 - **App de escritorio (Windows Forms)** para control de stock.
 
 ## 📦 Estructura
-Entrega/
-├─ Api_Tienda_TP/ # API REST (ASP.NET Core Web API)
-├─ WebTienda1/ # Aplicación Web (ASP.NET)
-├─ ControlStockWindowsForms/ # App de escritorio (WinForms)
-├─ ProyectoCompartido/ # Modelos/DTOs/utilidades compartidas (si aplica)
+Entrega/<br>
+├─ Api_Tienda_TP/ # API REST (ASP.NET Core Web API)<br>
+├─ WebTienda1/ # Aplicación Web (ASP.NET)<br>
+├─ ControlStockWindowsForms/ # App de escritorio (WinForms)<br>
+├─ ProyectoCompartido/ # Modelos/DTOs/utilidades compartidas (si aplica)<br>
 └─ README.md
 ## 🧠 Arquitectura (resumen)
 
