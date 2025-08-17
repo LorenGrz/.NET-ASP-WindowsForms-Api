@@ -27,7 +27,7 @@ Entrega/
 - **Visual Studio 2022** o **VS Code**.
 - **SQL Server** y **connection string**.
 
-🏗️ Tecnologías
+## 🏗️ Tecnologías
 
 .NET (API, Web, WinForms)
 
@@ -37,6 +37,6 @@ Entity Framework / ADO.NET
 
 SQL Server
 
-👤 Autor
+## 👤 Autor
 
 LorenGrz — Proyecto de entrega con API + Web + WinForms.
